@@ -10,8 +10,8 @@ public class Reverse {
         second.next=third;
         linkList.printLinkedList(linkList.head);
 
-//       Node n =  linkList.reverseIterative(linkList.head);
-//        linkList.printLinkedList(n);
+       Node n =  linkList.reverseIterative(linkList.head);
+        linkList.printLinkedList(n);
         linkList.reverseRecursive(linkList.head);
         linkList.printLinkedList(linkList.head);
 

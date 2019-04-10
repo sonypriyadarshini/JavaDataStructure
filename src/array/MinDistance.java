@@ -3,9 +3,9 @@ package array;
 
 public class MinDistance {
     public static void main(String args[]){
-        int arr[]={1,4,2,3,4,5,2,3,4,5};
+        int arr[]={1,4,2,3,4,2,3,4,5};
         MinDistance minDistance = new MinDistance();
-        minDistance.findDistance(arr,2,3);
+        minDistance.findDistance(arr,2,5);
     }
 
     public void findDistance(int array[], int a, int b){

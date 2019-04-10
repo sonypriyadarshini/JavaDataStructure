@@ -2,14 +2,16 @@ package array;
 
 public class MaxSubarraySum {
     public static void main(String args[]){
-        int arr[]={2,3,-7,3,5,1};
+        int arr[]={2,3,-7,3,10,1};
         MaxSubarraySum maxArraySum = new MaxSubarraySum();
         System.out.println(maxArraySum.arraySum(arr));
+        maxArraySum.arraySumNeg(arr);
 //        System.out.println(maxArraySum.subarrayCountSum(arr, 5));
     }
 
     //Largest Sum Contiguous Subarray
     //Size of The Subarray With Maximum Sum
+//Kadane's algorithm. but works only when at least one number is +ve in the array
 
     public int arraySum(int array[]){
 

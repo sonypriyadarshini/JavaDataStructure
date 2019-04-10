@@ -17,7 +17,7 @@ public class Deletion {
        linkList.validateCircular();
     }
 
-    Node head;
+          Node head;
     static class Node {
         int data;
         Node next;

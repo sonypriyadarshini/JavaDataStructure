@@ -11,7 +11,7 @@ public class LengthOfLoop {
         linklist.head.next = second;
         second.next = third;
         third.next=fourth;
-        fourth.next=third;
+        fourth.next=linklist.head;
         linklist.findLoopLength(linklist.head);
 
     }

@@ -3,7 +3,7 @@ package array;
 //Rearrange an array such that arr[i] = i. if -1, ignore
 public class RearrangeArray {
     public static void main(String[] args) {
-        int arr[]={-1,-1,6,3,5,4,3};
+        int arr[]={-1,-1,6,2,5,4,3};
         RearrangeArray rearrangeArray = new RearrangeArray();
         rearrangeArray.fix(arr);
     }

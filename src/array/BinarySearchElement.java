@@ -1,11 +1,11 @@
 package array;
 
 //Search an element in a sorted and rotated array
-public class SearchElement {
+public class BinarySearchElement {
 
     public static void main(String args[]){
         int arr[]={1,2,3,4,5,6};
-        SearchElement searchElement = new SearchElement();
+        BinarySearchElement searchElement = new BinarySearchElement();
         System.out.println("Element is found at position: "+searchElement.binarySearch(arr,0,arr.length-1,5));
     }
 

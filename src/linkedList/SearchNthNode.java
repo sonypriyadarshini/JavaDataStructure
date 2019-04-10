@@ -2,6 +2,13 @@ package linkedList;
 
 import array.SecondLargestElement;
 
+import java.sql.Connection;
+import java.sql.Driver;
+import java.sql.DriverManager;
+import java.sql.ResultSet;
+import java.sql.SQLException;
+import java.sql.Statement;
+
 public class SearchNthNode {
     public static void main(String args[]){
         SearchNthNode linkList = new SearchNthNode();

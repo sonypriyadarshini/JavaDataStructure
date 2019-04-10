@@ -28,10 +28,10 @@ public class LengthRecursiveIterative {
 
     public int findLengthRecursive(Node node){
         Node temp =node;
-        if(temp==null) {
+        if(node==null) {
             return 0;
         }
-        return 1+findLengthRecursive(temp.next);
+        return 1+findLengthRecursive(node.next);
 
     }
 

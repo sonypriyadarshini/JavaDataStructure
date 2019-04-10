@@ -1,11 +1,9 @@
 package linkedList.doubleLinkedList;
 
-import linkedList.Deletion;
-
-public class Delete {
+public class DoubleLL {
 
     public static void main(String args[]){
-        Delete doubleLinkList = new Delete();
+        DoubleLL doubleLinkList = new DoubleLL();
         doubleLinkList.push(head,3);
         doubleLinkList.push(head,30);
         doubleLinkList.push(head,300);

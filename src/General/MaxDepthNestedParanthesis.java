@@ -2,7 +2,7 @@ package General;
 
 public class MaxDepthNestedParanthesis {
     public static void main(String args[]){
-        String s = "( ((X)) (((Y))) )";
+        String s = "( ((X)) (((Y))) ) ";
         char[] chars = s.toCharArray();
 
         int max=0, cur_max=0;
@@ -15,7 +15,7 @@ public class MaxDepthNestedParanthesis {
                 cur_max--;
             }
             else if(cur_max<0){
-                System.out.println("not paired");
+                System.out.println("not paired"+cur_max);
             return;}
         }
         System.out.println(" pair depth "+max);
