@@ -41,7 +41,7 @@ public class Delete {
         temp = temp.next;
         }
         prev.next=temp.next;
-        temp.next.next.prev=prev;
+        temp.next.prev=prev;
         temp.next=null;
         temp.prev=null;
     }
