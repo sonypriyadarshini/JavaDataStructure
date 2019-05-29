@@ -11,7 +11,7 @@ public class LongestSubString {
     }
 
     public static void longestSubSequence() {
-        int a[] = { 25, 2, 21, 5, 4, 52, 3, 4};
+        int a[] = { 25,7,8, 2, 21, 5, 4, 52, 3, 4,6};
         int temp = 0, count = 0;
         Set<Integer> set = new HashSet<>();
         for (int i : a)
@@ -23,7 +23,6 @@ public class LongestSubString {
                     temp++;
                 if (count < temp - a[i]) {
                     count = temp - a[i];
-                    temp = 0;
                 }
             }
         }

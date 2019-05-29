@@ -1,4 +1,4 @@
-package array;
+package array.optimization;
 
 //move zeroes to the end in a single traversal
 public class MoveZeros {

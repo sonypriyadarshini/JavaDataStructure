@@ -6,6 +6,7 @@ public class ReverseWords {
 
     public static void main(String args[]){
         reversewords();
+        reverseSentence();
     }
 
     public static void reversewords(){
@@ -25,6 +26,13 @@ public class ReverseWords {
         while (stack.empty() == false) {
             System.out.print(stack.pop());
 
+        }
+    }
+    public static void reverseSentence(){
+        String str="abc def gdhi";
+        String s[] = str.split(" ");
+        for(int i = s.length-1;i>=0;i--){
+            System.out.print(s[i]+" ");
         }
     }
 }

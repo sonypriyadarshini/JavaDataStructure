@@ -10,11 +10,12 @@ import java.util.Map;
 
 public class SumInPair {
     public static void main(String args[]){
-        int ar[] = {1,33,32,2,4,2,3,3,4,5,6};
-        int sum = 7;
+        int ar[] = {-10, 0, 2, -2, -20, 10};
+        int sum = 20;
         SumInPair sumInPair = new SumInPair();
-        sumInPair.findPair(ar,sum);
-        sumInPair.findPairUsingHash(ar,sum);
+//        sumInPair.findPair(ar,sum);
+//        sumInPair.findPairUsingHash(ar,sum);
+        sumInPair.findPairUsingMap(ar,sum);
     }
 
     //Complexity:: O(n^2)
@@ -36,6 +37,27 @@ public class SumInPair {
             if(hs.contains(temp))
                 System.out.println("pair is ("+arr[i]+" , "+temp+")");
             hs.add(arr[i]);
+        }
+    }
+
+    public void findPairUsingMap(int arr[], int sum){
+        HashMap<Integer,Integer> hm = new HashMap();
+        for(int i:arr) {
+            if (hm.containsKey(i))
+                hm.put(i, hm.get(i) + 1);
+            else
+                hm.put(i, 1);
+        }
+        for(int i=0;i<arr.length;i++){
+            int temp = sum-arr[i];
+            if(temp==arr[i]){
+                if(hm.get(temp)>1)
+                    System.out.println("pair is ("+arr[i]+" , "+temp+")");
+            }
+            else {
+                if(hm.containsKey(temp))
+                    System.out.println("pair is ("+arr[i]+" , "+temp+")");
+            }
         }
     }
 }

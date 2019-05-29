@@ -1,4 +1,4 @@
-package array;
+package array.optimization;
 
 //Find the subarray with least average
 /*Input:  arr[] = {3, 7, 90, 20, 10, 50, 40}, k = 3
@@ -11,6 +11,7 @@ public class MinSubArrayAvg {
         int arr[] = {3, 7, 90, 20, 10, 50, 40}, n=3;
         MinSubArrayAvg minSubArrayAvg = new MinSubArrayAvg();
         minSubArrayAvg.findAvg(arr,n);
+        minSubArrayAvg.findAvgDynamicProg(arr,n);
     }
 
     public void findAvg(int array[],int n) {
@@ -36,5 +37,22 @@ public class MinSubArrayAvg {
             }
         }
         System.out.println(avg);
+    }
+
+    public void findAvgDynamicProg(int array[],int n){
+        int curr_sum=0, k=n, min_sum=0, result_index=0;
+        for(int i =0;i<array.length;i++){
+            curr_sum+=array[i];
+        }
+        min_sum=curr_sum;
+        for(int i=k;i<array.length;i++){
+            curr_sum=curr_sum+array[i]-array[i-k];
+
+            if(curr_sum<min_sum){
+                min_sum=curr_sum;
+            result_index=i-k+1;
+            }
+        }
+        System.out.println("result is "+result_index+" , "+(result_index+k-1));
     }
 }

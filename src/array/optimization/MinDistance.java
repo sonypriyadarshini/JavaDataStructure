@@ -1,4 +1,4 @@
-package array;
+package array.optimization;
 //Find the minimum distance between two numbers
 
 public class MinDistance {

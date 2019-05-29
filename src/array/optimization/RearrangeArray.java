@@ -1,4 +1,4 @@
-package array;
+package array.optimization;
 
 //Rearrange an array such that arr[i] = i. if -1, ignore
 public class RearrangeArray {
