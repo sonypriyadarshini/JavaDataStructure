@@ -1,45 +1,25 @@
-class Node{
+class Node {
     int key_data;
     Node left, right;
-    public Node(int data){
-        key_data=data;
-        left= right=null;
+
+    public Node(int data) {
+        key_data = data;
+        left = right = null;
     }
 }
+
 public class BinaryTree {
     Node root;
 
-    BinaryTree(int data){
+    BinaryTree(int data) {
         root = new Node(data);
     }
-    BinaryTree(){
+
+    BinaryTree() {
         root = null;
     }
 
-    public void inorder(Node n){
-        if(n==null)
-            return;
-        inorder(n.left);
-        System.out.println(n.key_data);
-        inorder(n.right);
-    }
-
-    public void postorder(Node n){
-        if(n==null)
-            return;
-        postorder(n.left);
-        postorder(n.right);
-        System.out.println(n.key_data);
-    }
-
-    public void preorder(Node n){
-        if(n==null)
-            return;
-        System.out.println(n.key_data);
-        preorder(n.left);
-        preorder(n.right);
-    }
-    public static void main(String args[]){
+    public static void main(String[] args) {
         BinaryTree tree = new BinaryTree(1);
 
         tree.root = new Node(1);
@@ -54,6 +34,30 @@ public class BinaryTree {
         System.out.println("PostOrder:  ");
         tree.postorder(tree.root);
 
+    }
+
+    public void preorder(Node n) {
+        if (n == null)
+            return;
+        System.out.println(n.key_data);
+        preorder(n.left);
+        preorder(n.right);
+    }
+
+    public void inorder(Node n) {
+        if (n == null)
+            return;
+        inorder(n.left);
+        System.out.println(n.key_data);
+        inorder(n.right);
+    }
+
+    public void postorder(Node n) {
+        if (n == null)
+            return;
+        postorder(n.left);
+        postorder(n.right);
+        System.out.println(n.key_data);
     }
 
 }

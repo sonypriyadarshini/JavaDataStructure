@@ -12,7 +12,8 @@ public class MergeSort {
     public static int[] mergeSort(int a[], int start, int end){
 
         int ar[]=null;
-        if(start<end){
+        if(start<end)
+        {
         int mid = (start+end)/2;
 
         mergeSort(a,start,mid);

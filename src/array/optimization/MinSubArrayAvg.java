@@ -50,9 +50,9 @@ public class MinSubArrayAvg {
 
             if(curr_sum<min_sum){
                 min_sum=curr_sum;
-            result_index=i-k+1;
+            result_index=i;
             }
         }
-        System.out.println("result is "+result_index+" , "+(result_index+k-1));
+        System.out.println("result is between "+result_index+" , "+(result_index-k+1));
     }
 }
