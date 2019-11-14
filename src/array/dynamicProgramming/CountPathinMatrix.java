@@ -8,7 +8,7 @@ package array.dynamicProgramming;
 public class CountPathinMatrix {
 
     public static void main(String args[]){
-        countPath(3,3);
+        countPath(2,2);
     }
 
     public static void countPath(int m, int n){

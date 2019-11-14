@@ -9,7 +9,7 @@ public class RemoveVowels {
         Character c[] = {'a','e','i','o','u','A','E','I','O','U'};
         List<Character> list = Arrays.asList(c);
 
-        String s = "aeisdfgh";
+        String s = "eisdfgh";
         StringBuffer stringBuffer = new StringBuffer(s);
         for(int i=0;i<s.length();i++)
         {
@@ -17,5 +17,6 @@ public class RemoveVowels {
                 stringBuffer.replace(i,i+1,"");
             }
         }
+        System.out.println(stringBuffer);
     }
 }

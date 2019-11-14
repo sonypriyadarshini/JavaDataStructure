@@ -3,7 +3,7 @@ package array;
 import java.util.HashSet;
 import java.util.Set;
 
-public class LongestSubString {
+public class LongestSubSequence {
 
     public static void main(String args[]) {
 
