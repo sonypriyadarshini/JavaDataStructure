@@ -2,31 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="41f18f41-980f-4871-9479-fe4b1e24f500" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/TestClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/dynamicProgramming/LongestPallindromSubstring.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/dynamicProgramming/MaxMatrixSizeWith1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/leetCode/ClumsyFactorial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/leetCode/CountFlightBookings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/leetCode/DailyTemparature.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/leetCode/DistributeCandiesToPpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/leetCode/DominoRotationMin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/leetCode/LemonadeChange.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/leetCode/LongestSubstringLength.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/leetCode/OddCellsMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/leetCode/ReconstructMatrix2D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/leetCode/StringToNumberAtoI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jdbcSample/jdbcSample1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/dynamicProgramming/LargestSumContiguousSubarrayWith1Deletion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/leetCode/MedianOf2SortedArrays.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProgramPrac.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ProgramPrac.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/array/LongestSubString.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/array/RemoveVowels.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProgramPrac/array/RemoveVowels.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/array/dynamicProgramming/CountPathinMatrix.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProgramPrac/array/dynamicProgramming/CountPathinMatrix.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/linkedList/Add2LinkedLists$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProgramPrac/linkedList/Add2LinkedLists$Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/linkedList/Add2LinkedLists.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProgramPrac/linkedList/Add2LinkedLists.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/array/LongestSubString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array/LongestSubSequence.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/array/RemoveVowels.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array/RemoveVowels.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/array/dynamicProgramming/CountPathinMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array/dynamicProgramming/CountPathinMatrix.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/linkedList/Add2LinkedLists.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/linkedList/Add2LinkedLists.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/array/dynamicProgramming/LargestSumContiguousSubarray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProgramPrac/array/dynamicProgramming/LargestSumContiguousSubarray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/array/dynamicProgramming/MaxMatrixSizeWith1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProgramPrac/array/dynamicProgramming/MaxMatrixSizeWith1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/array/leetCode/BrokenCalculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProgramPrac/array/leetCode/BrokenCalculator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/array/dynamicProgramming/LargestSumContiguousSubarray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array/dynamicProgramming/LargestSumContiguousSubarray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/array/dynamicProgramming/MaxMatrixSizeWith1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array/dynamicProgramming/MaxMatrixSizeWith1.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -46,82 +29,91 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/TestClass.java">
+        <entry file="file://$PROJECT_DIR$/src/array/dynamicProgramming/MaxMatrixSizeWith1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-563">
-              <caret line="25" column="5" lean-forward="true" selection-start-line="21" selection-start-column="4" selection-end-line="25" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="489">
+              <caret line="33" column="31" selection-start-line="33" selection-start-column="31" selection-end-line="33" selection-end-column="31" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/array/leetCode/DistributeCandiesToPpl.java">
+        <entry file="file://$PROJECT_DIR$/src/array/optimization/MinSubArrayAvg.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
-              <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+            <state relative-caret-position="132">
+              <caret line="33" column="8" selection-start-line="33" selection-start-column="8" selection-end-line="33" selection-end-column="8" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/array/leetCode/CountFlightBookings.java">
+        <entry file="file://$PROJECT_DIR$/src/array/optimization/MaxDistance.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="344">
-              <caret line="37" column="24" lean-forward="true" selection-start-line="37" selection-start-column="24" selection-end-line="37" selection-end-column="24" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="30">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/array/leetCode/ReconstructMatrix2D.java">
+        <entry file="file://$PROJECT_DIR$/src/array/dynamicProgramming/LargestSumContiguousSubarray.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-166">
-              <caret line="35" column="41" selection-start-line="35" selection-start-column="41" selection-end-line="35" selection-end-column="41" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/array/leetCode/ClumsyFactorial.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/array/leetCode/DominoRotationMin.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="900">
-              <caret line="60" column="19" lean-forward="true" selection-start-line="12" selection-start-column="7" selection-end-line="60" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/array/leetCode/OddCellsMatrix.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="28" column="19" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="28" selection-end-column="19" />
+            <state relative-caret-position="180">
+              <caret line="12" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="12" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/array/leetCode/BrokenCalculator.java">
+        <entry file="file://$PROJECT_DIR$/src/array/dynamicProgramming/LargestSumContiguousSubarrayWith1Deletion.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="30">
-              <caret line="2" column="29" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
+              <caret line="2" column="56" lean-forward="true" selection-start-line="2" selection-start-column="56" selection-end-line="2" selection-end-column="56" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/array/leetCode/MedianOf2SortedArrays.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/array/leetCode/BrokenCalculator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="251">
+              <caret line="23" column="5" lean-forward="true" selection-start-line="20" selection-start-column="4" selection-end-line="23" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/array/optimization/MinDistance.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="56" selection-start-line="10" selection-start-column="56" selection-end-line="10" selection-end-column="56" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/array/dynamicProgramming/LongestCommonContinuousSubstring.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="43" selection-start-line="5" selection-start-column="43" selection-end-line="5" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/array/optimization/MaxSubArrayAvg.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-43">
+              <caret line="12" column="9" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -153,9 +145,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/amazon/test.java" />
-        <option value="$PROJECT_DIR$/src/amazon/NumberOfTiles1XN.java" />
-        <option value="$PROJECT_DIR$/src/amazon/FindTripletSum.java" />
         <option value="$PROJECT_DIR$/src/amazon/NextGreaterElement.java" />
         <option value="$PROJECT_DIR$/src/array/optimization/MaxSubArrayAvg.java" />
         <option value="$PROJECT_DIR$/src/amazon/BalancedParanthesis.java" />
@@ -168,7 +157,6 @@
         <option value="$PROJECT_DIR$/src/array/dynamicProgramming/MinJumpToReachEnd.java" />
         <option value="$PROJECT_DIR$/src/array/dynamicProgramming/MinJumpsToReachEnd.java" />
         <option value="$PROJECT_DIR$/src/array/dynamicProgramming/MaxProfit.java" />
-        <option value="$PROJECT_DIR$/src/array/dynamicProgramming/LargestSumContiguousSubarray.java" />
         <option value="$PROJECT_DIR$/src/array/dynamicProgramming/LongestIncreasingSubsequence.java" />
         <option value="$PROJECT_DIR$/src/array/dynamicProgramming/SubsetSum.java" />
         <option value="$PROJECT_DIR$/src/array/dynamicProgramming/ShortestCommonSubsequence.java" />
@@ -184,7 +172,6 @@
         <option value="$PROJECT_DIR$/src/array/SumInPair.java" />
         <option value="$PROJECT_DIR$/src/linkedList/Add2LinkedLists.java" />
         <option value="$PROJECT_DIR$/src/array/dynamicProgramming/LongestPallindromSubstring.java" />
-        <option value="$PROJECT_DIR$/src/array/dynamicProgramming/MaxMatrixSizeWith1.java" />
         <option value="$PROJECT_DIR$/src/array/StringToNumberAtoI.java" />
         <option value="$PROJECT_DIR$/src/array/LongestSubString.java" />
         <option value="$PROJECT_DIR$/src/array/LongestSubSequence.java" />
@@ -204,6 +191,11 @@
         <option value="$PROJECT_DIR$/src/array/leetCode/ClumsyFactorial.java" />
         <option value="$PROJECT_DIR$/src/array/leetCode/DominoRotationMin.java" />
         <option value="$PROJECT_DIR$/src/array/leetCode/OddCellsMatrix.java" />
+        <option value="$PROJECT_DIR$/src/array/leetCode/BrokenCalculator.java" />
+        <option value="$PROJECT_DIR$/src/array/dynamicProgramming/MaxMatrixSizeWith1.java" />
+        <option value="$PROJECT_DIR$/src/array/dynamicProgramming/LargestSumContiguousSubarray.java" />
+        <option value="$PROJECT_DIR$/src/array/leetCode/MedianOf2SortedArrays.java" />
+        <option value="$PROJECT_DIR$/src/array/dynamicProgramming/LargestSumContiguousSubarrayWith1Deletion.java" />
       </list>
     </option>
   </component>
@@ -294,20 +286,6 @@
               <item name="JavaDataStructure" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaDataStructure" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="linkedList" type="462c0819:PsiDirectoryNode" />
-              <item name="circularLinkedList" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaDataStructure" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaDataStructure" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="linkedList" type="462c0819:PsiDirectoryNode" />
-              <item name="doubleLinkedList" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaDataStructure" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaDataStructure" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="sorting" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -355,7 +333,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.BrokenCalculator">
+  <component name="RunManager" selected="Application.LargestSumContiguousSubarrayWith1Deletion">
     <configuration name="BrokenCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="array.leetCode.BrokenCalculator" />
       <module name="ProgramPrac" />
@@ -369,34 +347,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ClumsyFactorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array.leetCode.ClumsyFactorial" />
-      <module name="ProgramPrac" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="array.leetCode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CountFlightBookings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array.leetCode.CountFlightBookings" />
-      <module name="ProgramPrac" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="array.leetCode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="DominoRotationMin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="array.leetCode.DominoRotationMin" />
+      <module name="ProgramPrac" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="array.leetCode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LargestSumContiguousSubarrayWith1Deletion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array.leetCode.LargestSumContiguousSubarrayWith1Deletion" />
+      <module name="ProgramPrac" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="array.leetCode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MedianOf2SortedArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array.leetCode.MedianOf2SortedArrays" />
       <module name="ProgramPrac" />
       <extension name="coverage">
         <pattern>
@@ -422,19 +400,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.CountFlightBookings" />
-      <item itemvalue="Application.ClumsyFactorial" />
       <item itemvalue="Application.DominoRotationMin" />
       <item itemvalue="Application.OddCellsMatrix" />
       <item itemvalue="Application.BrokenCalculator" />
+      <item itemvalue="Application.MedianOf2SortedArrays" />
+      <item itemvalue="Application.LargestSumContiguousSubarrayWith1Deletion" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LargestSumContiguousSubarrayWith1Deletion" />
+        <item itemvalue="Application.MedianOf2SortedArrays" />
         <item itemvalue="Application.BrokenCalculator" />
         <item itemvalue="Application.OddCellsMatrix" />
         <item itemvalue="Application.DominoRotationMin" />
-        <item itemvalue="Application.ClumsyFactorial" />
-        <item itemvalue="Application.CountFlightBookings" />
       </list>
     </recent_temporary>
   </component>
@@ -498,7 +476,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32201406" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32163742" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32748538" />
@@ -669,20 +647,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/array/dynamicProgramming/MinJumpsToReachEnd.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1365">
-          <caret line="91" column="9" selection-start-line="91" selection-start-column="9" selection-end-line="91" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/array/SumOfNNumberRecursive.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/array/SumRecursive2Numbers.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -725,24 +689,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/jdbcSample/jdbcSample1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="31" column="93" selection-start-line="31" selection-start-column="93" selection-end-line="31" selection-end-column="93" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/array/optimization/MoveZeros.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
           <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/array/RemoveVowels.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
         </state>
       </provider>
     </entry>
@@ -767,24 +717,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/array/optimization/MaxDistance.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/array/dynamicProgramming/CountWaystoReachNthStair.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/array/optimization/MinDistance.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="56" selection-start-line="10" selection-start-column="56" selection-end-line="10" selection-end-column="56" />
         </state>
       </provider>
     </entry>
@@ -837,34 +773,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/array/dynamicProgramming/LongestCommonContinuousSubstring.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="43" selection-start-line="5" selection-start-column="43" selection-end-line="5" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/array/dynamicProgramming/LargestSumContiguousSubarray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/array/optimization/MaxSubArrayAvg.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="158">
-          <caret line="12" column="9" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/array/optimization/MinSubArrayAvg.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="33" column="8" selection-start-line="33" selection-start-column="8" selection-end-line="33" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/array/CheckStringInAnotherString.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -883,24 +791,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/array/dynamicProgramming/CountPathinMatrix.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="13" column="19" selection-start-line="13" selection-end-line="14" />
-          <folding>
-            <element signature="e#366#367#0" expanded="true" />
-            <element signature="e#396#397#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/array/dynamicProgramming/MaxMatrixSizeWith1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="20" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
         </state>
       </provider>
     </entry>
@@ -945,16 +835,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/array/leetCode/LongestSubstringLength.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/array/leetCode/StringToNumberAtoI.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -963,13 +843,6 @@
             <element signature="e#93#94#0" expanded="true" />
             <element signature="e#150#151#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/linkedList/Add2LinkedLists.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="212">
-          <caret line="49" column="7" lean-forward="true" selection-start-line="49" selection-start-column="7" selection-end-line="52" selection-end-column="9" />
         </state>
       </provider>
     </entry>
@@ -997,6 +870,44 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/array/leetCode/OddCellsMatrix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="19" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="28" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/array/leetCode/LongestSubstringLength.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/linkedList/Add2LinkedLists.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="287">
+          <caret line="54" column="5" lean-forward="true" selection-start-line="54" selection-start-column="5" selection-end-line="54" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jdbcSample/jdbcSample1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-235">
+          <caret line="31" column="93" selection-start-line="31" selection-start-column="93" selection-end-line="31" selection-end-column="93" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/array/RemoveVowels.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/array/leetCode/CountFlightBookings.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="344">
@@ -1017,6 +928,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/array/leetCode/ClumsyFactorial.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" selection-start-line="22" selection-end-line="25" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/array/leetCode/DominoRotationMin.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="900">
@@ -1024,24 +942,84 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/array/leetCode/ClumsyFactorial.java">
+    <entry file="file://$PROJECT_DIR$/src/array/dynamicProgramming/CountPathinMatrix.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="26" />
+        <state relative-caret-position="375">
+          <caret line="25" column="35" lean-forward="true" selection-start-line="25" selection-start-column="35" selection-end-line="25" selection-end-column="35" />
+          <folding>
+            <element signature="e#366#367#0" expanded="true" />
+            <element signature="e#396#397#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/array/leetCode/OddCellsMatrix.java">
+    <entry file="file://$PROJECT_DIR$/src/array/dynamicProgramming/MaxMatrixSizeWith1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" column="19" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="28" selection-end-column="19" />
+        <state relative-caret-position="489">
+          <caret line="33" column="31" selection-start-line="33" selection-start-column="31" selection-end-line="33" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/array/optimization/MaxSubArrayAvg.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-43">
+          <caret line="12" column="9" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/array/optimization/MinSubArrayAvg.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="33" column="8" selection-start-line="33" selection-start-column="8" selection-end-line="33" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/array/optimization/MaxDistance.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/array/optimization/MinDistance.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="56" selection-start-line="10" selection-start-column="56" selection-end-line="10" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/array/dynamicProgramming/LongestCommonContinuousSubstring.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="43" selection-start-line="5" selection-start-column="43" selection-end-line="5" selection-end-column="43" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/array/leetCode/BrokenCalculator.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="251">
+          <caret line="23" column="5" lean-forward="true" selection-start-line="20" selection-start-column="4" selection-end-line="23" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/array/leetCode/MedianOf2SortedArrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/array/dynamicProgramming/LargestSumContiguousSubarray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/array/dynamicProgramming/LargestSumContiguousSubarrayWith1Deletion.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
-          <caret line="2" column="29" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
+          <caret line="2" column="56" lean-forward="true" selection-start-line="2" selection-start-column="56" selection-end-line="2" selection-end-column="56" />
         </state>
       </provider>
     </entry>

@@ -21,17 +21,17 @@ public class MaxMatrixSizeWith1 {
     static void printMaxSubSquare(int M[][]){
 
         int res[][]=M.clone();
-        int l=0;
+        int resCount=0;
         for(int i=1;i<M.length;i++){
             for(int j=1;j<M[0].length;j++){
 
                 if(res[i][j]>0){
                     res[i][j]=1+Math.min(Math.min(res[i-1][j],res[i][j-1]),res[i-1][j-1]);
                 }
-                l=Math.max(l,res[i][j]);
+                resCount=Math.max(resCount,res[i][j]);
             }
         }
-    System.out.println(l);
+    System.out.println(resCount);
     }
 
 }

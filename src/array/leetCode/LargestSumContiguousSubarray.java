@@ -1,10 +1,10 @@
-package array.dynamicProgramming;
+package array.leetCode;
 
 //Write an efficient program to find the sum of contiguous subarray within a one-dimensional array of numbers which has the largest sum.
 
 public class LargestSumContiguousSubarray {
     public static void main(String args[]){
-        int arr[]={2,3,-7,3,10,1};
+        int arr[]={2,3,-7,-3,10,1};
         LargestSumContiguousSubarray maxArraySum = new LargestSumContiguousSubarray();
         System.out.println(maxArraySum.arraySum(arr));
         maxArraySum.arraySumNeg(arr);
