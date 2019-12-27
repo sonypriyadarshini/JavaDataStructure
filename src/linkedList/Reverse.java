@@ -10,9 +10,10 @@ public class Reverse {
         second.next=third;
         linkList.printLinkedList(linkList.head);
 
-       Node n =  linkList.reverseIterative(linkList.head);
-        linkList.printLinkedList(n);
-        linkList.reverseRecursive(linkList.head);
+//       Node n =  linkList.reverseIterative(linkList.head);
+//        linkList.printLinkedList(n);
+        linkList.reverseTest(linkList.head);
+//        linkList.reverseRecursive(linkList.head);
         linkList.printLinkedList(linkList.head);
 
     }
@@ -28,6 +29,27 @@ public class Reverse {
         }
         node=prev;
         return node;
+    }
+
+    public Node reverseTest(Node head){
+        Node temp,prev=null,curr=head;
+        while(curr!=null){
+            temp=curr.next;
+            prev=head;
+            temp.next=prev;
+            System.out.println("head: "+curr.data);
+            curr=curr.next;
+            prev.next=null;
+//
+//            System.out.println("temp: "+temp.data);
+////            System.out.println("temp.next : "+temp.next.data);
+//            System.out.println("prev: "+prev.data);
+        }
+//        System.out.println(curr.data);
+//        System.out.println(curr.next.data);
+//        System.out.println(curr.next.next.data);
+        head=prev;
+        return head;
     }
 
     //recursive

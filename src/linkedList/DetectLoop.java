@@ -1,6 +1,8 @@
 package linkedList;
 
+import java.util.ArrayList;
 import java.util.HashSet;
+import java.util.List;
 
 public class DetectLoop {
     Node head;
@@ -17,6 +19,8 @@ public class DetectLoop {
 
         linklist.detectLoop(linklist.head);
         linklist.loopUsingPointers(linklist.head);
+
+
     }
 
     //using hashing
@@ -29,6 +33,7 @@ public class DetectLoop {
             }
             hashSet.add(node);
             node = node.next;
+
         }
     }
 

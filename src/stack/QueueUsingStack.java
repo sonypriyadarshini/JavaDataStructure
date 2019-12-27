@@ -8,7 +8,7 @@ public class QueueUsingStack {
     static Stack<Integer> stack2 = new Stack<Integer>();
 
 
-    public static void main(String args[]){
+    public static void main(String[] args) {
         QueueUsingStack queueUsingStack = new QueueUsingStack();
         queueUsingStack.enqueue(3);
         queueUsingStack.enqueue(30);
@@ -18,18 +18,19 @@ public class QueueUsingStack {
         queueUsingStack.dequeue();
     }
 
-    public void enqueue(int data){
+    public void enqueue(int data) {
         stack1.push(data);
     }
 
-    public void dequeue(){
-        if(stack2.isEmpty()){
-        while(!stack1.isEmpty()){
-            int y = stack1.pop();
-            System.out.println("pop "+y);
-            stack2.push(y);
-        }}
-        int x= stack2.pop();
-        System.out.println("popped "+x);
+    public void dequeue() {
+        if (stack2.isEmpty()) {
+            while (!stack1.isEmpty()) {
+                int y = stack1.pop();
+                System.out.println("pop " + y);
+                stack2.push(y);
+            }
+        }
+        int x = stack2.pop();
+        System.out.println("popped " + x);
     }
 }

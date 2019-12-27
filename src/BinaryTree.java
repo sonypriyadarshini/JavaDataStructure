@@ -1,3 +1,6 @@
+import java.util.ArrayList;
+import java.util.Arrays;
+
 class Node {
     int key_data;
     Node left, right;
@@ -22,11 +25,11 @@ public class BinaryTree {
     public static void main(String[] args) {
         BinaryTree tree = new BinaryTree(1);
 
-        tree.root = new Node(1);
+        tree.root = new Node(4);
         tree.root.left = new Node(2);
-        tree.root.right = new Node(3);
-        tree.root.left.left = new Node(4);
-        tree.root.left.right = new Node(5);
+        tree.root.right = new Node(5);
+        tree.root.left.left = new Node(1);
+        tree.root.left.right = new Node(3);
         System.out.println("PreOrder:  ");
         tree.preorder(tree.root);
         System.out.println("Inoder:  ");
@@ -34,6 +37,23 @@ public class BinaryTree {
         System.out.println("PostOrder:  ");
         tree.postorder(tree.root);
 
+        System.out.println("max depth :  "+maxDepth(tree.root));
+
+        System.out.println("kth node "+tree.kthSmallest(tree.root,5));
+    }
+    public static ArrayList<Integer> res=new ArrayList<>();
+
+    public int kthSmallest(Node root, int k) {
+        reverseInorder(root);
+        return res.get(k-1);
+    }
+
+    public static void reverseInorder(Node node){
+        if(node==null)
+            return;
+        reverseInorder(node.left);
+        res.add(node.key_data);
+        reverseInorder(node.right);
     }
 
     public void preorder(Node n) {
@@ -58,6 +78,15 @@ public class BinaryTree {
         postorder(n.left);
         postorder(n.right);
         System.out.println(n.key_data);
+    }
+
+    public static int maxDepth(Node n) {
+        if(n==null)
+            return 0;
+        else if(n.left==null && n.right==null)
+            return 1;
+        return 1+Math.max(maxDepth(n.left),maxDepth(n.right));
+
     }
 
 }

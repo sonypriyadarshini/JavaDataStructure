@@ -15,6 +15,9 @@ public class Deletion {
         linkList.deleteByPosition(1);
        linkList.printLinkedList(linkList.head);
        linkList.validateCircular();
+
+       linkList.deleteNode(second);
+        linkList.printLinkedList(linkList.head);
     }
 
           Node head;
@@ -58,6 +61,16 @@ public class Deletion {
         }
         Node next=prev.next.next;
         prev.next=next;
+    }
+
+    public void deleteNode(Node node) {
+        Node prev=null;
+        while(node.next!=null){
+            node.data=node.next.data;
+            prev=node;
+            node=node.next;
+        }
+        prev.next=null;
     }
 
     public void printLinkedList(Node node_head){

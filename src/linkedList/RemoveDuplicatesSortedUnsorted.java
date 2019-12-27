@@ -8,11 +8,14 @@ public class RemoveDuplicatesSortedUnsorted {
         linkList.head = new Node(32);
         Node second = new Node(33);
         Node third = new Node(33);
+        Node four = new Node(34);
         linkList.head.next=second;
         second.next=third;
-        linkList.removeDupUnsorted(linkList.head);
-        linkList.printLinkedList(linkList.head);
-        linkList.removeDupSorted(linkList.head);
+        third.next=four;
+//        linkList.removeDupUnsorted(linkList.head);
+//        linkList.printLinkedList(linkList.head);
+//        linkList.removeDupSorted(linkList.head);
+        linkList.removeDupUnsorted2Loops(linkList.head);
         linkList.printLinkedList(linkList.head);
 
     }
@@ -36,6 +39,22 @@ public class RemoveDuplicatesSortedUnsorted {
             hashSet.add(temp.data);
             temp=temp.next;
         }
+    }
+
+    //unsorted: using 2 loops
+    public void removeDupUnsorted2Loops(Node node){
+        Node curr=node;
+        while(curr!=null){
+            Node runner=curr;
+            while(runner.next!=null){
+                if(runner.next.data==curr.data)
+                    runner.next=runner.next.next;
+                else
+                    runner=runner.next;
+            }
+            curr=curr.next;
+        }
+
     }
 
     // for sorted list

@@ -8,11 +8,11 @@ public class Add2LinkedLists {
 
     public static void main(String args[]) {
         head = new Node(5);
-//        head.next = new Node(2);
-//        head.next = new Node(3);
+        head.next = new Node(2);
+        head.next.next = new Node(3);
 
         head2 = new Node(5);
-//        head2.next = new Node(4);
+        head2.next = new Node(4);
         Node res= addNumbers(head,head2);
         while(res!=null){
             System.out.println(res.data);
@@ -22,7 +22,7 @@ public class Add2LinkedLists {
 
     public static Node addNumbers(Node first, Node second) {
         int sum = 0, carry = 0;
-        Node temp, res = null, prev = null;
+        Node temp=null, res = null, prev = null;
 
         while (first != null || second != null) {
 
@@ -47,9 +47,9 @@ public class Add2LinkedLists {
                 second = second.next;
             }
         }
-        if(carry==1){
-            temp=new Node(carry);
-            prev.next=temp;
+        if(carry>0){
+            temp.next=new Node(carry);
+//            prev.next=temp;
         }
         return res;
     }

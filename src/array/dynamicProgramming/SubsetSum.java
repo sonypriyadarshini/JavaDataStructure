@@ -5,6 +5,9 @@ In a given array say {3, 2, 1,4}, find if using the given numbers a sum of 6 can
 Each element can be used only once,
 */
 
+import java.util.HashMap;
+import java.util.Map;
+
 public class SubsetSum {
 
     public static void main (String args[])
@@ -13,6 +16,8 @@ public class SubsetSum {
         int sum = 6;
         int n = set.length;
         isSubsetSum(set, n, sum);
+
+
     }
 
     static void isSubsetSum(int set[],
