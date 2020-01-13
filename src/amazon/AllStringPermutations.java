@@ -15,15 +15,12 @@ import java.util.List;
 
 public class AllStringPermutations {
     public static void main(String[] args) {
-        String str = "AAC";
+        String str = "AC";
         int n = str.length();
         permute(str, 0, n - 1);
-
-//        List<List<Integer>> aList = permuteInt(new int[]{1, 2, 3});
-//        System.out.println(aList);
-
     }
 
+    //works for string with unique characters only
     public static void permute(String str, int l, int r) {
 
         if (l == r)
@@ -45,13 +42,18 @@ public class AllStringPermutations {
         return String.valueOf(c);
     }
 
+
+
+
+
+
+    //trial: other way: incomplete
     public static List<List<Integer>> permuteInt(int[] nums) {
 
         int l = 0, r = nums.length - 1, i = 0;
         return permuteIntWithVar(nums, l, r);
 
     }
-
 
     public static List<List<Integer>> permuteIntWithVar(int[] nums, int l, int r) {
         List<List<Integer>> res = new ArrayList<List<Integer>>();

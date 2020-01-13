@@ -2,9 +2,7 @@ package array.dynamicProgramming;
 
 //There are n stairs, a person standing at the bottom wants to reach the top.
 //The person can climb either 1 stair or 2 stairs at a time. Count the number of ways, the person can reach the top.
-
-import java.util.ArrayList;
-import java.util.List;
+//https://www.geeksforgeeks.org/count-ways-reach-nth-stair-using-step-1-2-3/
 
 public class    CountWaystoReachNthStair {
     public static void main(String args[]) {

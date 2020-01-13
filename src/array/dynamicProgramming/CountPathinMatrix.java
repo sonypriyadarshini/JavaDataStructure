@@ -5,6 +5,7 @@ package array.dynamicProgramming;
 //The problem is to count all the possible paths from top left to bottom right of a mXn matrix with the constraints
 //that from each cell you can either move only to right or down
 
+// with obstacles: https://leetcode.com/problems/unique-paths-ii/discuss/468893/Java-solution-using-DP
 public class CountPathinMatrix {
 
     public static void main(String args[]){
