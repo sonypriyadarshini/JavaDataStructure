@@ -7,7 +7,7 @@ import java.util.Stack;
 public class BalancedParanthesis {
 
     public static void main(String args[]){
-        char c1[]={'(',')','{','(',')','}','[',']'};
+        char c1[]={'(',')','{','(',')','[',']'};
         checkBalancedParanthesis(c1);
     }
 
@@ -36,9 +36,15 @@ public class BalancedParanthesis {
 //                    break;
                 } else {
                     b = false;
-//                    break;
+                    break;
                 }
             }
+        }
+        if (stack.isEmpty())
+            b=true; /*balanced*/
+        else
+        {   /*not balanced*/
+            b= false;
         }
         System.out.println(b);
     }

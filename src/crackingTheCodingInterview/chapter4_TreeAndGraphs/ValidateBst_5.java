@@ -1,4 +1,8 @@
 package crackingTheCodingInterview.chapter4_TreeAndGraphs;
+/*
+Validate BST: Implement a function to check if a binary tree is a binary search tree.
+binary search tree: A binary tree which satisfies the condition, left node<root node<right node
+ */
 
 public class ValidateBst_5 {
 

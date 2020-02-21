@@ -14,10 +14,10 @@ public class DetectLoop {
         linklist.head.next.next = new Node(3);
         linklist.head.next.next.next = new Node(4);
         linklist.head.next.next.next.next = new Node(5);
-        linklist.head.next.next.next.next.next = new Node(6);
-        linklist.head.next.next.next.next.next.next = linklist.head.next;
+        linklist.head.next.next.next.next.next = linklist.head.next.next;
+//        linklist.head.next.next.next.next.next.next = linklist.head.next;
 
-        linklist.detectLoop(linklist.head);
+//        linklist.detectLoop(linklist.head);
         linklist.loopUsingPointers(linklist.head);
 
 
@@ -48,6 +48,14 @@ public class DetectLoop {
                 return;
             }
         }
+
+//        do {
+//            slow_ptr = slow_ptr.next;
+//            fast_ptr = fast_ptr.next.next;
+//        } while (fast_ptr != null && fast_ptr.next != null && fast_ptr != slow_ptr);
+//
+//        System.out.println("loop found!! " + slow_ptr.data);
+
     }
 
     static class Node {

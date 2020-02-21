@@ -1,6 +1,8 @@
 package array.optimization;
 
 //Rearrange an array such that arr[i] = i. if -1, ignore
+//https://www.geeksforgeeks.org/rearrange-array-arri/
+
 public class RearrangeArray {
     public static void main(String[] args) {
         int arr[]={-1,-1,6,2,5,4,3};

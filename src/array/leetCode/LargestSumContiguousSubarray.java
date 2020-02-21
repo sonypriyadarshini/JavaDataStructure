@@ -4,7 +4,7 @@ package array.leetCode;
 
 public class LargestSumContiguousSubarray {
     public static void main(String args[]){
-        int arr[]={2,3,-7,-3,10,1};
+        int arr[]={2,3,-1,1,-4,1};
         LargestSumContiguousSubarray maxArraySum = new LargestSumContiguousSubarray();
         System.out.println(maxArraySum.arraySum(arr));
         maxArraySum.arraySumNeg(arr);

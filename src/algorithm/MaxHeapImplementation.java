@@ -1,5 +1,20 @@
 package algorithm;
 
+/*
+https://www.geeksforgeeks.org/max-heap-in-java/
+
+A Max Heap is a Complete Binary Tree. A Max heap is typically represented as an array.
+The root element will be at Arr[0]. Below table shows indexes of other nodes for the ith node, i.e., Arr[i]:
+Arr[(i-1)/2] Returns the parent node.
+Arr[(2*i)+1] Returns the left child node.
+Arr[(2*i)+2] Returns the right child node.
+
+ */
+
+import java.util.PriorityQueue;
+import java.util.Queue;
+import java.util.Stack;
+
 public class MaxHeapImplementation {
 
     int Heap[];

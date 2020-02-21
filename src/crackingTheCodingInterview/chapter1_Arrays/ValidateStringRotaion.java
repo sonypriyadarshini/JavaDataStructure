@@ -34,7 +34,8 @@ public class ValidateStringRotaion {
         int loc2=s2.length()-loc1;         //3
 
         if(loc1>-1) {
-            if (s1.charAt(loc2) == s2.charAt(0) && s1.substring(loc2).equalsIgnoreCase(s2.substring(0, loc1)))
+            System.out.println(s2.substring(loc1)+"   :   "+s1.substring(0,loc2));
+            if (s1.charAt(loc2) == s2.charAt(0) && s1.substring(0,loc2).equalsIgnoreCase(s2.substring(loc1,s2.length())))
                 return true;
         }
         return false;

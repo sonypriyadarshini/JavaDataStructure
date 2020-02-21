@@ -1,17 +1,18 @@
 import java.util.ArrayList;
 import java.util.Arrays;
 
-class Node {
-    int key_data;
-    Node left, right;
-
-    public Node(int data) {
-        key_data = data;
-        left = right = null;
-    }
-}
-
 public class BinaryTree {
+
+    static class Node {
+        int key_data;
+        Node left, right;
+
+        public Node(int data) {
+            key_data = data;
+            left = right = null;
+        }
+    }
+
     Node root;
 
     BinaryTree(int data) {

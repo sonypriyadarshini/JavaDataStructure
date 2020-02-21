@@ -2,50 +2,88 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="41f18f41-980f-4871-9479-fe4b1e24f500" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter10_SortingAndSearching/GroupAnagram_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter10_SortingAndSearching/Merge2SortedArrayIntoOne_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter10_SortingAndSearching/PeaksAndValleys_11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter10_SortingAndSearching/SearchInRotatedArray_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter10_SortingAndSearching/SortedMatrixSearch_9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter10_SortingAndSearching/SortedSearchNoSize_4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter10_SortingAndSearching/SparseSearch_5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter16_MediumLevelPrograms/ContiguousSubSequenceLargestSum_17.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter16_MediumLevelPrograms/Intersection_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter16_MediumLevelPrograms/NumberSwapper_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter16_MediumLevelPrograms/SmallestDiffPair_6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter16_MediumLevelPrograms/SubSortingArray_16.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter16_MediumLevelPrograms/TicTacToe_4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter16_MediumLevelPrograms/TrailingZeroesInFactorial_5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter16_MediumLevelPrograms/WordFrequencies_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter4_TreeAndGraphs/BSTSequence_9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter4_TreeAndGraphs/BuildOrder_7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter4_TreeAndGraphs/CheckSubtree_10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter4_TreeAndGraphs/CountPathForSum_12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter4_TreeAndGraphs/FindSuccessor_6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter4_TreeAndGraphs/ListOfDepths_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter4_TreeAndGraphs/LowestCommonAncestor_8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter4_TreeAndGraphs/RandomNode_11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter4_TreeAndGraphs/ValidateBst_5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter4_TreeAndGraphs/ValidateIfBinaryTreeIsBalance_4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter6_Puzzles/EggDropPuzzle_8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter8_DynamicProgAndRecursion/CoinChangeNoOfWays_11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter8_DynamicProgAndRecursion/FindSubsets_4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter8_DynamicProgAndRecursion/Magiczindex_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter8_DynamicProgAndRecursion/PaintFill_10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter8_DynamicProgAndRecursion/ParenthesisPairs_9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter8_DynamicProgAndRecursion/PermutationUniqueCharString_7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter8_DynamicProgAndRecursion/PermutationWithDuplicates_8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter8_DynamicProgAndRecursion/RecursiveMultiply_5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter8_DynamicProgAndRecursion/RobotInAGrid_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter8_DynamicProgAndRecursion/TowerOfHanoi_6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter8_DynamicProgAndRecursion/TripleStepCountWays_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter16_MediumLevelPrograms/PairsWithSumInArray_24.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter16_MediumLevelPrograms/PondSizes_19.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter16_MediumLevelPrograms/SumSwap_21.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter17_Hard/Add2NumbersWithoutArithmeticOperators_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter17_Hard/BabyNames_7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter17_Hard/CircusTower_8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter17_Hard/Count2sInARange_6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter17_Hard/KthMultipleUglyNumbers_9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter17_Hard/LettersAndNumbers_5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter17_Hard/MajorityElement_10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter17_Hard/Masseuse_16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter17_Hard/RandomSet_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter17_Hard/VolumeOfHistogram_21.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter17_Hard/WordDistance_11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter5_BitManipulation/FlipToWin_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter5_BitManipulation/RealNumberToBits_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/graphs/DijkstrasAlgorithmGreedymethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/graphs/dfsPrograms/FindAllPathsFromAtoB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/graphs/dfsPrograms/countIslandsInMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/graphs/implementation/GraphImplementationAdjacencyList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/graphs/implementation/GraphImplementationAdjacencyMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/graphs/traversal/GraphTraversalBFS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/graphs/traversal/GraphTraversalDFS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/amazon/AllStringPermutations.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProgramPrac/amazon/AllStringPermutations.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/array/dynamicProgramming/CountPathinMatrix.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProgramPrac/array/dynamicProgramming/CountPathinMatrix.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/BinaryTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProgramPrac/BinaryTree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/algorithm/GreedyJobSequencing$Job.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProgramPrac/algorithm/GreedyJobSequencing$Job.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/algorithm/GreedyJobSequencing.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProgramPrac/algorithm/GreedyJobSequencing.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/algorithm/GreedyOptimalMerge.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProgramPrac/algorithm/GreedyOptimalMerge.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/algorithm/GreedyPoliceCatchThief.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProgramPrac/algorithm/GreedyPoliceCatchThief.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/algorithm/MaxHeapImplementation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProgramPrac/algorithm/MaxHeapImplementation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/amazon/BalancedParanthesis.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProgramPrac/amazon/BalancedParanthesis.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/amazon/NextGreaterElement.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProgramPrac/amazon/NextGreaterElement.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/array/SumInPair.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProgramPrac/array/SumInPair.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/array/SumOfNNumberRecursive.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProgramPrac/array/SumOfNNumberRecursive.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/array/dynamicProgramming/CoinChangeProblem.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProgramPrac/array/dynamicProgramming/CoinChangeProblem.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/array/dynamicProgramming/CountWaystoReachNthStair.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProgramPrac/array/dynamicProgramming/CountWaystoReachNthStair.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/amazon/AllStringPermutations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/amazon/AllStringPermutations.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/array/dynamicProgramming/CountPathinMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array/dynamicProgramming/CountPathinMatrix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/array/dynamicProgramming/EditDistance.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProgramPrac/array/dynamicProgramming/EditDistance.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/array/dynamicProgramming/MinJumpsToReachEnd.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProgramPrac/array/dynamicProgramming/MinJumpsToReachEnd.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/array/optimization/MaxSubArrayAvg.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProgramPrac/array/optimization/MaxSubArrayAvg.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/array/optimization/RearrangeArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProgramPrac/array/optimization/RearrangeArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/crackingTheCodingInterview/chapter16_MediumLevelPrograms/ContiguousSubSequenceLargestSum_17.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProgramPrac/crackingTheCodingInterview/chapter16_MediumLevelPrograms/ContiguousSubSequenceLargestSum_17.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/crackingTheCodingInterview/chapter1_Arrays/ValidateStringRotaion.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProgramPrac/crackingTheCodingInterview/chapter1_Arrays/ValidateStringRotaion.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/crackingTheCodingInterview/chapter2_LinkedList/LoopDetection_8.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProgramPrac/crackingTheCodingInterview/chapter2_LinkedList/LoopDetection_8.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/crackingTheCodingInterview/chapter3_StacksAndQueues/SortStack.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProgramPrac/crackingTheCodingInterview/chapter3_StacksAndQueues/SortStack.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/crackingTheCodingInterview/chapter4_TreeAndGraphs/ValidateBst_5$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProgramPrac/crackingTheCodingInterview/chapter4_TreeAndGraphs/ValidateBst_5$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/crackingTheCodingInterview/chapter4_TreeAndGraphs/ValidateBst_5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProgramPrac/crackingTheCodingInterview/chapter4_TreeAndGraphs/ValidateBst_5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/crackingTheCodingInterview/chapter4_TreeAndGraphs/ValidateIfBinaryTreeIsBalance_4$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProgramPrac/crackingTheCodingInterview/chapter4_TreeAndGraphs/ValidateIfBinaryTreeIsBalance_4$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/crackingTheCodingInterview/chapter4_TreeAndGraphs/ValidateIfBinaryTreeIsBalance_4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProgramPrac/crackingTheCodingInterview/chapter4_TreeAndGraphs/ValidateIfBinaryTreeIsBalance_4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/crackingTheCodingInterview/chapter8_DynamicProgAndRecursion/PaintFill_10.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProgramPrac/crackingTheCodingInterview/chapter8_DynamicProgAndRecursion/PaintFill_10.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/linkedList/DetectLoop$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProgramPrac/linkedList/DetectLoop$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/linkedList/DetectLoop.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProgramPrac/linkedList/DetectLoop.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/linkedList/LinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProgramPrac/linkedList/LinkedList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BinaryTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithm/GreedyJobSequencing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithm/GreedyJobSequencing.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithm/GreedyOptimalMerge.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithm/GreedyOptimalMerge.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithm/GreedyPoliceCatchThief.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithm/GreedyPoliceCatchThief.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithm/MaxHeapImplementation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithm/MaxHeapImplementation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/amazon/BalancedParanthesis.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/amazon/BalancedParanthesis.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/amazon/FindTripletSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/amazon/FindTripletSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/amazon/NextGreaterElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/amazon/NextGreaterElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/array/SumInPair.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array/SumInPair.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/array/SumOfNNumberRecursive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array/SumOfNNumberRecursive.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/array/dynamicProgramming/CoinChangeProblem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array/dynamicProgramming/CoinChangeProblem.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/array/dynamicProgramming/CountWaystoReachNthStair.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array/dynamicProgramming/CountWaystoReachNthStair.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/array/dynamicProgramming/EditDistance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array/dynamicProgramming/EditDistance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/array/dynamicProgramming/MinJumpsToReachEnd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array/dynamicProgramming/MinJumpsToReachEnd.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/array/leetCode/LargestSumContiguousSubarray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array/leetCode/LargestSumContiguousSubarray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/array/optimization/MaxSubArrayAvg.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array/optimization/MaxSubArrayAvg.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/array/optimization/RearrangeArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array/optimization/RearrangeArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter10_SortingAndSearching/PeaksAndValleys_11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter10_SortingAndSearching/PeaksAndValleys_11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter10_SortingAndSearching/SparseSearch_5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter10_SortingAndSearching/SparseSearch_5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter1_Arrays/ValidateStringRotaion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter1_Arrays/ValidateStringRotaion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter2_LinkedList/LoopDetection_8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter2_LinkedList/LoopDetection_8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter3_StacksAndQueues/SortStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter3_StacksAndQueues/SortStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter4_TreeAndGraphs/ValidateBst_5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter4_TreeAndGraphs/ValidateBst_5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter4_TreeAndGraphs/ValidateIfBinaryTreeIsBalance_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter4_TreeAndGraphs/ValidateIfBinaryTreeIsBalance_4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter8_DynamicProgAndRecursion/PaintFill_10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter8_DynamicProgAndRecursion/PaintFill_10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter8_DynamicProgAndRecursion/RecursiveMultiply_5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter8_DynamicProgAndRecursion/RecursiveMultiply_5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/linkedList/DetectLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/linkedList/DetectLoop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/linkedList/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/linkedList/LinkedList.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -65,19 +103,31 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/crackingTheCodingInterview/chapter16_MediumLevelPrograms/NumberSwapper_1.java">
+        <entry file="file://$PROJECT_DIR$/src/amazon/AllStringPermutations.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="100" selection-start-line="3" selection-start-column="100" selection-end-line="3" selection-end-column="100" />
+            <state relative-caret-position="195">
+              <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/crackingTheCodingInterview/chapter16_MediumLevelPrograms/WordFrequencies_2.java">
+        <entry file="file://$PROJECT_DIR$/src/test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="80" selection-start-line="7" selection-start-column="80" selection-end-line="7" selection-end-column="80" />
+            <state relative-caret-position="351">
+              <caret line="31" column="18" selection-start-line="31" selection-end-line="32" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/array/optimization/MoveZeros.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -85,57 +135,44 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/crackingTheCodingInterview/chapter16_MediumLevelPrograms/Intersection_3.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+            <state relative-caret-position="60">
+              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/crackingTheCodingInterview/chapter16_MediumLevelPrograms/TicTacToe_4.java">
+        <entry file="file://$PROJECT_DIR$/src/crackingTheCodingInterview/chapter10_SortingAndSearching/SearchInRotatedArray_3.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" selection-start-line="18" selection-end-line="18" />
+            <state relative-caret-position="105">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/crackingTheCodingInterview/chapter16_MediumLevelPrograms/TrailingZeroesInFactorial_5.java">
+        <entry file="file://$PROJECT_DIR$/src/array/dynamicProgramming/LongestIncreasingSubsequence.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-              <folding>
-                <element signature="e#231#232#0" expanded="true" />
-                <element signature="e#267#268#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="89">
+              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/crackingTheCodingInterview/chapter16_MediumLevelPrograms/SmallestDiffPair_6.java">
+        <entry file="file://$PROJECT_DIR$/src/amazon/NextGreaterElement.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="32">
-              <caret line="13" column="20" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
+            <state relative-caret-position="90">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/crackingTheCodingInterview/chapter16_MediumLevelPrograms/SubSortingArray_16.java">
+        <entry file="file://$PROJECT_DIR$/src/crackingTheCodingInterview/chapter4_TreeAndGraphs/ValidateBst_5.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="227">
-              <caret line="40" column="22" selection-start-line="40" selection-start-column="22" selection-end-line="40" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/crackingTheCodingInterview/chapter16_MediumLevelPrograms/ContiguousSubSequenceLargestSum_17.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" column="20" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="20" />
+            <state relative-caret-position="90">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -143,8 +180,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/array/leetCode/LargestSumContiguousSubarray.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+            <state relative-caret-position="252">
+              <caret line="22" column="20" lean-forward="true" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/crackingTheCodingInterview/chapter4_TreeAndGraphs/ListOfDepths_3.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
             </state>
           </provider>
         </entry>
@@ -180,57 +226,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter2_LinkedList/FindIntersectionUnsortedList.java" />
-        <option value="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter2_LinkedList/RemoveDuplicateUnsortedList.java" />
-        <option value="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter2_LinkedList/FindIntersection.java" />
-        <option value="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter2_LinkedList/AddLinkListStraight.java" />
-        <option value="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter2_LinkedList/LoopDetection_8.java" />
-        <option value="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter2_LinkedList/FindIntersection_7.java" />
-        <option value="$PROJECT_DIR$/src/linkedList/Add2LinkedLists.java" />
-        <option value="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter2_LinkedList/AddLinkListStraight_5.java" />
-        <option value="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter2_LinkedList/FindKthLastElementInLinkedList_2.java" />
-        <option value="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter2_LinkedList/RemoveDuplicateUnsortedList_1.java" />
-        <option value="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter2_LinkedList/DeleteMiddleNode_3.java" />
-        <option value="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter3_StacksAndQueues/StackMinInO1.java" />
-        <option value="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter4_TreeAndGraphs/CreateMinHgtBinaryTreeFromSortedArray_2.java" />
-        <option value="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter4_TreeAndGraphs/ValidateIfBinaryTreeIsBalance_4.java" />
-        <option value="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter4_TreeAndGraphs/ValidateBst_5.java" />
-        <option value="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter4_TreeAndGraphs/LowestCommonAncestor_8.java" />
-        <option value="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter4_TreeAndGraphs/CheckSubtree_10.java" />
-        <option value="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter4_TreeAndGraphs/RandomNode_11.java" />
-        <option value="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter4_TreeAndGraphs/CountPathForSum_12.java" />
-        <option value="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter4_TreeAndGraphs/RouteBetweenNodes_1.java" />
-        <option value="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter4_TreeAndGraphs/ListOfDepths_3.java" />
-        <option value="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter6_Puzzles/EggDropPuzzle_8.java" />
+        <option value="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter17_Hard/RandomSet_3.java" />
+        <option value="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter17_Hard/LettersAndNumbers_5.java" />
+        <option value="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter17_Hard/Count2sInARange_6.java" />
+        <option value="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter17_Hard/BabyNames_7.java" />
+        <option value="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter17_Hard/CircusTower_8.java" />
+        <option value="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter17_Hard/KthMultipleUglyNumbers_9.java" />
+        <option value="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter17_Hard/MajorityElement_10.java" />
+        <option value="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter17_Hard/WordDistance_11.java" />
+        <option value="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter17_Hard/VolumeOfHistogram_21.java" />
+        <option value="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter17_Hard/Masseuse_16.java" />
+        <option value="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter5_BitManipulation/RealNumberToBits_2.java" />
+        <option value="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter5_BitManipulation/FlipToWin_3.java" />
+        <option value="$PROJECT_DIR$/src/graphs/implementation/GraphImplementationAdjacencyMatrix.java" />
+        <option value="$PROJECT_DIR$/src/graphs/traversal/GraphTraversalDFS.java" />
+        <option value="$PROJECT_DIR$/src/graphs/dfsPrograms/countIslandsInMatrix.java" />
+        <option value="$PROJECT_DIR$/src/algorithm/GreedyActivitySelection.java" />
+        <option value="$PROJECT_DIR$/src/algorithm/GreedyOptimalMerge.java" />
+        <option value="$PROJECT_DIR$/src/algorithm/GreedyJobSequencing.java" />
+        <option value="$PROJECT_DIR$/src/amazon/BalancedParanthesis.java" />
+        <option value="$PROJECT_DIR$/src/amazon/FindTripletSum.java" />
+        <option value="$PROJECT_DIR$/src/amazon/NextGreaterElement.java" />
         <option value="$PROJECT_DIR$/src/array/dynamicProgramming/CountWaystoReachNthStair.java" />
-        <option value="$PROJECT_DIR$/src/array/dynamicProgramming/CountPathinMatrix.java" />
-        <option value="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter8_DynamicProgAndRecursion/TripleStepCountWays_1.java" />
-        <option value="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter8_DynamicProgAndRecursion/RobotInAGrid_2.java" />
-        <option value="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter8_DynamicProgAndRecursion/Magiczindex_3.java" />
-        <option value="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter8_DynamicProgAndRecursion/FindSubsets_4.java" />
+        <option value="$PROJECT_DIR$/src/algorithm/GreedyPoliceCatchThief.java" />
+        <option value="$PROJECT_DIR$/src/array/dynamicProgramming/MinJumpsToReachEnd.java" />
+        <option value="$PROJECT_DIR$/src/array/optimization/MaxSubArrayAvg.java" />
+        <option value="$PROJECT_DIR$/src/array/optimization/RearrangeArray.java" />
         <option value="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter8_DynamicProgAndRecursion/RecursiveMultiply_5.java" />
-        <option value="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter8_DynamicProgAndRecursion/PermutationUniqueCharString_6.java" />
-        <option value="$PROJECT_DIR$/src/amazon/AllStringPermutations.java" />
-        <option value="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter8_DynamicProgAndRecursion/PermutationUniqueCharString_7.java" />
-        <option value="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter8_DynamicProgAndRecursion/PermutationWithDuplicates_8.java" />
-        <option value="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter8_DynamicProgAndRecursion/TowerOfHanoi_6.java" />
-        <option value="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter8_DynamicProgAndRecursion/ParenthesisPairs_9.java" />
-        <option value="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter8_DynamicProgAndRecursion/PaintFill_10.java" />
-        <option value="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter8_DynamicProgAndRecursion/CoinChangeNoOfWays_11.java" />
-        <option value="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter10_SortingAndSearching/Merge2SortedArrayIntoOne_1.java" />
-        <option value="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter10_SortingAndSearching/GroupAnagram_2.java" />
-        <option value="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter10_SortingAndSearching/SearchInRotatedArray_3.java" />
-        <option value="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter10_SortingAndSearching/SortedSearchNoSize_4.java" />
         <option value="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter10_SortingAndSearching/SparseSearch_5.java" />
-        <option value="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter10_SortingAndSearching/SortedMatrixSearch_9.java" />
         <option value="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter10_SortingAndSearching/PeaksAndValleys_11.java" />
-        <option value="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter16_MediumLevelPrograms/NumberSwapper_1.java" />
-        <option value="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter16_MediumLevelPrograms/WordFrequencies_2.java" />
-        <option value="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter16_MediumLevelPrograms/TicTacToe_4.java" />
-        <option value="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter16_MediumLevelPrograms/TrailingZeroesInFactorial_5.java" />
-        <option value="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter16_MediumLevelPrograms/SmallestDiffPair_6.java" />
-        <option value="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter16_MediumLevelPrograms/SubSortingArray_16.java" />
-        <option value="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter16_MediumLevelPrograms/ContiguousSubSequenceLargestSum_17.java" />
+        <option value="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter10_SortingAndSearching/SearchInRotatedArray_3.java" />
+        <option value="$PROJECT_DIR$/src/array/CheckStringInAnotherString.java" />
+        <option value="$PROJECT_DIR$/src/array/SumOfNNumberRecursive.java" />
+        <option value="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter1_Arrays/ValidateStringRotaion.java" />
+        <option value="$PROJECT_DIR$/src/array/dynamicProgramming/CoinChangeProblem.java" />
+        <option value="$PROJECT_DIR$/src/linkedList/LinkedList.java" />
+        <option value="$PROJECT_DIR$/src/BinaryTree.java" />
+        <option value="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter4_TreeAndGraphs/ValidateBst_5.java" />
+        <option value="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter4_TreeAndGraphs/ValidateIfBinaryTreeIsBalance_4.java" />
+        <option value="$PROJECT_DIR$/src/graphs/traversal/GraphTraversalBFS.java" />
+        <option value="$PROJECT_DIR$/src/graphs/implementation/GraphImplementationAdjacencyList.java" />
+        <option value="$PROJECT_DIR$/src/graphs/DijkstrasAlgorithmGreedymethod.java" />
+        <option value="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter3_StacksAndQueues/SortStack.java" />
+        <option value="$PROJECT_DIR$/src/graphs/dfsPrograms/FindAllPathsFromAtoB.java" />
+        <option value="$PROJECT_DIR$/src/array/dynamicProgramming/EditDistance.java" />
+        <option value="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter8_DynamicProgAndRecursion/PaintFill_10.java" />
+        <option value="$PROJECT_DIR$/src/linkedList/Deletion.java" />
+        <option value="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter2_LinkedList/LoopDetection_8.java" />
+        <option value="$PROJECT_DIR$/src/linkedList/DetectLoop.java" />
+        <option value="$PROJECT_DIR$/src/algorithm/MaxHeapImplementation.java" />
+        <option value="$PROJECT_DIR$/src/array/leetCode/LargestSumContiguousSubarray.java" />
+        <option value="$PROJECT_DIR$/src/test.java" />
       </list>
     </option>
   </component>
@@ -240,8 +286,8 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="y" value="53" />
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
     <option name="width" value="1680" />
     <option name="height" value="949" />
   </component>
@@ -252,7 +298,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -269,18 +314,6 @@
               <item name="JavaDataStructure" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaDataStructure" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaDataStructure" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaDataStructure" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="amazon" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaDataStructure" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaDataStructure" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="array" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -288,14 +321,7 @@
               <item name="JavaDataStructure" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="array" type="462c0819:PsiDirectoryNode" />
-              <item name="dynamicProgramming" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaDataStructure" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaDataStructure" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="array" type="462c0819:PsiDirectoryNode" />
-              <item name="leetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="optimization" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JavaDataStructure" type="b2602c69:ProjectViewProjectNode" />
@@ -314,37 +340,7 @@
               <item name="JavaDataStructure" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaDataStructure" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="General" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaDataStructure" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaDataStructure" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="jdbcSample" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaDataStructure" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaDataStructure" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="linkedList" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaDataStructure" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaDataStructure" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="sorting" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaDataStructure" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaDataStructure" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="stack" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaDataStructure" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaDataStructure" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="BinaryTree.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </path>
             <path>
               <item name="JavaDataStructure" type="b2602c69:ProjectViewProjectNode" />
@@ -425,6 +421,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -451,13 +448,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ContiguousSubSequenceLargestSum_17">
-    <configuration name="ContiguousSubSequenceLargestSum_17" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="crackingTheCodingInterview.chapter16_MediumLevelPrograms.ContiguousSubSequenceLargestSum_17" />
+  <component name="RunManager" selected="Application.MoveZeros">
+    <configuration name="EditDistance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array.dynamicProgramming.EditDistance" />
       <module name="ProgramPrac" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="crackingTheCodingInterview.chapter16_MediumLevelPrograms.*" />
+          <option name="PATTERN" value="array.dynamicProgramming.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -478,12 +475,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SmallestDiffPair_6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="crackingTheCodingInterview.chapter16_MediumLevelPrograms.SmallestDiffPair_6" />
+    <configuration name="ListOfDepths_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="crackingTheCodingInterview.chapter4_TreeAndGraphs.ListOfDepths_3" />
       <module name="ProgramPrac" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="crackingTheCodingInterview.chapter16_MediumLevelPrograms.*" />
+          <option name="PATTERN" value="crackingTheCodingInterview.chapter4_TreeAndGraphs.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -491,12 +488,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SubSortingArray_16" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="crackingTheCodingInterview.chapter16_MediumLevelPrograms.SubSortingArray_16" />
+    <configuration name="MoveZeros" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array.optimization.MoveZeros" />
       <module name="ProgramPrac" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="crackingTheCodingInterview.chapter16_MediumLevelPrograms.*" />
+          <option name="PATTERN" value="array.optimization.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -504,33 +501,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TrailingZeroesInFactorial_5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="crackingTheCodingInterview.chapter16_MediumLevelPrograms.TrailingZeroesInFactorial_5" />
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test" />
       <module name="ProgramPrac" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="crackingTheCodingInterview.chapter16_MediumLevelPrograms.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.TrailingZeroesInFactorial_5" />
-      <item itemvalue="Application.SmallestDiffPair_6" />
-      <item itemvalue="Application.SubSortingArray_16" />
+      <item itemvalue="Application.EditDistance" />
+      <item itemvalue="Application.ListOfDepths_3" />
+      <item itemvalue="Application.test" />
       <item itemvalue="Application.LargestSumContiguousSubarray" />
-      <item itemvalue="Application.ContiguousSubSequenceLargestSum_17" />
+      <item itemvalue="Application.MoveZeros" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ContiguousSubSequenceLargestSum_17" />
+        <item itemvalue="Application.MoveZeros" />
+        <item itemvalue="Application.test" />
         <item itemvalue="Application.LargestSumContiguousSubarray" />
-        <item itemvalue="Application.SubSortingArray_16" />
-        <item itemvalue="Application.SmallestDiffPair_6" />
-        <item itemvalue="Application.TrailingZeroesInFactorial_5" />
+        <item itemvalue="Application.ListOfDepths_3" />
+        <item itemvalue="Application.EditDistance" />
       </list>
     </recent_temporary>
   </component>
@@ -580,7 +571,7 @@
     <frame x="0" y="23" width="1680" height="949" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26678878" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2728938" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -1055,403 +1046,448 @@
           <properties />
           <option name="timeStamp" value="116" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/crackingTheCodingInterview/chapter17_Hard/LettersAndNumbers_5.java</url>
+          <line>22</line>
+          <properties />
+          <option name="timeStamp" value="117" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/crackingTheCodingInterview/chapter17_Hard/LettersAndNumbers_5.java</url>
+          <line>21</line>
+          <properties />
+          <option name="timeStamp" value="118" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/crackingTheCodingInterview/chapter17_Hard/BabyNames_7.java</url>
+          <line>48</line>
+          <properties />
+          <option name="timeStamp" value="126" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/crackingTheCodingInterview/chapter17_Hard/BabyNames_7.java</url>
+          <line>55</line>
+          <properties />
+          <option name="timeStamp" value="127" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/algorithm/GreedyPoliceCatchThief.java</url>
+          <line>27</line>
+          <properties />
+          <option name="timeStamp" value="128" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/array/dynamicProgramming/LongestCommonContinuousSubstring.java</url>
+          <line>25</line>
+          <properties />
+          <option name="timeStamp" value="129" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/array/dynamicProgramming/LongestCommonContinuousSubstring.java</url>
+          <line>6</line>
+          <properties />
+          <option name="timeStamp" value="130" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/array/dynamicProgramming/CoinChangeProblem.java</url>
+          <line>64</line>
+          <properties />
+          <option name="timeStamp" value="131" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/crackingTheCodingInterview/chapter2_LinkedList/LoopDetection_8.java</url>
+          <line>50</line>
+          <properties />
+          <option name="timeStamp" value="132" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/crackingTheCodingInterview/chapter2_LinkedList/LoopDetection_8.java</url>
+          <line>49</line>
+          <properties />
+          <option name="timeStamp" value="133" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/crackingTheCodingInterview/chapter2_LinkedList/LoopDetection_8.java</url>
+          <line>48</line>
+          <properties />
+          <option name="timeStamp" value="134" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/linkedList/DetectLoop.java</url>
+          <line>44</line>
+          <properties />
+          <option name="timeStamp" value="135" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/linkedList/DetectLoop.java</url>
+          <line>45</line>
+          <properties />
+          <option name="timeStamp" value="137" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/crackingTheCodingInterview/chapter4_TreeAndGraphs/ValidateIfBinaryTreeIsBalance_4.java">
+    <entry file="file://$PROJECT_DIR$/src/crackingTheCodingInterview/chapter1_Arrays/MatrixRotationInPlace.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="13" column="5" selection-start-line="7" selection-start-column="3" selection-end-line="13" selection-end-column="5" />
+        <state relative-caret-position="35">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/crackingTheCodingInterview/chapter4_TreeAndGraphs/ValidateBst_5.java">
+    <entry file="file://$PROJECT_DIR$/src/crackingTheCodingInterview/chapter1_Arrays/OneAwayEdit.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="30" column="31" selection-start-line="30" selection-start-column="31" selection-end-line="30" selection-end-column="31" />
+        <state relative-caret-position="183">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/crackingTheCodingInterview/chapter4_TreeAndGraphs/FindSuccessor_6.java">
+    <entry file="file://$PROJECT_DIR$/src/crackingTheCodingInterview/chapter1_Arrays/ZeroMatrix.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="28" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
+        <state relative-caret-position="-76">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/crackingTheCodingInterview/chapter3_StacksAndQueues/SortStack.java">
+    <entry file="file://$PROJECT_DIR$/src/crackingTheCodingInterview/chapter1_Arrays/StringCompression.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/crackingTheCodingInterview/chapter1_Arrays/ValidateStringRotaion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/crackingTheCodingInterview/chapter1_Arrays/ValidateUniqueCharInString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-212">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/crackingTheCodingInterview/chapter1_Arrays/ReplaceSpaces.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="62">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/array/dynamicProgramming/MaxMatrixSizeWith1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/BinaryTree.java">
+    <entry file="file://$PROJECT_DIR$/src/graphs/dfsPrograms/countIslandsInMatrix.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        <state relative-caret-position="-253">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/crackingTheCodingInterview/chapter4_TreeAndGraphs/RandomNode_11.java">
+    <entry file="file://$PROJECT_DIR$/src/amazon/FindTripletSum.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="32" column="41" selection-start-line="26" selection-start-column="8" selection-end-line="32" selection-end-column="41" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="419">
+          <caret line="31" column="24" lean-forward="true" selection-start-line="31" selection-start-column="24" selection-end-line="31" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/crackingTheCodingInterview/chapter4_TreeAndGraphs/RouteBetweenNodes_1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="40" column="31" selection-start-line="40" selection-start-column="27" selection-end-line="40" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/crackingTheCodingInterview/chapter4_TreeAndGraphs/ListOfDepths_3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/crackingTheCodingInterview/chapter4_TreeAndGraphs/CountPathForSum_12.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="60" selection-start-line="4" selection-start-column="60" selection-end-line="4" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/crackingTheCodingInterview/chapter4_TreeAndGraphs/CheckSubtree_10.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="31" column="41" selection-start-line="21" selection-start-column="3" selection-end-line="31" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/crackingTheCodingInterview/chapter4_TreeAndGraphs/LowestCommonAncestor_8.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="44" selection-start-line="24" selection-start-column="44" selection-end-line="24" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/crackingTheCodingInterview/chapter4_TreeAndGraphs/BuildOrder_7.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/crackingTheCodingInterview/chapter4_TreeAndGraphs/BSTSequence_9.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/crackingTheCodingInterview/chapter6_Puzzles/EggDropPuzzle_8.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="30" column="31" selection-start-line="30" selection-start-column="31" selection-end-line="30" selection-end-column="31" />
-          <folding>
-            <element signature="e#237#238#0" expanded="true" />
-            <element signature="e#286#287#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/array/dynamicProgramming/FibonacciDp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/array/dynamicProgramming/CountWaystoReachNthStair.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="615">
-          <caret line="41" column="5" selection-start-line="41" selection-start-column="5" selection-end-line="41" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/crackingTheCodingInterview/chapter8_DynamicProgAndRecursion/TripleStepCountWays_1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-          <folding>
-            <element signature="e#233#234#0" expanded="true" />
-            <element signature="e#281#282#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/array/dynamicProgramming/CountPathinMatrix.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="102" selection-start-line="7" selection-start-column="102" selection-end-line="7" selection-end-column="102" />
-          <folding>
-            <element signature="e#366#367#0" expanded="true" />
-            <element signature="e#396#397#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/crackingTheCodingInterview/chapter8_DynamicProgAndRecursion/RobotInAGrid_2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/crackingTheCodingInterview/chapter8_DynamicProgAndRecursion/Magiczindex_3.java">
+    <entry file="file://$PROJECT_DIR$/src/array/optimization/RearrangeArray.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
-          <caret line="5" column="66" selection-start-line="5" selection-start-column="66" selection-end-line="5" selection-end-column="66" />
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/crackingTheCodingInterview/chapter8_DynamicProgAndRecursion/FindSubsets_4.java">
+    <entry file="file://$PROJECT_DIR$/src/array/optimization/MinSubArrayAvg.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="137">
-          <caret line="12" column="51" selection-start-line="12" selection-start-column="51" selection-end-line="12" selection-end-column="51" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="-131">
+          <caret line="13" column="41" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="41" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/crackingTheCodingInterview/chapter8_DynamicProgAndRecursion/RecursiveMultiply_5.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-          <folding>
-            <element signature="e#157#158#0" expanded="true" />
-            <element signature="e#222#223#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/amazon/AllStringPermutations.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="65">
-          <caret line="15" column="36" lean-forward="true" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="36" />
-          <folding>
-            <element signature="e#1276#1291#0" expanded="true" />
-            <element signature="e#1343#1358#0" expanded="true" />
-            <element signature="e#1407#1416#0" expanded="true" />
-            <element signature="e#1465#1474#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/crackingTheCodingInterview/chapter8_DynamicProgAndRecursion/PermutationUniqueCharString_7.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="29" column="5" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="29" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/crackingTheCodingInterview/chapter8_DynamicProgAndRecursion/PermutationWithDuplicates_8.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="33" column="5" lean-forward="true" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/crackingTheCodingInterview/chapter8_DynamicProgAndRecursion/TowerOfHanoi_6.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/crackingTheCodingInterview/chapter8_DynamicProgAndRecursion/ParenthesisPairs_9.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="124" lean-forward="true" selection-start-line="5" selection-start-column="124" selection-end-line="5" selection-end-column="124" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/crackingTheCodingInterview/chapter8_DynamicProgAndRecursion/PaintFill_10.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="73" selection-start-line="7" selection-start-column="73" selection-end-line="7" selection-end-column="73" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/crackingTheCodingInterview/chapter8_DynamicProgAndRecursion/CoinChangeNo/OfWays_11.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/array/dynamicProgramming/CoinChangeProblem.java">
+    <entry file="file://$PROJECT_DIR$/src/array/optimization/MaxDistance.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/crackingTheCodingInterview/chapter10_SortingAndSearching/Merge2SortedArrayIntoOne_1.java">
+    <entry file="file://$PROJECT_DIR$/src/array/optimization/MaxSubArrayAvg.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        <state relative-caret-position="60">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/crackingTheCodingInterview/chapter10_SortingAndSearching/GroupAnagram_2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/crackingTheCodingInterview/chapter10_SortingAndSearching/SearchInRotatedArray_3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/array/BinarySearchElement.java">
+    <entry file="file://$PROJECT_DIR$/src/array/optimization/MinDistance.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
           <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/crackingTheCodingInterview/chapter10_SortingAndSearching/SortedSearchNoSize_4.java">
+    <entry file="file://$PROJECT_DIR$/src/array/optimization/MiniumumDifference.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="151" selection-start-line="9" selection-start-column="151" selection-end-line="9" selection-end-column="151" />
+        <state relative-caret-position="60">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/src.zip!/com/sun/imageio/plugins/jpeg/DQTMarkerSegment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2128">
-          <caret line="187" column="29" selection-start-line="187" selection-start-column="29" selection-end-line="187" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/crackingTheCodingInterview/chapter8_DynamicProgAndRecursion/CoinChangeNoOfWays_11.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="42" lean-forward="true" selection-start-line="16" selection-start-column="42" selection-end-line="16" selection-end-column="42" />
-          <folding>
-            <element signature="e#150#151#0" expanded="true" />
-            <element signature="e#218#219#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/crackingTheCodingInterview/chapter10_SortingAndSearching/SparseSearch_5.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="44" selection-start-line="6" selection-start-column="44" selection-end-line="6" selection-end-column="44" />
-          <folding>
-            <element signature="e#364#365#0" expanded="true" />
-            <element signature="e#413#414#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/crackingTheCodingInterview/chapter10_SortingAndSearching/SortedMatrixSearch_9.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="392">
-          <caret line="35" column="9" selection-start-line="35" selection-start-column="9" selection-end-line="35" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/crackingTheCodingInterview/chapter16_MediumPrograms.java">
+    <entry file="file://$PROJECT_DIR$/src/array/SecondLargestNumber.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
-          <caret line="2" column="37" selection-start-line="2" selection-start-column="37" selection-end-line="2" selection-end-column="37" />
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/array/SecondLargestElement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/linkedList/RemoveDuplicatesSortedUnsorted.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-239">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/linkedList/Reverse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-624">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/linkedList/Deletion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="67" column="18" selection-start-line="67" selection-start-column="18" selection-end-line="67" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/linkedList/SearchNthNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-628">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/linkedList/PrintMiddle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/linkedList/DetectLoop.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="372">
+          <caret line="45" selection-start-line="45" selection-end-line="45" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/crackingTheCodingInterview/chapter10_SortingAndSearching/PeaksAndValleys_11.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+        <state relative-caret-position="239">
+          <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/crackingTheCodingInterview/chapter16_MediumLevelPrograms/NumberSwapper_1.java">
+    <entry file="file://$PROJECT_DIR$/src/array/dynamicProgramming/LongestPallindromSubstring.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="100" selection-start-line="3" selection-start-column="100" selection-end-line="3" selection-end-column="100" />
+        <state relative-caret-position="60">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/crackingTheCodingInterview/chapter16_MediumLevelPrograms/WordFrequencies_2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="80" selection-start-line="7" selection-start-column="80" selection-end-line="7" selection-end-column="80" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/crackingTheCodingInterview/chapter16_MediumLevelPrograms/Intersection_3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/crackingTheCodingInterview/chapter16_MediumLevelPrograms/TicTacToe_4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/crackingTheCodingInterview/chapter16_MediumLevelPrograms/TrailingZeroesInFactorial_5.java">
+    <entry file="file://$PROJECT_DIR$/src/array/dynamicProgramming/LongestCommonContinuousSubstring.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding>
-            <element signature="e#231#232#0" expanded="true" />
-            <element signature="e#267#268#0" expanded="true" />
-          </folding>
+          <caret line="5" column="32" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="32" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/crackingTheCodingInterview/chapter16_MediumLevelPrograms/SmallestDiffPair_6.java">
+    <entry file="file://$PROJECT_DIR$/src/StackClass.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="32">
-          <caret line="13" column="20" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
+        <state relative-caret-position="-219">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/crackingTheCodingInterview/chapter16_MediumLevelPrograms/SubSortingArray_16.java">
+    <entry file="file://$PROJECT_DIR$/src/stack/StackMainPushPop.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="227">
-          <caret line="40" column="22" selection-start-line="40" selection-start-column="22" selection-end-line="40" selection-end-column="22" />
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/array/dynamicProgramming/LongestIncreasingSubsequence.java">
+    <entry file="file://$PROJECT_DIR$/src/linkedList/circularLinkedList/CLLTraversal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-380">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/crackingTheCodingInterview/chapter2_LinkedList/LoopDetection_8.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="410">
+          <caret line="52" column="27" lean-forward="true" selection-start-line="52" selection-start-column="27" selection-end-line="52" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/crackingTheCodingInterview/chapter4_TreeAndGraphs/BSTSequence_9.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/crackingTheCodingInterview/chapter4_TreeAndGraphs/BuildOrder_7.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/crackingTheCodingInterview/chapter4_TreeAndGraphs/CheckSubtree_10.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/array/leetCode/LargestSumContiguousSubarray.java">
+    <entry file="file://$PROJECT_DIR$/src/crackingTheCodingInterview/chapter4_TreeAndGraphs/CountPathForSum_12.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        <state relative-caret-position="135">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/crackingTheCodingInterview/chapter16_MediumLevelPrograms/ContiguousSubSequenceLargestSum_17.java">
+    <entry file="file://$PROJECT_DIR$/src/crackingTheCodingInterview/chapter4_TreeAndGraphs/LowestCommonAncestor_8.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="20" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="20" />
+        <state relative-caret-position="183">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/array/dynamicProgramming/EditDistance.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="129">
+          <caret line="19" column="28" lean-forward="true" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithm/MaxHeapImplementation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="59" column="19" selection-start-line="59" selection-start-column="19" selection-end-line="59" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/array/dynamicProgramming/LongestCommonSubsequence.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/array/CheckStringInAnotherString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/array/CommonElement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/array/dynamicProgramming/LongestIncreasingSubsequence.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="89">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/crackingTheCodingInterview/chapter4_TreeAndGraphs/ListOfDepths_3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/amazon/NextGreaterElement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/crackingTheCodingInterview/chapter4_TreeAndGraphs/ValidateBst_5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/amazon/AllStringPermutations.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/crackingTheCodingInterview/chapter10_SortingAndSearching/SearchInRotatedArray_3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/array/leetCode/LargestSumContiguousSubarray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="22" column="20" lean-forward="true" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/crackingTheCodingInterview/chapter16_MediumLevelPrograms/Intersection_3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="31" column="18" selection-start-line="31" selection-end-line="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/array/optimization/MoveZeros.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
         </state>
       </provider>
     </entry>

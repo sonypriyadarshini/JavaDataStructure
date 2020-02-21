@@ -4,6 +4,8 @@ import java.util.*;
 
 /*
 https://medium.com/@mukeshsingal/greedy-job-sequencing-problem-in-java-38a5e664d540
+
+https://www.youtube.com/watch?v=zPtI8q9gvX8
 */
 public class GreedyJobSequencing {
     public static void main(String[] args) {

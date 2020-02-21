@@ -21,7 +21,7 @@ public class PeaksAndValleys_11 {
         }
 
     }
-
+//O(nlongn) solution - as it is with sorting
     static int[] peaksAndValleySort(int a[]){
 
         //sort the given array
@@ -46,4 +46,6 @@ public class PeaksAndValleys_11 {
         return ar;
 
     }
+
+    //O(n) solution - without sorting
 }

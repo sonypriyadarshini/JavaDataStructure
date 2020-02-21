@@ -2,6 +2,8 @@ package amazon;
 
 import java.util.Stack;
 
+//https://www.geeksforgeeks.org/next-greater-element/
+
 public class NextGreaterElement {
     public static void main(String[] args) {
         nextGreater();

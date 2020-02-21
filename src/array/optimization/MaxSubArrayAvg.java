@@ -1,5 +1,7 @@
 package array.optimization;
 
+//https://www.geeksforgeeks.org/find-maximum-average-subarray-of-k-length/
+
 public class MaxSubArrayAvg {
     public static void main(String args[]) {
         int arr[]={1, 12, -5, -6, 50, 3}, k=4;

@@ -7,6 +7,8 @@ Insert
 Remove
 Replace
 All of the above operations are of equal cost.
+
+https://www.youtube.com/watch?v=b6AGUjqIPsA
  */
 
 public class EditDistance {
@@ -23,10 +25,12 @@ public class EditDistance {
         int dp[][]=new int[l1+1][l2+1];
         for(int i=0;i<=l1;i++)
             for(int j=0;j<=l2;j++){
-                if(i==0)
-                    dp[i][j]=j;
+                if(i==0&&j==0)
+                    dp[i][j]=0;
+                else if(i==0)
+                    dp[i][j]=dp[i][j-1]+1;
                 else if(j==0)
-                    dp[i][j]=i;
+                    dp[i][j]=dp[i-1][j]+1;
                 else if(str1.charAt(i-1)==str2.charAt(j-1))
                     dp[i][j]=dp[i-1][j-1];
                 else

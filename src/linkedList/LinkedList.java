@@ -18,9 +18,10 @@ public class LinkedList {
         Node first = new Node(0);
         Node second = new Node(2);
         Node third = new Node(3);
+        linkedList.head.next=first;
         first.next=second;
         second.next=third;
-        linkedList.printLinkedList(first);
+        linkedList.printLinkedList(linkedList.head);
         linkedList.insertLinkList(second,new Node(8));
         linkedList.printLinkedList(first);
         System.out.println("lenght of linked list: "+linkedList.lengthLinkList(first));

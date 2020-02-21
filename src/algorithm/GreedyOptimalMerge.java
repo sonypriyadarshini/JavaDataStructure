@@ -3,6 +3,8 @@ package algorithm;
 import java.util.Arrays;
 import java.util.PriorityQueue;
 
+//https://www.geeksforgeeks.org/optimal-file-merge-patterns/
+
 public class GreedyOptimalMerge {
 
     public static void main(String[] args) {

@@ -4,7 +4,7 @@ package crackingTheCodingInterview.chapter10_SortingAndSearching;
 Sparse Search: Given a sorted array of strings that is interspersed with empty strings,
 write a method to find the location of a given string.
 
-https://www.geeksforgeeks.org/sparse-search/
+    https://www.geeksforgeeks.org/sparse-search/
  */
 public class SparseSearch_5 {
 

@@ -10,12 +10,12 @@ import java.util.Map;
 
 public class SumInPair {
     public static void main(String args[]){
-        int ar[] = {-10, 0, 2, -2, -20, 10};
-        int sum = 20;
+        int ar[] = { 1, 5, 7, -1, 5 };
+        int sum = 6;
         SumInPair sumInPair = new SumInPair();
 //        sumInPair.findPair(ar,sum);
-//        sumInPair.findPairUsingHash(ar,sum);
-        sumInPair.findPairUsingMap(ar,sum);
+        sumInPair.findPairUsingHash(ar,sum);
+//        sumInPair.findPairUsingMap(ar,sum);
     }
 
     //Complexity:: O(n^2)
