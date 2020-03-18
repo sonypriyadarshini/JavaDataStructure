@@ -33,7 +33,7 @@ public class LongestCommonSubsequence {
                     L[i][j] = Math.max(L[i-1][j], L[i][j-1]);
             }
         }
-        System.out.println("Length of longest Common substring is "+L[m][n]);
+        System.out.println("Length of longest Common subsequence is "+L[m][n]);
 
     }
 }

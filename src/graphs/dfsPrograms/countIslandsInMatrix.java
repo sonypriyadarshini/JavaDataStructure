@@ -2,7 +2,7 @@ package graphs.dfsPrograms;
 
 //https://www.geeksforgeeks.org/find-number-of-islands/
 
-public class countIslandsInMatrix {
+public class  countIslandsInMatrix {
     static int vert;
 
     public static void main(String[] args) {

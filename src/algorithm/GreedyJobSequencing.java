@@ -37,7 +37,11 @@ public class GreedyJobSequencing {
 
         @Override
         public int compareTo(Job otherJob) {
-            return otherJob.profit - this.profit;
+            if(otherJob.profit>this.profit)
+                return 1;
+            else
+                return -1;
+//            return otherJob.profit - this.profit;
         }
 
         public Job(char id, int deadline, int profit) {

@@ -18,12 +18,19 @@ public class MatrixRotationInPlace {
     static void rotateMatrix(int mat[][]){
 
         //transpose
-        for(int i=0;i<mat.length;i++){
-            for(int j=1;j<mat[0].length;j++){
+        for(int i=0;i<mat.length-1;i++){
+            for(int j=i+1;j<mat[0].length;j++){
                 int temp=mat[j][i];
                 mat[j][i]=mat[i][j];
                 mat[i][j]=temp;
             }
+        }
+
+        //print matrix
+        for (int i = 0; i < mat.length; i++) {
+            for (int j = 0; j < mat[0].length; j++)
+                System.out.print(mat[i][j] + " ");
+            System.out.println("");
         }
 
         //reverse columns

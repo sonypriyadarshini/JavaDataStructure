@@ -13,6 +13,30 @@ public class GreedyActivitySelection {
         Integer s[] =  {10,12,20};
         Integer f[] =  {30,20,25};
         selectActivity(s,f);
+
+        ArrayList<jobs> lis=new ArrayList<>();
+        lis.add(new jobs(10,30));
+        lis.add(new jobs(12,20));
+        lis.add(new jobs(20,25));
+        Collections.sort(lis);
+        System.out.println(lis.get(0).stime);
+    }
+
+    static class jobs implements Comparable<jobs>{
+        int stime,ftime;
+
+        @Override
+        public int compareTo(jobs job){
+            if (this.ftime>job.ftime)
+                return 1;
+            else
+                    return -1;
+
+        }
+        public jobs(int stime, int ftime){
+            this.ftime=ftime;
+            this.stime=stime;
+        }
     }
 
     public static void selectActivity(Integer ar1[], Integer ar2[]){

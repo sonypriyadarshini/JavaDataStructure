@@ -5,7 +5,7 @@ import java.util.HashSet;
 public class PairsWithSumInArray_24 {
 
     public static void main(String[] args) {
-        int ar[] = { 1, 5, 7, -1, 5 };
+        int ar[] = { 1, 5, 7, -1 };
         int sum = 6;
         findSumPairs(ar,sum);
     }

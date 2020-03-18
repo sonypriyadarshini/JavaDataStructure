@@ -2,7 +2,7 @@ package array.dynamicProgramming;
 
 import java.lang.reflect.Array;
 
-public class LongestPallindromSubstring {
+public class    LongestPallindromSubstring {
 
     public static void main(String[] args) {
         longestpallindrome("abcba");

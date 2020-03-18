@@ -11,7 +11,7 @@ All of the above operations are of equal cost.
 https://www.youtube.com/watch?v=b6AGUjqIPsA
  */
 
-public class EditDistance {
+public class    EditDistance {
 
     public static void main(String args[]){
 

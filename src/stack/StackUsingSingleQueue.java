@@ -2,6 +2,7 @@ package stack;
 
 import java.util.LinkedList;
 import java.util.Queue;
+import java.util.Stack;
 
 public class StackUsingSingleQueue {
     Queue<Integer> queue1 = new LinkedList<Integer>();

@@ -26,6 +26,8 @@ public class LinkedList {
         linkedList.printLinkedList(first);
         System.out.println("lenght of linked list: "+linkedList.lengthLinkList(first));
         System.out.println("lenght of linked list: "+linkedList.lengthLinkListRecursive(first));
+
+        linkedList.validateCircular();
     }
 
     //print linked list
@@ -64,6 +66,19 @@ public class LinkedList {
 
     public void stackFromLinkedList(Node node){
         Node stacknode = node;
+
+    }
+
+    public void validateCircular(){
+        Node n=head;
+        while (n.next!=null&&n.next!=head){
+            n=n.next;
+        }
+
+        if(n.next==head)
+            System.out.println("circular at"+n.next.data);
+        else
+            System.out.println("not circular");
 
     }
 }

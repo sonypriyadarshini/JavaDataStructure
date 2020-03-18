@@ -1,6 +1,6 @@
 package amazon;
 
-import java.util.Stack;
+import java.util.*;
 
 //https://www.geeksforgeeks.org/next-greater-element/
 
@@ -12,6 +12,7 @@ public class NextGreaterElement {
     public static void nextGreater() {
         int[] arr = {11, 13, 21, 3};
         Stack<Integer> stack = new Stack<>();
+    HashSet<Integer> hashSet=new HashSet<>();
         stack.push(arr[0]);
         int element = 0,next;
         for (int i = 1; i < arr.length; i++) {
