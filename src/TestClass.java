@@ -291,7 +291,7 @@ int j=0;
         if(count==c.length)
             return -1;
         return -1;
-        //using char array of 26
+        //using char testpakg.array of 26
 
         //using indexof and lastindexof
     }

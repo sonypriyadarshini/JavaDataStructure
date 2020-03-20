@@ -2,35 +2,461 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="41f18f41-980f-4871-9479-fe4b1e24f500" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/testpakg/array/optimization/MaxDistance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/testpakg/crackingTheCodingInterview/chapter16_MediumLevelPrograms/Intersection_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/testpakg/crackingTheCodingInterview/chapter2_LinkedList/CheckLinkListPallindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/testpakg/crackingTheCodingInterview/chapter2_LinkedList/LinkListPartition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/testpakg/crackingTheCodingInterview/chapter4_TreeAndGraphs/BSTSequence_9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/testpakg/crackingTheCodingInterview/chapter4_TreeAndGraphs/BuildOrder_7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/testpakg/crackingTheCodingInterview/chapter4_TreeAndGraphs/FindSuccessor_6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/testpakg/linkedList/QuickSort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/BinaryTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProgramPrac/BinaryTree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/META-INF/ProgramPrac.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/algorithm/GreedyActivitySelection.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProgramPrac/algorithm/GreedyActivitySelection.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/algorithm/GreedyJobSequencing$Job.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProgramPrac/algorithm/GreedyJobSequencing$Job.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/algorithm/GreedyJobSequencing.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProgramPrac/algorithm/GreedyJobSequencing.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/amazon/NextGreaterElement.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProgramPrac/amazon/NextGreaterElement.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/array/dynamicProgramming/CountPathinMatrix.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProgramPrac/array/dynamicProgramming/CountPathinMatrix.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/array/dynamicProgramming/LongestCommonSubsequence.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProgramPrac/array/dynamicProgramming/LongestCommonSubsequence.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/crackingTheCodingInterview/chapter16_MediumLevelPrograms/PairsWithSumInArray_24.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProgramPrac/crackingTheCodingInterview/chapter16_MediumLevelPrograms/PairsWithSumInArray_24.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/crackingTheCodingInterview/chapter1_Arrays/MatrixRotationInPlace.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProgramPrac/crackingTheCodingInterview/chapter1_Arrays/MatrixRotationInPlace.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/linkedList/LinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProgramPrac/linkedList/LinkedList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/stack/StackUsingSingleQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProgramPrac/stack/StackUsingSingleQueue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/BinaryTree$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/BinaryTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/General/MaxDepthNestedParanthesis.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/General/OrderedBracket.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/General/SumUsingRecursion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/General/TrapWaterSum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/StackClass$Queue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/StackClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/StackUsingLinkedList$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/StackUsingLinkedList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/algorithm/GreedyActivitySelection$jobs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/algorithm/GreedyActivitySelection.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/algorithm/GreedyJobSequencing$Job.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/algorithm/GreedyJobSequencing.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/algorithm/GreedyOptimalMerge.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/algorithm/GreedyPoliceCatchThief.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/algorithm/MaxHeapImplementation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/amazon/AllStringPermutations.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/amazon/BalancedParanthesis.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/amazon/FindTripletSum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/amazon/NextGreaterElement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/array/Anagram.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/array/ArrayRotation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/array/ArraySort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/array/BinarySearchElement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/array/CheckStringInAnotherString.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/array/CommonElement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/array/CountEachElement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/array/CountRotation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/array/Fibonacci.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/array/FileReader.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/array/FindEachElementCount.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/array/LargestNonRepeatSeq.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/array/LongestSubSequence.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/array/MaxProdSubArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/array/MaxSubArrayMultiplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/array/MaxSumInArrayRotation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/array/RemoveDupWords.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/array/RemoveDuplicateCharFromString.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/array/RemoveRedundantChar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/array/RemoveVowels.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/array/ReverseArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/array/ReverseInGroups.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/array/ReverseMiddleWords.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/array/ReverseString.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/array/ReverseWords.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/array/SecondLargestElement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/array/SecondLargestNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/array/SortArrayByFrequency$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/array/SortArrayByFrequency.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/array/SumInPair.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/array/SumOfNNumberRecursive.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/array/SumRecursive2Numbers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/array/dynamicProgramming/CoinChangeProblem.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/array/dynamicProgramming/CountPathinMatrix.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/array/dynamicProgramming/CountWaystoReachNthStair.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/array/dynamicProgramming/EditDistance.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/array/dynamicProgramming/FibonacciDp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/array/dynamicProgramming/LongestCommonContinuousSubstring.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/array/dynamicProgramming/LongestCommonSubsequence.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/array/dynamicProgramming/LongestIncreasingSubsequence.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/array/dynamicProgramming/LongestPallindromSubstring.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/array/dynamicProgramming/MaxMatrixSizeWith1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/array/dynamicProgramming/MaxProfit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/array/dynamicProgramming/MinJumpsToReachEnd.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/array/dynamicProgramming/NumberOfTiles1XN.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/array/dynamicProgramming/ShortestCommonSubsequence.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/array/dynamicProgramming/SubsetSum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/array/leetCode/BrokenCalculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/array/leetCode/ClumsyFactorial.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/array/leetCode/CountFlightBookings.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/array/leetCode/DailyTemparature.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/array/leetCode/DistributeCandiesToPpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/array/leetCode/DominoRotationMin.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/array/leetCode/KConcatenationMaxSum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/array/leetCode/LargestSumContiguousSubarray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/array/leetCode/LargestSumContiguousSubarrayWith1Deletion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/array/leetCode/LemonadeChange.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/array/leetCode/LongestSubsequenceWithDifference.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/array/leetCode/LongestSubstringLength.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/array/leetCode/MedianOf2SortedArrays.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/array/leetCode/OddCellsMatrix.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/array/leetCode/ProductExceptSelf.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/array/leetCode/ReconstructMatrix2D.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/array/leetCode/StringReverseInplace.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/array/leetCode/StringToNumberAtoI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/array/leetCode/TopKFrequentElements$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/array/leetCode/TopKFrequentElements.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/array/numberodd.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/array/optimization/MaxDistance.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/array/optimization/MaxSubArrayAvg.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/array/optimization/MinDistance.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/array/optimization/MinSubArrayAvg.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/array/optimization/MiniumumDifference.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/array/optimization/MoveZeros.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/array/optimization/RearrangeArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/crackingTheCodingInterview/chapter10_SortingAndSearching/GroupAnagram_2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/crackingTheCodingInterview/chapter10_SortingAndSearching/Merge2SortedArrayIntoOne_1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/crackingTheCodingInterview/chapter10_SortingAndSearching/PeaksAndValleys_11.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/crackingTheCodingInterview/chapter10_SortingAndSearching/SearchInRotatedArray_3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/crackingTheCodingInterview/chapter10_SortingAndSearching/SortedMatrixSearch_9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/crackingTheCodingInterview/chapter10_SortingAndSearching/SortedSearchNoSize_4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/crackingTheCodingInterview/chapter10_SortingAndSearching/SparseSearch_5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/crackingTheCodingInterview/chapter16_MediumLevelPrograms/ContiguousSubSequenceLargestSum_17.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/crackingTheCodingInterview/chapter16_MediumLevelPrograms/Intersection_3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/crackingTheCodingInterview/chapter16_MediumLevelPrograms/NumberSwapper_1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/crackingTheCodingInterview/chapter16_MediumLevelPrograms/PairsWithSumInArray_24.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/crackingTheCodingInterview/chapter16_MediumLevelPrograms/PondSizes_19.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/crackingTheCodingInterview/chapter16_MediumLevelPrograms/SmallestDiffPair_6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/crackingTheCodingInterview/chapter16_MediumLevelPrograms/SubSortingArray_16.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/crackingTheCodingInterview/chapter16_MediumLevelPrograms/SumSwap_21.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/crackingTheCodingInterview/chapter16_MediumLevelPrograms/TicTacToe_4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/crackingTheCodingInterview/chapter16_MediumLevelPrograms/TrailingZeroesInFactorial_5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/crackingTheCodingInterview/chapter16_MediumLevelPrograms/WordFrequencies_2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/crackingTheCodingInterview/chapter17_Hard/Add2NumbersWithoutArithmeticOperators_1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/crackingTheCodingInterview/chapter17_Hard/BabyNames_7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/crackingTheCodingInterview/chapter17_Hard/CircusTower_8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/crackingTheCodingInterview/chapter17_Hard/Count2sInARange_6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/crackingTheCodingInterview/chapter17_Hard/KthMultipleUglyNumbers_9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/crackingTheCodingInterview/chapter17_Hard/LettersAndNumbers_5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/crackingTheCodingInterview/chapter17_Hard/MajorityElement_10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/crackingTheCodingInterview/chapter17_Hard/Masseuse_16.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/crackingTheCodingInterview/chapter17_Hard/RandomSet_3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/crackingTheCodingInterview/chapter17_Hard/VolumeOfHistogram_21.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/crackingTheCodingInterview/chapter17_Hard/WordDistance_11.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/crackingTheCodingInterview/chapter1_Arrays/CcheckPermutation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/crackingTheCodingInterview/chapter1_Arrays/MatrixRotationInPlace.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/crackingTheCodingInterview/chapter1_Arrays/OneAwayEdit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/crackingTheCodingInterview/chapter1_Arrays/ReplaceSpaces.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/crackingTheCodingInterview/chapter1_Arrays/StringCompression.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/crackingTheCodingInterview/chapter1_Arrays/ValidateStringRotaion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/crackingTheCodingInterview/chapter1_Arrays/ValidateUniqueCharInString.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/crackingTheCodingInterview/chapter1_Arrays/ZeroMatrix.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/crackingTheCodingInterview/chapter2_LinkedList/AddLinkListStraight_5$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/crackingTheCodingInterview/chapter2_LinkedList/AddLinkListStraight_5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/crackingTheCodingInterview/chapter2_LinkedList/CheckLinkListPallindrome.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/crackingTheCodingInterview/chapter2_LinkedList/DeleteMiddleNode_3$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/crackingTheCodingInterview/chapter2_LinkedList/DeleteMiddleNode_3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/crackingTheCodingInterview/chapter2_LinkedList/FindIntersection_7$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/crackingTheCodingInterview/chapter2_LinkedList/FindIntersection_7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/crackingTheCodingInterview/chapter2_LinkedList/FindKthLastElementInLinkedList_2$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/crackingTheCodingInterview/chapter2_LinkedList/FindKthLastElementInLinkedList_2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/crackingTheCodingInterview/chapter2_LinkedList/LinkListPartition.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/crackingTheCodingInterview/chapter2_LinkedList/LoopDetection_8$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/crackingTheCodingInterview/chapter2_LinkedList/LoopDetection_8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/crackingTheCodingInterview/chapter2_LinkedList/RemoveDuplicateUnsortedList_1$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/crackingTheCodingInterview/chapter2_LinkedList/RemoveDuplicateUnsortedList_1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/crackingTheCodingInterview/chapter3_StacksAndQueues/ArrayToThreeStacks.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/crackingTheCodingInterview/chapter3_StacksAndQueues/QueueUsingStacks.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/crackingTheCodingInterview/chapter3_StacksAndQueues/SortStack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/crackingTheCodingInterview/chapter3_StacksAndQueues/StackMinInO1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/crackingTheCodingInterview/chapter4_TreeAndGraphs/BSTSequence_9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/crackingTheCodingInterview/chapter4_TreeAndGraphs/BuildOrder_7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/crackingTheCodingInterview/chapter4_TreeAndGraphs/CheckSubtree_10$TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/crackingTheCodingInterview/chapter4_TreeAndGraphs/CheckSubtree_10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/crackingTheCodingInterview/chapter4_TreeAndGraphs/CountPathForSum_12$TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/crackingTheCodingInterview/chapter4_TreeAndGraphs/CountPathForSum_12.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/crackingTheCodingInterview/chapter4_TreeAndGraphs/CreateMinHgtBinaryTreeFromSortedArray_2$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/crackingTheCodingInterview/chapter4_TreeAndGraphs/CreateMinHgtBinaryTreeFromSortedArray_2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/crackingTheCodingInterview/chapter4_TreeAndGraphs/FindSuccessor_6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/crackingTheCodingInterview/chapter4_TreeAndGraphs/ListOfDepths_3$TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/crackingTheCodingInterview/chapter4_TreeAndGraphs/ListOfDepths_3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/crackingTheCodingInterview/chapter4_TreeAndGraphs/LowestCommonAncestor_8$TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/crackingTheCodingInterview/chapter4_TreeAndGraphs/LowestCommonAncestor_8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/crackingTheCodingInterview/chapter4_TreeAndGraphs/RandomNode_11$TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/crackingTheCodingInterview/chapter4_TreeAndGraphs/RandomNode_11.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/crackingTheCodingInterview/chapter4_TreeAndGraphs/RouteBetweenNodes_1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/crackingTheCodingInterview/chapter4_TreeAndGraphs/ValidateBst_5$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/crackingTheCodingInterview/chapter4_TreeAndGraphs/ValidateBst_5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/crackingTheCodingInterview/chapter4_TreeAndGraphs/ValidateIfBinaryTreeIsBalance_4$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/crackingTheCodingInterview/chapter4_TreeAndGraphs/ValidateIfBinaryTreeIsBalance_4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/crackingTheCodingInterview/chapter5_BitManipulation/FlipToWin_3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/crackingTheCodingInterview/chapter5_BitManipulation/RealNumberToBits_2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/crackingTheCodingInterview/chapter6_Puzzles/EggDropPuzzle_8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/crackingTheCodingInterview/chapter8_DynamicProgAndRecursion/CoinChangeNoOfWays_11.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/crackingTheCodingInterview/chapter8_DynamicProgAndRecursion/FindSubsets_4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/crackingTheCodingInterview/chapter8_DynamicProgAndRecursion/Magiczindex_3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/crackingTheCodingInterview/chapter8_DynamicProgAndRecursion/PaintFill_10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/crackingTheCodingInterview/chapter8_DynamicProgAndRecursion/ParenthesisPairs_9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/crackingTheCodingInterview/chapter8_DynamicProgAndRecursion/PermutationUniqueCharString_7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/crackingTheCodingInterview/chapter8_DynamicProgAndRecursion/PermutationWithDuplicates_8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/crackingTheCodingInterview/chapter8_DynamicProgAndRecursion/RecursiveMultiply_5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/crackingTheCodingInterview/chapter8_DynamicProgAndRecursion/RobotInAGrid_2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/crackingTheCodingInterview/chapter8_DynamicProgAndRecursion/TowerOfHanoi_6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/crackingTheCodingInterview/chapter8_DynamicProgAndRecursion/TripleStepCountWays_1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/graphs/DijkstrasAlgorithmGreedymethod.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/graphs/dfsPrograms/countIslandsInMatrix.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/graphs/implementation/GraphImplementationAdjacencyList$Graph.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/graphs/implementation/GraphImplementationAdjacencyList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/graphs/implementation/GraphImplementationAdjacencyMatrix$Graph.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/graphs/implementation/GraphImplementationAdjacencyMatrix.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/graphs/traversal/GraphTraversalBFS.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/graphs/traversal/GraphTraversalDFS.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/jdbcSample/jdbcSample1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/linkedList/Add2LinkedLists$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/linkedList/Add2LinkedLists.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/linkedList/AddNumber$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/linkedList/AddNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/linkedList/Deletion$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/linkedList/Deletion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/linkedList/DetectLoop$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/linkedList/DetectLoop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/linkedList/FirstNonRepeatingElement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/linkedList/Insertion$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/linkedList/Insertion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/linkedList/IntersectionSortedUnsorted$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/linkedList/IntersectionSortedUnsorted.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/linkedList/LengthOfLoop$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/linkedList/LengthOfLoop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/linkedList/LengthRecursiveIterative$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/linkedList/LengthRecursiveIterative.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/linkedList/LinkedList$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/linkedList/LinkedList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/linkedList/PrintMiddle$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/linkedList/PrintMiddle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/linkedList/QuickSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/linkedList/RemoveDuplicatesSortedUnsorted$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/linkedList/RemoveDuplicatesSortedUnsorted.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/linkedList/Reverse$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/linkedList/Reverse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/linkedList/SearchNthNode$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/linkedList/SearchNthNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/linkedList/SearchRecuriveIterative$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/linkedList/SearchRecuriveIterative.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/linkedList/SearchSublist$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/linkedList/SearchSublist.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/linkedList/circularLinkedList/CLLTraversal$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/linkedList/circularLinkedList/CLLTraversal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/linkedList/doubleLinkedList/DoubleLL$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/linkedList/doubleLinkedList/DoubleLL.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/sorting/InsertionSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/sorting/MergeSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/sorting/SortArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/stack/OperationMidEle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/stack/QueueUsingStack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/stack/ReverseString.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/stack/StackMainPushPop$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/stack/StackMainPushPop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/stack/StackUsingQueueDeque.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/stack/StackUsingSingleQueue.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProgramPrac/test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BinaryTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/General/TrapWaterSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/General/TrapWaterSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/GreedyActivitySelection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithm/GreedyActivitySelection.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/GreedyJobSequencing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithm/GreedyJobSequencing.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/amazon/NextGreaterElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/amazon/NextGreaterElement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/array/dynamicProgramming/CountPathinMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array/dynamicProgramming/CountPathinMatrix.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/array/dynamicProgramming/EditDistance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array/dynamicProgramming/EditDistance.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/array/dynamicProgramming/LongestCommonSubsequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array/dynamicProgramming/LongestCommonSubsequence.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/array/dynamicProgramming/LongestPallindromSubstring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array/dynamicProgramming/LongestPallindromSubstring.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter16_MediumLevelPrograms/PairsWithSumInArray_24.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter16_MediumLevelPrograms/PairsWithSumInArray_24.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter1_Arrays/MatrixRotationInPlace.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter1_Arrays/MatrixRotationInPlace.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/graphs/dfsPrograms/countIslandsInMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/graphs/dfsPrograms/countIslandsInMatrix.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/linkedList/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/linkedList/LinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/stack/StackUsingSingleQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/stack/StackUsingSingleQueue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testpakg/BinaryTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/General/MaxDepthNestedParanthesis.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testpakg/General/MaxDepthNestedParanthesis.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/General/OrderedBracket.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testpakg/General/OrderedBracket.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/General/SumUsingRecursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testpakg/General/SumUsingRecursion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/General/TrapWaterSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testpakg/General/TrapWaterSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testpakg/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StackClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testpakg/StackClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StackUsingLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testpakg/StackUsingLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TestClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TestClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithm/GreedyActivitySelection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testpakg/algorithm/GreedyActivitySelection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithm/GreedyJobSequencing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testpakg/algorithm/GreedyJobSequencing.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithm/GreedyOptimalMerge.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testpakg/algorithm/GreedyOptimalMerge.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithm/GreedyPoliceCatchThief.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testpakg/algorithm/GreedyPoliceCatchThief.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithm/MaxHeapImplementation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testpakg/algorithm/MaxHeapImplementation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/amazon/AllStringPermutations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testpakg/amazon/AllStringPermutations.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/amazon/BalancedParanthesis.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testpakg/amazon/BalancedParanthesis.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/amazon/FindTripletSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testpakg/amazon/FindTripletSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/amazon/NextGreaterElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testpakg/amazon/NextGreaterElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/amazon/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testpakg/amazon/test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/array/Anagram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testpakg/array/Anagram.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/array/ArrayRotation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testpakg/array/ArrayRotation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/array/ArraySort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testpakg/array/ArraySort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/array/BinarySearchElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testpakg/array/BinarySearchElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/array/CheckStringInAnotherString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testpakg/array/CheckStringInAnotherString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/array/CommonElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testpakg/array/CommonElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/array/CountEachElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testpakg/array/CountEachElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/array/CountRotation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testpakg/array/CountRotation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/array/Fibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testpakg/array/Fibonacci.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/array/FileReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testpakg/array/FileReader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/array/FindEachElementCount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testpakg/array/FindEachElementCount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/array/LargestNonRepeatSeq.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testpakg/array/LargestNonRepeatSeq.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/array/LongestSubSequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testpakg/array/LongestSubSequence.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/array/MaxProdSubArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testpakg/array/MaxProdSubArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/array/MaxSubArrayMultiplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testpakg/array/MaxSubArrayMultiplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/array/MaxSumInArrayRotation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testpakg/array/MaxSumInArrayRotation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/array/RemoveDupWords.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testpakg/array/RemoveDupWords.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/array/RemoveDuplicateCharFromString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testpakg/array/RemoveDuplicateCharFromString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/array/RemoveRedundantChar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testpakg/array/RemoveRedundantChar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/array/RemoveVowels.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testpakg/array/RemoveVowels.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/array/ReverseArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testpakg/array/ReverseArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/array/ReverseInGroups.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testpakg/array/ReverseInGroups.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/array/ReverseMiddleWords.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testpakg/array/ReverseMiddleWords.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/array/ReverseString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testpakg/array/ReverseString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/array/ReverseWords.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testpakg/array/ReverseWords.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/array/SecondLargestElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testpakg/array/SecondLargestElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/array/SecondLargestNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testpakg/array/SecondLargestNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/array/SortArrayByFrequency.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testpakg/array/SortArrayByFrequency.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/array/SumInPair.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testpakg/array/SumInPair.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/array/SumOfNNumberRecursive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testpakg/array/SumOfNNumberRecursive.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/array/SumRecursive2Numbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testpakg/array/SumRecursive2Numbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/array/dynamicProgramming/CoinChangeProblem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testpakg/array/dynamicProgramming/CoinChangeProblem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/array/dynamicProgramming/CountPathinMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testpakg/array/dynamicProgramming/CountPathinMatrix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/array/dynamicProgramming/CountWaystoReachNthStair.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testpakg/array/dynamicProgramming/CountWaystoReachNthStair.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/array/dynamicProgramming/EditDistance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testpakg/array/dynamicProgramming/EditDistance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/array/dynamicProgramming/FibonacciDp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testpakg/array/dynamicProgramming/FibonacciDp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/array/dynamicProgramming/LongestCommonContinuousSubstring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testpakg/array/dynamicProgramming/LongestCommonContinuousSubstring.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/array/dynamicProgramming/LongestCommonSubsequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testpakg/array/dynamicProgramming/LongestCommonSubsequence.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/array/dynamicProgramming/LongestIncreasingSubsequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testpakg/array/dynamicProgramming/LongestIncreasingSubsequence.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/array/dynamicProgramming/LongestPallindromSubstring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testpakg/array/dynamicProgramming/LongestPallindromSubstring.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/array/dynamicProgramming/MaxMatrixSizeWith1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testpakg/array/dynamicProgramming/MaxMatrixSizeWith1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/array/dynamicProgramming/MaxProfit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testpakg/array/dynamicProgramming/MaxProfit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/array/dynamicProgramming/MinJumpsToReachEnd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testpakg/array/dynamicProgramming/MinJumpsToReachEnd.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/array/dynamicProgramming/NumberOfTiles1XN.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testpakg/array/dynamicProgramming/NumberOfTiles1XN.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/array/dynamicProgramming/ShortestCommonSubsequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testpakg/array/dynamicProgramming/ShortestCommonSubsequence.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/array/dynamicProgramming/SubsetSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testpakg/array/dynamicProgramming/SubsetSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/array/leetCode/BrokenCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testpakg/array/leetCode/BrokenCalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/array/leetCode/ClumsyFactorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testpakg/array/leetCode/ClumsyFactorial.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/array/leetCode/CountFlightBookings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testpakg/array/leetCode/CountFlightBookings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/array/leetCode/DailyTemparature.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testpakg/array/leetCode/DailyTemparature.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/array/leetCode/DistributeCandiesToPpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testpakg/array/leetCode/DistributeCandiesToPpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/array/leetCode/DominoRotationMin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testpakg/array/leetCode/DominoRotationMin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/array/leetCode/KConcatenationMaxSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testpakg/array/leetCode/KConcatenationMaxSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/array/leetCode/LargestSumContiguousSubarray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testpakg/array/leetCode/LargestSumContiguousSubarray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/array/leetCode/LargestSumContiguousSubarrayWith1Deletion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testpakg/array/leetCode/LargestSumContiguousSubarrayWith1Deletion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/array/leetCode/LemonadeChange.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testpakg/array/leetCode/LemonadeChange.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/array/leetCode/LongestSubsequenceWithDifference.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testpakg/array/leetCode/LongestSubsequenceWithDifference.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/array/leetCode/LongestSubstringLength.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testpakg/array/leetCode/LongestSubstringLength.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/array/leetCode/MedianOf2SortedArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testpakg/array/leetCode/MedianOf2SortedArrays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/array/leetCode/OddCellsMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testpakg/array/leetCode/OddCellsMatrix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/array/leetCode/ProductExceptSelf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testpakg/array/leetCode/ProductExceptSelf.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/array/leetCode/ReconstructMatrix2D.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testpakg/array/leetCode/ReconstructMatrix2D.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/array/leetCode/StringReverseInplace.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testpakg/array/leetCode/StringReverseInplace.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/array/leetCode/StringToNumberAtoI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testpakg/array/leetCode/StringToNumberAtoI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/array/leetCode/TopKFrequentElements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testpakg/array/leetCode/TopKFrequentElements.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/array/numberodd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testpakg/array/numberodd.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/array/optimization/MaxDistance.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/array/optimization/MaxSubArrayAvg.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testpakg/array/optimization/MaxSubArrayAvg.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/array/optimization/MinDistance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testpakg/array/optimization/MinDistance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/array/optimization/MinSubArrayAvg.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testpakg/array/optimization/MinSubArrayAvg.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/array/optimization/MiniumumDifference.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testpakg/array/optimization/MiniumumDifference.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/array/optimization/MoveZeros.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testpakg/array/optimization/MoveZeros.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/array/optimization/RearrangeArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testpakg/array/optimization/RearrangeArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter10_SortingAndSearching/GroupAnagram_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testpakg/crackingTheCodingInterview/chapter10_SortingAndSearching/GroupAnagram_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter10_SortingAndSearching/Merge2SortedArrayIntoOne_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testpakg/crackingTheCodingInterview/chapter10_SortingAndSearching/Merge2SortedArrayIntoOne_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter10_SortingAndSearching/PeaksAndValleys_11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testpakg/crackingTheCodingInterview/chapter10_SortingAndSearching/PeaksAndValleys_11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter10_SortingAndSearching/SearchInRotatedArray_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testpakg/crackingTheCodingInterview/chapter10_SortingAndSearching/SearchInRotatedArray_3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter10_SortingAndSearching/SortedMatrixSearch_9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testpakg/crackingTheCodingInterview/chapter10_SortingAndSearching/SortedMatrixSearch_9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter10_SortingAndSearching/SortedSearchNoSize_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testpakg/crackingTheCodingInterview/chapter10_SortingAndSearching/SortedSearchNoSize_4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter10_SortingAndSearching/SparseSearch_5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testpakg/crackingTheCodingInterview/chapter10_SortingAndSearching/SparseSearch_5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter16_MediumLevelPrograms/ContiguousSubSequenceLargestSum_17.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testpakg/crackingTheCodingInterview/chapter16_MediumLevelPrograms/ContiguousSubSequenceLargestSum_17.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter16_MediumLevelPrograms/Intersection_3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter16_MediumLevelPrograms/NumberSwapper_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testpakg/crackingTheCodingInterview/chapter16_MediumLevelPrograms/NumberSwapper_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter16_MediumLevelPrograms/PairsWithSumInArray_24.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testpakg/crackingTheCodingInterview/chapter16_MediumLevelPrograms/PairsWithSumInArray_24.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter16_MediumLevelPrograms/PondSizes_19.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testpakg/crackingTheCodingInterview/chapter16_MediumLevelPrograms/PondSizes_19.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter16_MediumLevelPrograms/SmallestDiffPair_6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testpakg/crackingTheCodingInterview/chapter16_MediumLevelPrograms/SmallestDiffPair_6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter16_MediumLevelPrograms/SubSortingArray_16.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testpakg/crackingTheCodingInterview/chapter16_MediumLevelPrograms/SubSortingArray_16.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter16_MediumLevelPrograms/SumSwap_21.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testpakg/crackingTheCodingInterview/chapter16_MediumLevelPrograms/SumSwap_21.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter16_MediumLevelPrograms/TicTacToe_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testpakg/crackingTheCodingInterview/chapter16_MediumLevelPrograms/TicTacToe_4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter16_MediumLevelPrograms/TrailingZeroesInFactorial_5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testpakg/crackingTheCodingInterview/chapter16_MediumLevelPrograms/TrailingZeroesInFactorial_5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter16_MediumLevelPrograms/WordFrequencies_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testpakg/crackingTheCodingInterview/chapter16_MediumLevelPrograms/WordFrequencies_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter17_Hard/Add2NumbersWithoutArithmeticOperators_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testpakg/crackingTheCodingInterview/chapter17_Hard/Add2NumbersWithoutArithmeticOperators_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter17_Hard/BabyNames_7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testpakg/crackingTheCodingInterview/chapter17_Hard/BabyNames_7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter17_Hard/CircusTower_8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testpakg/crackingTheCodingInterview/chapter17_Hard/CircusTower_8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter17_Hard/Count2sInARange_6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testpakg/crackingTheCodingInterview/chapter17_Hard/Count2sInARange_6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter17_Hard/KthMultipleUglyNumbers_9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testpakg/crackingTheCodingInterview/chapter17_Hard/KthMultipleUglyNumbers_9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter17_Hard/LettersAndNumbers_5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testpakg/crackingTheCodingInterview/chapter17_Hard/LettersAndNumbers_5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter17_Hard/MajorityElement_10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testpakg/crackingTheCodingInterview/chapter17_Hard/MajorityElement_10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter17_Hard/Masseuse_16.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testpakg/crackingTheCodingInterview/chapter17_Hard/Masseuse_16.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter17_Hard/RandomSet_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testpakg/crackingTheCodingInterview/chapter17_Hard/RandomSet_3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter17_Hard/VolumeOfHistogram_21.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testpakg/crackingTheCodingInterview/chapter17_Hard/VolumeOfHistogram_21.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter17_Hard/WordDistance_11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testpakg/crackingTheCodingInterview/chapter17_Hard/WordDistance_11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter1_Arrays/CcheckPermutation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testpakg/crackingTheCodingInterview/chapter1_Arrays/CcheckPermutation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter1_Arrays/MatrixRotationInPlace.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testpakg/crackingTheCodingInterview/chapter1_Arrays/MatrixRotationInPlace.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter1_Arrays/OneAwayEdit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testpakg/crackingTheCodingInterview/chapter1_Arrays/OneAwayEdit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter1_Arrays/ReplaceSpaces.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testpakg/crackingTheCodingInterview/chapter1_Arrays/ReplaceSpaces.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter1_Arrays/StringCompression.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testpakg/crackingTheCodingInterview/chapter1_Arrays/StringCompression.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter1_Arrays/ValidateStringRotaion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testpakg/crackingTheCodingInterview/chapter1_Arrays/ValidateStringRotaion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter1_Arrays/ValidateUniqueCharInString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testpakg/crackingTheCodingInterview/chapter1_Arrays/ValidateUniqueCharInString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter1_Arrays/ZeroMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testpakg/crackingTheCodingInterview/chapter1_Arrays/ZeroMatrix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter2_LinkedList/AddLinkListStraight_5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testpakg/crackingTheCodingInterview/chapter2_LinkedList/AddLinkListStraight_5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter2_LinkedList/CheckLinkListPallindrome.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter2_LinkedList/DeleteMiddleNode_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testpakg/crackingTheCodingInterview/chapter2_LinkedList/DeleteMiddleNode_3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter2_LinkedList/FindIntersection_7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testpakg/crackingTheCodingInterview/chapter2_LinkedList/FindIntersection_7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter2_LinkedList/FindKthLastElementInLinkedList_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testpakg/crackingTheCodingInterview/chapter2_LinkedList/FindKthLastElementInLinkedList_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter2_LinkedList/LinkListPartition.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter2_LinkedList/LoopDetection_8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testpakg/crackingTheCodingInterview/chapter2_LinkedList/LoopDetection_8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter2_LinkedList/RemoveDuplicateUnsortedList_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testpakg/crackingTheCodingInterview/chapter2_LinkedList/RemoveDuplicateUnsortedList_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter3_StacksAndQueues/ArrayToThreeStacks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testpakg/crackingTheCodingInterview/chapter3_StacksAndQueues/ArrayToThreeStacks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter3_StacksAndQueues/QueueUsingStacks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testpakg/crackingTheCodingInterview/chapter3_StacksAndQueues/QueueUsingStacks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter3_StacksAndQueues/SortStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testpakg/crackingTheCodingInterview/chapter3_StacksAndQueues/SortStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter3_StacksAndQueues/StackMinInO1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testpakg/crackingTheCodingInterview/chapter3_StacksAndQueues/StackMinInO1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter4_TreeAndGraphs/BSTSequence_9.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter4_TreeAndGraphs/BuildOrder_7.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter4_TreeAndGraphs/CheckSubtree_10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testpakg/crackingTheCodingInterview/chapter4_TreeAndGraphs/CheckSubtree_10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter4_TreeAndGraphs/CountPathForSum_12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testpakg/crackingTheCodingInterview/chapter4_TreeAndGraphs/CountPathForSum_12.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter4_TreeAndGraphs/CreateMinHgtBinaryTreeFromSortedArray_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testpakg/crackingTheCodingInterview/chapter4_TreeAndGraphs/CreateMinHgtBinaryTreeFromSortedArray_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter4_TreeAndGraphs/FindSuccessor_6.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter4_TreeAndGraphs/ListOfDepths_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testpakg/crackingTheCodingInterview/chapter4_TreeAndGraphs/ListOfDepths_3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter4_TreeAndGraphs/LowestCommonAncestor_8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testpakg/crackingTheCodingInterview/chapter4_TreeAndGraphs/LowestCommonAncestor_8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter4_TreeAndGraphs/RandomNode_11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testpakg/crackingTheCodingInterview/chapter4_TreeAndGraphs/RandomNode_11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter4_TreeAndGraphs/RouteBetweenNodes_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testpakg/crackingTheCodingInterview/chapter4_TreeAndGraphs/RouteBetweenNodes_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter4_TreeAndGraphs/ValidateBst_5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testpakg/crackingTheCodingInterview/chapter4_TreeAndGraphs/ValidateBst_5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter4_TreeAndGraphs/ValidateIfBinaryTreeIsBalance_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testpakg/crackingTheCodingInterview/chapter4_TreeAndGraphs/ValidateIfBinaryTreeIsBalance_4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter5_BitManipulation/FlipToWin_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testpakg/crackingTheCodingInterview/chapter5_BitManipulation/FlipToWin_3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter5_BitManipulation/RealNumberToBits_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testpakg/crackingTheCodingInterview/chapter5_BitManipulation/RealNumberToBits_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter6_Puzzles/EggDropPuzzle_8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testpakg/crackingTheCodingInterview/chapter6_Puzzles/EggDropPuzzle_8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter8_DynamicProgAndRecursion/CoinChangeNoOfWays_11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testpakg/crackingTheCodingInterview/chapter8_DynamicProgAndRecursion/CoinChangeNoOfWays_11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter8_DynamicProgAndRecursion/FindSubsets_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testpakg/crackingTheCodingInterview/chapter8_DynamicProgAndRecursion/FindSubsets_4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter8_DynamicProgAndRecursion/Magiczindex_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testpakg/crackingTheCodingInterview/chapter8_DynamicProgAndRecursion/Magiczindex_3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter8_DynamicProgAndRecursion/PaintFill_10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testpakg/crackingTheCodingInterview/chapter8_DynamicProgAndRecursion/PaintFill_10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter8_DynamicProgAndRecursion/ParenthesisPairs_9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testpakg/crackingTheCodingInterview/chapter8_DynamicProgAndRecursion/ParenthesisPairs_9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter8_DynamicProgAndRecursion/PermutationUniqueCharString_7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testpakg/crackingTheCodingInterview/chapter8_DynamicProgAndRecursion/PermutationUniqueCharString_7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter8_DynamicProgAndRecursion/PermutationWithDuplicates_8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testpakg/crackingTheCodingInterview/chapter8_DynamicProgAndRecursion/PermutationWithDuplicates_8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter8_DynamicProgAndRecursion/RecursiveMultiply_5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testpakg/crackingTheCodingInterview/chapter8_DynamicProgAndRecursion/RecursiveMultiply_5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter8_DynamicProgAndRecursion/RobotInAGrid_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testpakg/crackingTheCodingInterview/chapter8_DynamicProgAndRecursion/RobotInAGrid_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter8_DynamicProgAndRecursion/TowerOfHanoi_6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testpakg/crackingTheCodingInterview/chapter8_DynamicProgAndRecursion/TowerOfHanoi_6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter8_DynamicProgAndRecursion/TripleStepCountWays_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testpakg/crackingTheCodingInterview/chapter8_DynamicProgAndRecursion/TripleStepCountWays_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/graphs/DijkstrasAlgorithmGreedymethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testpakg/graphs/DijkstrasAlgorithmGreedymethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/graphs/dfsPrograms/FindAllPathsFromAtoB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testpakg/graphs/dfsPrograms/FindAllPathsFromAtoB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/graphs/dfsPrograms/countIslandsInMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testpakg/graphs/dfsPrograms/countIslandsInMatrix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/graphs/implementation/GraphImplementationAdjacencyList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testpakg/graphs/implementation/GraphImplementationAdjacencyList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/graphs/implementation/GraphImplementationAdjacencyMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testpakg/graphs/implementation/GraphImplementationAdjacencyMatrix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/graphs/traversal/GraphTraversalBFS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testpakg/graphs/traversal/GraphTraversalBFS.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/graphs/traversal/GraphTraversalDFS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testpakg/graphs/traversal/GraphTraversalDFS.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jdbcSample/jdbcSample1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testpakg/jdbcSample/jdbcSample1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/linkedList/Add2LinkedLists.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testpakg/linkedList/Add2LinkedLists.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/linkedList/AddNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testpakg/linkedList/AddNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/linkedList/Deletion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testpakg/linkedList/Deletion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/linkedList/DetectLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testpakg/linkedList/DetectLoop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/linkedList/FirstNonRepeatingElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testpakg/linkedList/FirstNonRepeatingElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/linkedList/Insertion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testpakg/linkedList/Insertion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/linkedList/IntersectionSortedUnsorted.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testpakg/linkedList/IntersectionSortedUnsorted.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/linkedList/LengthOfLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testpakg/linkedList/LengthOfLoop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/linkedList/LengthRecursiveIterative.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testpakg/linkedList/LengthRecursiveIterative.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/linkedList/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testpakg/linkedList/LinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/linkedList/PrintMiddle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testpakg/linkedList/PrintMiddle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/linkedList/QuickSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/linkedList/RemoveDuplicatesSortedUnsorted.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testpakg/linkedList/RemoveDuplicatesSortedUnsorted.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/linkedList/Reverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testpakg/linkedList/Reverse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/linkedList/SearchNthNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testpakg/linkedList/SearchNthNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/linkedList/SearchRecuriveIterative.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testpakg/linkedList/SearchRecuriveIterative.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/linkedList/SearchSublist.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testpakg/linkedList/SearchSublist.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/linkedList/circularLinkedList/CLLTraversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testpakg/linkedList/circularLinkedList/CLLTraversal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/linkedList/doubleLinkedList/DoubleLL.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testpakg/linkedList/doubleLinkedList/DoubleLL.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sorting/InsertionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testpakg/sorting/InsertionSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sorting/MergeSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testpakg/sorting/MergeSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sorting/SortArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testpakg/sorting/SortArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stack/OperationMidEle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testpakg/stack/OperationMidEle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stack/QueueUsingStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testpakg/stack/QueueUsingStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stack/ReverseString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testpakg/stack/ReverseString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stack/StackMainPushPop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testpakg/stack/StackMainPushPop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stack/StackUsingQueueDeque.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testpakg/stack/StackUsingQueueDeque.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stack/StackUsingSingleQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testpakg/stack/StackUsingSingleQueue.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -50,79 +476,25 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/crackingTheCodingInterview/chapter1_Arrays/CcheckPermutation.java">
+        <entry file="file://$PROJECT_DIR$/src/testpakg/crackingTheCodingInterview/chapter8_DynamicProgAndRecursion/PaintFill_10.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
+            <state relative-caret-position="123">
               <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/amazon/AllStringPermutations.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="111">
-              <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/crackingTheCodingInterview/chapter2_LinkedList/LoopDetection_8.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="11">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/array/dynamicProgramming/LongestPallindromSubstring.java">
+        <entry file="file://$PROJECT_DIR$/src/testpakg/BinaryTree.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="60">
-              <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/algorithm/MaxHeapImplementation.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="468">
-              <caret line="45" column="26" lean-forward="true" selection-start-line="45" selection-start-column="26" selection-end-line="45" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/crackingTheCodingInterview/chapter8_DynamicProgAndRecursion/PaintFill_10.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="123">
-              <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/array/dynamicProgramming/NumberOfTiles1XN.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/crackingTheCodingInterview/chapter4_TreeAndGraphs/ValidateBst_5.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/crackingTheCodingInterview/chapter16_MediumLevelPrograms/ContiguousSubSequenceLargestSum_17.java">
+        <entry file="file://$PROJECT_DIR$/src/testpakg/Main.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="30">
               <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
@@ -131,7 +503,67 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/crackingTheCodingInterview/chapter16_MediumLevelPrograms/PairsWithSumInArray_24.java">
+        <entry file="file://$PROJECT_DIR$/src/testpakg/StackClass.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/testpakg/StackUsingLinkedList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="343">
+              <caret line="23" column="31" selection-start-line="23" selection-start-column="31" selection-end-line="23" selection-end-column="31" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="222">
+              <caret line="34" column="5" lean-forward="true" selection-start-line="34" selection-start-column="5" selection-end-line="42" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/testpakg/array/optimization/MoveZeros.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/TestClass.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="23" selection-start-line="23" selection-end-line="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/testpakg/crackingTheCodingInterview/chapter16_MediumLevelPrograms/PairsWithSumInArray_24.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="105">
               <caret line="7" column="32" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
@@ -170,8 +602,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter17_Hard/Masseuse_16.java" />
-        <option value="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter5_BitManipulation/RealNumberToBits_2.java" />
         <option value="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter5_BitManipulation/FlipToWin_3.java" />
         <option value="$PROJECT_DIR$/src/graphs/implementation/GraphImplementationAdjacencyMatrix.java" />
         <option value="$PROJECT_DIR$/src/graphs/traversal/GraphTraversalDFS.java" />
@@ -221,6 +651,8 @@
         <option value="$PROJECT_DIR$/src/test.java" />
         <option value="$PROJECT_DIR$/src/General/TrapWaterSum.java" />
         <option value="$PROJECT_DIR$/src/array/dynamicProgramming/LongestPallindromSubstring.java" />
+        <option value="$PROJECT_DIR$/src/testpakg/StackClass.java" />
+        <option value="$PROJECT_DIR$/src/test1.java" />
       </list>
     </option>
   </component>
@@ -242,6 +674,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -258,167 +691,22 @@
               <item name="JavaDataStructure" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaDataStructure" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="testpakg" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JavaDataStructure" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaDataStructure" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="amazon" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaDataStructure" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaDataStructure" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="testpakg" type="462c0819:PsiDirectoryNode" />
               <item name="array" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JavaDataStructure" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaDataStructure" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="array" type="462c0819:PsiDirectoryNode" />
-              <item name="dynamicProgramming" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaDataStructure" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaDataStructure" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="array" type="462c0819:PsiDirectoryNode" />
-              <item name="leetCode" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaDataStructure" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaDataStructure" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="testpakg" type="462c0819:PsiDirectoryNode" />
               <item name="array" type="462c0819:PsiDirectoryNode" />
               <item name="optimization" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaDataStructure" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaDataStructure" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="crackingTheCodingInterview" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaDataStructure" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaDataStructure" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="crackingTheCodingInterview" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter1_Arrays" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaDataStructure" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaDataStructure" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="crackingTheCodingInterview" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter2_LinkedList" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaDataStructure" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaDataStructure" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="crackingTheCodingInterview" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter3_StacksAndQueues" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaDataStructure" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaDataStructure" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="crackingTheCodingInterview" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter4_TreeAndGraphs" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaDataStructure" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaDataStructure" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="crackingTheCodingInterview" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter5_BitManipulation" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaDataStructure" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaDataStructure" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="crackingTheCodingInterview" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter8_DynamicProgAndRecursion" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaDataStructure" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaDataStructure" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="crackingTheCodingInterview" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter10_SortingAndSearching" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaDataStructure" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaDataStructure" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="crackingTheCodingInterview" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter16_MediumLevelPrograms" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaDataStructure" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaDataStructure" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="crackingTheCodingInterview" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter17_Hard" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaDataStructure" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaDataStructure" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="General" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaDataStructure" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaDataStructure" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="graphs" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaDataStructure" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaDataStructure" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="graphs" type="462c0819:PsiDirectoryNode" />
-              <item name="dfsPrograms" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaDataStructure" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaDataStructure" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="graphs" type="462c0819:PsiDirectoryNode" />
-              <item name="implementation" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaDataStructure" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaDataStructure" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="graphs" type="462c0819:PsiDirectoryNode" />
-              <item name="traversal" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaDataStructure" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaDataStructure" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="linkedList" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaDataStructure" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaDataStructure" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="linkedList" type="462c0819:PsiDirectoryNode" />
-              <item name="circularLinkedList" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaDataStructure" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaDataStructure" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="sorting" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaDataStructure" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaDataStructure" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="stack" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JavaDataStructure" type="b2602c69:ProjectViewProjectNode" />
@@ -499,7 +787,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -526,26 +813,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.test">
-    <configuration name="GreedyActivitySelection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algorithm.GreedyActivitySelection" />
-      <module name="ProgramPrac" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="algorithm.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.test1">
     <configuration name="GreedyJobSequencing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algorithm.GreedyJobSequencing" />
+      <option name="MAIN_CLASS_NAME" value="testpakg.algorithm.GreedyJobSequencing" />
       <module name="ProgramPrac" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="algorithm.*" />
+          <option name="PATTERN" value="testpakg.algorithm.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -554,11 +828,11 @@
       </method>
     </configuration>
     <configuration name="LinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="linkedList.LinkedList" />
+      <option name="MAIN_CLASS_NAME" value="testpakg.linkedList.LinkedList" />
       <module name="ProgramPrac" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="linkedList.*" />
+          <option name="PATTERN" value="testpakg.linkedList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -567,11 +841,11 @@
       </method>
     </configuration>
     <configuration name="Reverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="linkedList.Reverse" />
+      <option name="MAIN_CLASS_NAME" value="testpakg.linkedList.Reverse" />
       <module name="ProgramPrac" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="linkedList.*" />
+          <option name="PATTERN" value="testpakg.linkedList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -586,20 +860,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test1" />
+      <module name="ProgramPrac" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.test" />
       <item itemvalue="Application.GreedyJobSequencing" />
-      <item itemvalue="Application.GreedyActivitySelection" />
       <item itemvalue="Application.LinkedList" />
       <item itemvalue="Application.Reverse" />
+      <item itemvalue="Application.test" />
+      <item itemvalue="Application.test1" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.test1" />
         <item itemvalue="Application.test" />
         <item itemvalue="Application.Reverse" />
         <item itemvalue="Application.LinkedList" />
         <item itemvalue="Application.GreedyJobSequencing" />
-        <item itemvalue="Application.GreedyActivitySelection" />
       </list>
     </recent_temporary>
   </component>
@@ -649,7 +930,7 @@
     <frame x="0" y="23" width="1680" height="949" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2820513" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3028083" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -657,8 +938,8 @@
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32982457" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32672113" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32905483" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32672113" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.36522755" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -693,169 +974,169 @@
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/array/leetCode/DistributeCandiesToPpl.java</url>
+          <url>file://$PROJECT_DIR$/src/testpakg/array/leetCode/DistributeCandiesToPpl.java</url>
           <line>43</line>
           <properties />
           <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/array/leetCode/DistributeCandiesToPpl.java</url>
+          <url>file://$PROJECT_DIR$/src/testpakg/array/leetCode/DistributeCandiesToPpl.java</url>
           <line>42</line>
           <properties />
           <option name="timeStamp" value="5" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/array/leetCode/DistributeCandiesToPpl.java</url>
+          <url>file://$PROJECT_DIR$/src/testpakg/array/leetCode/DistributeCandiesToPpl.java</url>
           <line>45</line>
           <properties />
           <option name="timeStamp" value="6" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/array/leetCode/DistributeCandiesToPpl.java</url>
+          <url>file://$PROJECT_DIR$/src/testpakg/array/leetCode/DistributeCandiesToPpl.java</url>
           <line>47</line>
           <properties />
           <option name="timeStamp" value="7" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/array/leetCode/LemonadeChange.java</url>
+          <url>file://$PROJECT_DIR$/src/testpakg/array/leetCode/LemonadeChange.java</url>
           <line>43</line>
           <properties />
           <option name="timeStamp" value="8" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/array/leetCode/LemonadeChange.java</url>
+          <url>file://$PROJECT_DIR$/src/testpakg/array/leetCode/LemonadeChange.java</url>
           <line>46</line>
           <properties />
           <option name="timeStamp" value="10" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/array/leetCode/LemonadeChange.java</url>
+          <url>file://$PROJECT_DIR$/src/testpakg/array/leetCode/LemonadeChange.java</url>
           <line>48</line>
           <properties />
           <option name="timeStamp" value="11" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/array/leetCode/LemonadeChange.java</url>
+          <url>file://$PROJECT_DIR$/src/testpakg/array/leetCode/LemonadeChange.java</url>
           <line>52</line>
           <properties />
           <option name="timeStamp" value="13" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/array/leetCode/LemonadeChange.java</url>
+          <url>file://$PROJECT_DIR$/src/testpakg/array/leetCode/LemonadeChange.java</url>
           <line>68</line>
           <properties />
           <option name="timeStamp" value="14" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/array/leetCode/LemonadeChange.java</url>
+          <url>file://$PROJECT_DIR$/src/testpakg/array/leetCode/LemonadeChange.java</url>
           <line>72</line>
           <properties />
           <option name="timeStamp" value="15" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/array/leetCode/LemonadeChange.java</url>
+          <url>file://$PROJECT_DIR$/src/testpakg/array/leetCode/LemonadeChange.java</url>
           <line>81</line>
           <properties />
           <option name="timeStamp" value="16" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/array/leetCode/LemonadeChange.java</url>
+          <url>file://$PROJECT_DIR$/src/testpakg/array/leetCode/LemonadeChange.java</url>
           <line>91</line>
           <properties />
           <option name="timeStamp" value="17" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/array/leetCode/LemonadeChange.java</url>
+          <url>file://$PROJECT_DIR$/src/testpakg/array/leetCode/LemonadeChange.java</url>
           <line>87</line>
           <properties />
           <option name="timeStamp" value="18" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/array/leetCode/LemonadeChange.java</url>
+          <url>file://$PROJECT_DIR$/src/testpakg/array/leetCode/LemonadeChange.java</url>
           <line>75</line>
           <properties />
           <option name="timeStamp" value="19" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/array/leetCode/LemonadeChange.java</url>
+          <url>file://$PROJECT_DIR$/src/testpakg/array/leetCode/LemonadeChange.java</url>
           <line>76</line>
           <properties />
           <option name="timeStamp" value="20" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/array/leetCode/LemonadeChange.java</url>
+          <url>file://$PROJECT_DIR$/src/testpakg/array/leetCode/LemonadeChange.java</url>
           <line>70</line>
           <properties />
           <option name="timeStamp" value="21" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/array/leetCode/DailyTemparature.java</url>
+          <url>file://$PROJECT_DIR$/src/testpakg/array/leetCode/DailyTemparature.java</url>
           <line>46</line>
           <properties />
           <option name="timeStamp" value="24" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/array/leetCode/DailyTemparature.java</url>
+          <url>file://$PROJECT_DIR$/src/testpakg/array/leetCode/DailyTemparature.java</url>
           <line>39</line>
           <properties />
           <option name="timeStamp" value="25" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/array/leetCode/CountFlightBookings.java</url>
+          <url>file://$PROJECT_DIR$/src/testpakg/array/leetCode/CountFlightBookings.java</url>
           <line>44</line>
           <properties />
           <option name="timeStamp" value="27" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/array/leetCode/ClumsyFactorial.java</url>
+          <url>file://$PROJECT_DIR$/src/testpakg/array/leetCode/ClumsyFactorial.java</url>
           <line>35</line>
           <properties />
           <option name="timeStamp" value="31" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/array/leetCode/ClumsyFactorial.java</url>
+          <url>file://$PROJECT_DIR$/src/testpakg/array/leetCode/ClumsyFactorial.java</url>
           <line>34</line>
           <properties />
           <option name="timeStamp" value="32" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/array/leetCode/ClumsyFactorial.java</url>
+          <url>file://$PROJECT_DIR$/src/testpakg/array/leetCode/ClumsyFactorial.java</url>
           <line>32</line>
           <properties />
           <option name="timeStamp" value="33" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/array/leetCode/OddCellsMatrix.java</url>
+          <url>file://$PROJECT_DIR$/src/testpakg/array/leetCode/OddCellsMatrix.java</url>
           <line>24</line>
           <properties />
           <option name="timeStamp" value="42" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/amazon/AllStringPermutations.java</url>
+          <url>file://$PROJECT_DIR$/src/testpakg/amazon/AllStringPermutations.java</url>
           <line>97</line>
           <properties />
           <option name="timeStamp" value="45" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/linkedList/Reverse.java</url>
+          <url>file://$PROJECT_DIR$/src/testpakg/linkedList/Reverse.java</url>
           <line>50</line>
           <properties />
           <option name="timeStamp" value="49" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/linkedList/Reverse.java</url>
+          <url>file://$PROJECT_DIR$/src/testpakg/linkedList/Reverse.java</url>
           <line>51</line>
           <properties />
           <option name="timeStamp" value="50" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/linkedList/Reverse.java</url>
+          <url>file://$PROJECT_DIR$/src/testpakg/linkedList/Reverse.java</url>
           <line>37</line>
           <properties />
           <option name="timeStamp" value="51" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/array/leetCode/ProductExceptSelf.java</url>
+          <url>file://$PROJECT_DIR$/src/testpakg/array/leetCode/ProductExceptSelf.java</url>
           <line>24</line>
           <properties />
           <option name="timeStamp" value="56" />
@@ -897,19 +1178,19 @@
           <option name="timeStamp" value="65" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/array/LongestSubSequence.java</url>
+          <url>file://$PROJECT_DIR$/src/testpakg/array/LongestSubSequence.java</url>
           <line>20</line>
           <properties />
           <option name="timeStamp" value="66" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/array/LongestSubSequence.java</url>
+          <url>file://$PROJECT_DIR$/src/testpakg/array/LongestSubSequence.java</url>
           <line>22</line>
           <properties />
           <option name="timeStamp" value="67" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/array/LongestSubSequence.java</url>
+          <url>file://$PROJECT_DIR$/src/testpakg/array/LongestSubSequence.java</url>
           <line>24</line>
           <properties />
           <option name="timeStamp" value="68" />
@@ -1035,169 +1316,169 @@
           <option name="timeStamp" value="99" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/crackingTheCodingInterview/chapter1_Arrays/ValidateUniqueCharInString.java</url>
+          <url>file://$PROJECT_DIR$/src/testpakg/crackingTheCodingInterview/chapter1_Arrays/ValidateUniqueCharInString.java</url>
           <line>36</line>
           <properties />
           <option name="timeStamp" value="100" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/crackingTheCodingInterview/chapter1_Arrays/ValidateUniqueCharInString.java</url>
+          <url>file://$PROJECT_DIR$/src/testpakg/crackingTheCodingInterview/chapter1_Arrays/ValidateUniqueCharInString.java</url>
           <line>42</line>
           <properties />
           <option name="timeStamp" value="101" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/crackingTheCodingInterview/chapter1_Arrays/ValidateUniqueCharInString.java</url>
+          <url>file://$PROJECT_DIR$/src/testpakg/crackingTheCodingInterview/chapter1_Arrays/ValidateUniqueCharInString.java</url>
           <line>28</line>
           <properties />
           <option name="timeStamp" value="102" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/crackingTheCodingInterview/chapter1_Arrays/ZeroMatrix.java</url>
+          <url>file://$PROJECT_DIR$/src/testpakg/crackingTheCodingInterview/chapter1_Arrays/ZeroMatrix.java</url>
           <line>44</line>
           <properties />
           <option name="timeStamp" value="105" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/crackingTheCodingInterview/chapter1_Arrays/ZeroMatrix.java</url>
+          <url>file://$PROJECT_DIR$/src/testpakg/crackingTheCodingInterview/chapter1_Arrays/ZeroMatrix.java</url>
           <line>35</line>
           <properties />
           <option name="timeStamp" value="106" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/crackingTheCodingInterview/chapter2_LinkedList/FindKthLastElementInLinkedList_2.java</url>
+          <url>file://$PROJECT_DIR$/src/testpakg/crackingTheCodingInterview/chapter2_LinkedList/FindKthLastElementInLinkedList_2.java</url>
           <line>31</line>
           <properties />
           <option name="timeStamp" value="107" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/crackingTheCodingInterview/chapter2_LinkedList/FindKthLastElementInLinkedList_2.java</url>
+          <url>file://$PROJECT_DIR$/src/testpakg/crackingTheCodingInterview/chapter2_LinkedList/FindKthLastElementInLinkedList_2.java</url>
           <line>26</line>
           <properties />
           <option name="timeStamp" value="108" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/linkedList/Add2LinkedLists.java</url>
+          <url>file://$PROJECT_DIR$/src/testpakg/linkedList/Add2LinkedLists.java</url>
           <line>53</line>
           <properties />
           <option name="timeStamp" value="109" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/linkedList/Add2LinkedLists.java</url>
+          <url>file://$PROJECT_DIR$/src/testpakg/linkedList/Add2LinkedLists.java</url>
           <line>15</line>
           <properties />
           <option name="timeStamp" value="110" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/crackingTheCodingInterview/chapter8_DynamicProgAndRecursion/PermutationWithDuplicates_8.java</url>
+          <url>file://$PROJECT_DIR$/src/testpakg/crackingTheCodingInterview/chapter8_DynamicProgAndRecursion/PermutationWithDuplicates_8.java</url>
           <line>17</line>
           <properties />
           <option name="timeStamp" value="111" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/crackingTheCodingInterview/chapter10_SortingAndSearching/GroupAnagram_2.java</url>
+          <url>file://$PROJECT_DIR$/src/testpakg/crackingTheCodingInterview/chapter10_SortingAndSearching/GroupAnagram_2.java</url>
           <line>30</line>
           <properties />
           <option name="timeStamp" value="112" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/crackingTheCodingInterview/chapter10_SortingAndSearching/SortedSearchNoSize_4.java</url>
+          <url>file://$PROJECT_DIR$/src/testpakg/crackingTheCodingInterview/chapter10_SortingAndSearching/SortedSearchNoSize_4.java</url>
           <line>21</line>
           <properties />
           <option name="timeStamp" value="113" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/crackingTheCodingInterview/chapter10_SortingAndSearching/SortedSearchNoSize_4.java</url>
+          <url>file://$PROJECT_DIR$/src/testpakg/crackingTheCodingInterview/chapter10_SortingAndSearching/SortedSearchNoSize_4.java</url>
           <line>28</line>
           <properties />
           <option name="timeStamp" value="114" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/crackingTheCodingInterview/chapter10_SortingAndSearching/SortedSearchNoSize_4.java</url>
+          <url>file://$PROJECT_DIR$/src/testpakg/crackingTheCodingInterview/chapter10_SortingAndSearching/SortedSearchNoSize_4.java</url>
           <line>31</line>
           <properties />
           <option name="timeStamp" value="115" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/crackingTheCodingInterview/chapter10_SortingAndSearching/SortedSearchNoSize_4.java</url>
+          <url>file://$PROJECT_DIR$/src/testpakg/crackingTheCodingInterview/chapter10_SortingAndSearching/SortedSearchNoSize_4.java</url>
           <line>33</line>
           <properties />
           <option name="timeStamp" value="116" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/crackingTheCodingInterview/chapter17_Hard/LettersAndNumbers_5.java</url>
+          <url>file://$PROJECT_DIR$/src/testpakg/crackingTheCodingInterview/chapter17_Hard/LettersAndNumbers_5.java</url>
           <line>22</line>
           <properties />
           <option name="timeStamp" value="117" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/crackingTheCodingInterview/chapter17_Hard/LettersAndNumbers_5.java</url>
+          <url>file://$PROJECT_DIR$/src/testpakg/crackingTheCodingInterview/chapter17_Hard/LettersAndNumbers_5.java</url>
           <line>21</line>
           <properties />
           <option name="timeStamp" value="118" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/crackingTheCodingInterview/chapter17_Hard/BabyNames_7.java</url>
+          <url>file://$PROJECT_DIR$/src/testpakg/crackingTheCodingInterview/chapter17_Hard/BabyNames_7.java</url>
           <line>48</line>
           <properties />
           <option name="timeStamp" value="126" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/crackingTheCodingInterview/chapter17_Hard/BabyNames_7.java</url>
+          <url>file://$PROJECT_DIR$/src/testpakg/crackingTheCodingInterview/chapter17_Hard/BabyNames_7.java</url>
           <line>55</line>
           <properties />
           <option name="timeStamp" value="127" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/algorithm/GreedyPoliceCatchThief.java</url>
+          <url>file://$PROJECT_DIR$/src/testpakg/algorithm/GreedyPoliceCatchThief.java</url>
           <line>27</line>
           <properties />
           <option name="timeStamp" value="128" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/array/dynamicProgramming/LongestCommonContinuousSubstring.java</url>
+          <url>file://$PROJECT_DIR$/src/testpakg/array/dynamicProgramming/LongestCommonContinuousSubstring.java</url>
           <line>25</line>
           <properties />
           <option name="timeStamp" value="129" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/array/dynamicProgramming/LongestCommonContinuousSubstring.java</url>
+          <url>file://$PROJECT_DIR$/src/testpakg/array/dynamicProgramming/LongestCommonContinuousSubstring.java</url>
           <line>6</line>
           <properties />
           <option name="timeStamp" value="130" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/array/dynamicProgramming/CoinChangeProblem.java</url>
+          <url>file://$PROJECT_DIR$/src/testpakg/array/dynamicProgramming/CoinChangeProblem.java</url>
           <line>64</line>
           <properties />
           <option name="timeStamp" value="131" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/crackingTheCodingInterview/chapter2_LinkedList/LoopDetection_8.java</url>
+          <url>file://$PROJECT_DIR$/src/testpakg/crackingTheCodingInterview/chapter2_LinkedList/LoopDetection_8.java</url>
           <line>50</line>
           <properties />
           <option name="timeStamp" value="132" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/crackingTheCodingInterview/chapter2_LinkedList/LoopDetection_8.java</url>
+          <url>file://$PROJECT_DIR$/src/testpakg/crackingTheCodingInterview/chapter2_LinkedList/LoopDetection_8.java</url>
           <line>49</line>
           <properties />
           <option name="timeStamp" value="133" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/crackingTheCodingInterview/chapter2_LinkedList/LoopDetection_8.java</url>
+          <url>file://$PROJECT_DIR$/src/testpakg/crackingTheCodingInterview/chapter2_LinkedList/LoopDetection_8.java</url>
           <line>48</line>
           <properties />
           <option name="timeStamp" value="134" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/linkedList/DetectLoop.java</url>
+          <url>file://$PROJECT_DIR$/src/testpakg/linkedList/DetectLoop.java</url>
           <line>44</line>
           <properties />
           <option name="timeStamp" value="135" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/linkedList/DetectLoop.java</url>
+          <url>file://$PROJECT_DIR$/src/testpakg/linkedList/DetectLoop.java</url>
           <line>45</line>
           <properties />
           <option name="timeStamp" value="137" />
@@ -1206,84 +1487,42 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/crackingTheCodingInterview/chapter10_SortingAndSearching/GroupAnagram_2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/crackingTheCodingInterview/chapter10_SortingAndSearching/Merge2SortedArrayIntoOne_1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/crackingTheCodingInterview/chapter10_SortingAndSearching/PeaksAndValleys_11.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-133">
-          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/crackingTheCodingInterview/chapter10_SortingAndSearching/SearchInRotatedArray_3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/crackingTheCodingInterview/chapter10_SortingAndSearching/SortedMatrixSearch_9.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/crackingTheCodingInterview/chapter10_SortingAndSearching/SortedSearchNoSize_4.java">
+    <entry file="file://$PROJECT_DIR$/src/testpakg/crackingTheCodingInterview/chapter10_SortingAndSearching/SortedSearchNoSize_4.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/crackingTheCodingInterview/chapter10_SortingAndSearching/SparseSearch_5.java">
+    <entry file="file://$PROJECT_DIR$/src/testpakg/crackingTheCodingInterview/chapter10_SortingAndSearching/SparseSearch_5.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-167">
           <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/graphs/implementation/GraphImplementationAdjacencyList.java">
+    <entry file="file://$PROJECT_DIR$/src/testpakg/graphs/implementation/GraphImplementationAdjacencyList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-223">
           <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/graphs/implementation/GraphImplementationAdjacencyMatrix.java">
+    <entry file="file://$PROJECT_DIR$/src/testpakg/graphs/implementation/GraphImplementationAdjacencyMatrix.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-86">
           <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/graphs/traversal/GraphTraversalBFS.java">
+    <entry file="file://$PROJECT_DIR$/src/testpakg/graphs/traversal/GraphTraversalBFS.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-160">
           <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/TestClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/array/dynamicProgramming/CountPathinMatrix.java">
+    <entry file="file://$PROJECT_DIR$/src/testpakg/array/dynamicProgramming/CountPathinMatrix.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="99">
           <caret line="20" selection-start-line="20" selection-end-line="20" />
@@ -1295,276 +1534,324 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/array/BinarySearchElement.java">
+    <entry file="file://$PROJECT_DIR$/src/testpakg/array/BinarySearchElement.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
           <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithm/GreedyPoliceCatchThief.java">
+    <entry file="file://$PROJECT_DIR$/src/testpakg/algorithm/GreedyPoliceCatchThief.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/array/optimization/MiniumumDifference.java">
+    <entry file="file://$PROJECT_DIR$/src/testpakg/array/optimization/MiniumumDifference.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/crackingTheCodingInterview/chapter4_TreeAndGraphs/LowestCommonAncestor_8.java">
+    <entry file="file://$PROJECT_DIR$/src/testpakg/crackingTheCodingInterview/chapter4_TreeAndGraphs/LowestCommonAncestor_8.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/array/dynamicProgramming/MinJumpsToReachEnd.java">
+    <entry file="file://$PROJECT_DIR$/src/testpakg/array/dynamicProgramming/MinJumpsToReachEnd.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/BinaryTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/stack/StackMainPushPop.java">
+    <entry file="file://$PROJECT_DIR$/src/testpakg/stack/StackMainPushPop.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="234">
           <caret line="21" column="15" selection-start-line="21" selection-start-column="11" selection-end-line="21" selection-end-column="15" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/stack/StackUsingSingleQueue.java">
+    <entry file="file://$PROJECT_DIR$/src/testpakg/stack/StackUsingSingleQueue.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
           <caret line="27" selection-start-line="27" selection-end-line="27" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/linkedList/Add2LinkedLists.java">
+    <entry file="file://$PROJECT_DIR$/src/testpakg/linkedList/Add2LinkedLists.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/array/dynamicProgramming/LongestIncreasingSubsequence.java">
+    <entry file="file://$PROJECT_DIR$/src/testpakg/array/dynamicProgramming/LongestIncreasingSubsequence.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/array/dynamicProgramming/LongestCommonSubsequence.java">
+    <entry file="file://$PROJECT_DIR$/src/testpakg/array/dynamicProgramming/LongestCommonSubsequence.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="525">
           <caret line="35" column="64" selection-start-line="35" selection-start-column="64" selection-end-line="35" selection-end-column="64" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithm/GreedyActivitySelection.java">
+    <entry file="file://$PROJECT_DIR$/src/testpakg/algorithm/GreedyActivitySelection.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="167">
           <caret line="21" column="43" selection-start-line="21" selection-start-column="43" selection-end-line="21" selection-end-column="43" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithm/GreedyJobSequencing.java">
+    <entry file="file://$PROJECT_DIR$/src/testpakg/algorithm/GreedyJobSequencing.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="448">
           <caret line="57" column="31" lean-forward="true" selection-start-line="57" selection-start-column="31" selection-end-line="57" selection-end-column="31" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithm/GreedyOptimalMerge.java">
+    <entry file="file://$PROJECT_DIR$/src/testpakg/algorithm/GreedyOptimalMerge.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/array/FileReader.java">
+    <entry file="file://$PROJECT_DIR$/src/testpakg/array/FileReader.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/array/dynamicProgramming/EditDistance.java">
+    <entry file="file://$PROJECT_DIR$/src/testpakg/array/dynamicProgramming/EditDistance.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="10" column="43" selection-start-line="10" selection-end-line="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/graphs/dfsPrograms/countIslandsInMatrix.java">
+    <entry file="file://$PROJECT_DIR$/src/testpakg/graphs/dfsPrograms/countIslandsInMatrix.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" column="14" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/array/optimization/RearrangeArray.java">
+    <entry file="file://$PROJECT_DIR$/src/testpakg/array/optimization/RearrangeArray.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/linkedList/circularLinkedList/CLLTraversal.java">
+    <entry file="file://$PROJECT_DIR$/src/testpakg/linkedList/circularLinkedList/CLLTraversal.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="690">
           <caret line="46" column="5" selection-start-line="35" selection-start-column="4" selection-end-line="46" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/linkedList/LinkedList.java">
+    <entry file="file://$PROJECT_DIR$/src/testpakg/linkedList/LinkedList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="17" column="33" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/linkedList/DetectLoop.java">
+    <entry file="file://$PROJECT_DIR$/src/testpakg/linkedList/DetectLoop.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/linkedList/Reverse.java">
+    <entry file="file://$PROJECT_DIR$/src/testpakg/linkedList/Reverse.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="10" column="48" selection-start-line="10" selection-start-column="48" selection-end-line="10" selection-end-column="48" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="885">
-          <caret line="62" column="22" selection-start-line="62" selection-start-column="22" selection-end-line="62" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/linkedList/LengthOfLoop.java">
+    <entry file="file://$PROJECT_DIR$/src/testpakg/linkedList/LengthOfLoop.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/General/TrapWaterSum.java">
+    <entry file="file://$PROJECT_DIR$/src/testpakg/General/TrapWaterSum.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="465">
           <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/array/CommonElement.java">
+    <entry file="file://$PROJECT_DIR$/src/testpakg/array/CommonElement.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
           <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/array/leetCode/LargestSumContiguousSubarray.java">
+    <entry file="file://$PROJECT_DIR$/src/testpakg/array/leetCode/LargestSumContiguousSubarray.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/array/optimization/MinSubArrayAvg.java">
+    <entry file="file://$PROJECT_DIR$/src/testpakg/array/optimization/MinSubArrayAvg.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/array/MaxProdSubArray.java">
+    <entry file="file://$PROJECT_DIR$/src/testpakg/array/MaxProdSubArray.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/crackingTheCodingInterview/chapter1_Arrays/CcheckPermutation.java">
+    <entry file="file://$PROJECT_DIR$/src/testpakg/crackingTheCodingInterview/chapter1_Arrays/CcheckPermutation.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/amazon/AllStringPermutations.java">
+    <entry file="file://$PROJECT_DIR$/src/testpakg/amazon/AllStringPermutations.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="111">
+        <state relative-caret-position="195">
           <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/array/dynamicProgramming/NumberOfTiles1XN.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/crackingTheCodingInterview/chapter4_TreeAndGraphs/ValidateBst_5.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/crackingTheCodingInterview/chapter16_MediumLevelPrograms/PairsWithSumInArray_24.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="32" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/crackingTheCodingInterview/chapter16_MediumLevelPrograms/ContiguousSubSequenceLargestSum_17.java">
+    <entry file="file://$PROJECT_DIR$/src/testpakg/crackingTheCodingInterview/chapter2_LinkedList/LoopDetection_8.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/crackingTheCodingInterview/chapter2_LinkedList/LoopDetection_8.java">
+    <entry file="file://$PROJECT_DIR$/src/testpakg/array/dynamicProgramming/LongestPallindromSubstring.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="11">
+        <state relative-caret-position="30">
+          <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/testpakg/algorithm/MaxHeapImplementation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="615">
+          <caret line="41" column="26" selection-start-line="41" selection-start-column="26" selection-end-line="41" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/testpakg/array/dynamicProgramming/NumberOfTiles1XN.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/testpakg/crackingTheCodingInterview/chapter4_TreeAndGraphs/ValidateBst_5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/testpakg/crackingTheCodingInterview/chapter16_MediumLevelPrograms/ContiguousSubSequenceLargestSum_17.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/array/dynamicProgramming/LongestPallindromSubstring.java">
+    <entry file="file://$PROJECT_DIR$/src/testpakg/crackingTheCodingInterview/chapter16_MediumLevelPrograms/PairsWithSumInArray_24.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+        <state relative-caret-position="105">
+          <caret line="7" column="32" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithm/MaxHeapImplementation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="468">
-          <caret line="45" column="26" lean-forward="true" selection-start-line="45" selection-start-column="26" selection-end-line="45" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/crackingTheCodingInterview/chapter8_DynamicProgAndRecursion/PaintFill_10.java">
+    <entry file="file://$PROJECT_DIR$/src/testpakg/crackingTheCodingInterview/chapter8_DynamicProgAndRecursion/PaintFill_10.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="123">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/testpakg/BinaryTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/testpakg/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/testpakg/StackClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/testpakg/StackUsingLinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TestClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/testpakg/array/optimization/MoveZeros.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="343">
+          <caret line="23" column="31" selection-start-line="23" selection-start-column="31" selection-end-line="23" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="34" column="5" lean-forward="true" selection-start-line="34" selection-start-column="5" selection-end-line="42" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
