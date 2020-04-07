@@ -21,6 +21,7 @@ public class GreedyOptimalMerge {
         int count=0,temp;
         while (priorityQueue.size()>1){
             temp=priorityQueue.poll()+priorityQueue.poll();
+            System.out.println(temp);
             count+=temp;
             priorityQueue.add(temp);
         }

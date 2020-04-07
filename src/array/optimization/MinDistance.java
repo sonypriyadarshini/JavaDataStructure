@@ -20,11 +20,9 @@ public class MinDistance {
         }
         for(;i<array.length;i++){
             if(array[i]==a||array[i]==b){
-                if(array[i]!=array[temp]&&(i-temp)<dist){
-                    dist=i-temp;
-                    temp=i;
+                if(array[i]!=array[temp]&&(i-temp)<dist) {
+                    dist = i - temp;
                 }
-                else
                     temp=i;
             }
         }

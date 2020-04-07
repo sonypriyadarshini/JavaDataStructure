@@ -1,7 +1,6 @@
 package graphs.traversal;
 
 //https://www.geeksforgeeks.org/breadth-first-search-or-bfs-for-a-graph/
-
 import java.util.Iterator;
 import java.util.LinkedList;
 import java.util.Queue;

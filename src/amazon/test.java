@@ -1,6 +1,6 @@
 //package amazon;
 //
-//public class test {
+//public class LinkedList {
 //    public static void main(String args[]){
 //        Stringpermutation("asd",0,3);
 //    }

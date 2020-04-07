@@ -11,7 +11,7 @@ public static void main(String args[]){
 public void moveInSingletraversal(int arr[]){
     int count =0;
     for(int i=0;i<arr.length;i++){
-        if(arr[i]!=0){
+        if(arr[i]==0){
             int t = arr[count];
             arr[count]=arr[i];
             arr[i]=t;
