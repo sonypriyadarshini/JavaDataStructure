@@ -62,6 +62,7 @@ public class SortByfrequency {
         for (Data data : values) {
             for (int j = 0; j < data.count; j++) {
                 arr[k++] = data.value;
+                System.out.print(data.value+"  ");
             }
         }
     }

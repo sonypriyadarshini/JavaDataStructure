@@ -2,25 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="41f18f41-980f-4871-9479-fe4b1e24f500" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/FileParsing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/amazon1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sorting/SortByfrequency.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/search/SearchFloorCeil.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/algorithm/GreedyOptimalMerge.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProgramPrac/algorithm/GreedyOptimalMerge.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/array/optimization/MinDistance.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProgramPrac/array/optimization/MinDistance.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/array/optimization/MoveZeros.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProgramPrac/array/optimization/MoveZeros.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/crackingTheCodingInterview/chapter8_DynamicProgAndRecursion/FindSubsets_4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProgramPrac/crackingTheCodingInterview/chapter8_DynamicProgAndRecursion/FindSubsets_4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/graphs/traversal/GraphTraversalBFS.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProgramPrac/graphs/traversal/GraphTraversalBFS.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/GreedyOptimalMerge.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithm/GreedyOptimalMerge.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/amazon/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/amazon/test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/array/optimization/MinDistance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array/optimization/MinDistance.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/array/optimization/MoveZeros.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array/optimization/MoveZeros.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter8_DynamicProgAndRecursion/FindSubsets_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter8_DynamicProgAndRecursion/FindSubsets_4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/graphs/traversal/GraphTraversalBFS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/graphs/traversal/GraphTraversalBFS.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/sorting/Data.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProgramPrac/sorting/Data.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/sorting/SortByfrequency.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProgramPrac/sorting/SortByfrequency.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/array/BinarySearchElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array/BinarySearchElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sorting/SortByfrequency.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sorting/SortByfrequency.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -39,24 +26,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/amazon/AllStringPermutations.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="111">
-              <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/crackingTheCodingInterview/chapter8_DynamicProgAndRecursion/ParenthesisPairs_9.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/array/optimization/MaxDistance.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -120,14 +89,32 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/sorting/SortByfrequency.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="422">
-              <caret line="75" column="24" selection-start-line="75" selection-start-column="24" selection-end-line="75" selection-end-column="24" />
+            <state relative-caret-position="295">
+              <caret line="63" column="38" lean-forward="true" selection-start-line="63" selection-start-column="38" selection-end-line="63" selection-end-column="38" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/array/BinarySearchElement.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="405">
+              <caret line="27" selection-start-line="27" selection-end-line="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/search/SearchFloorCeil.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="497">
+              <caret line="83" selection-start-line="83" selection-end-line="83" />
             </state>
           </provider>
         </entry>
@@ -163,8 +150,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/array/dynamicProgramming/CountWaystoReachNthStair.java" />
-        <option value="$PROJECT_DIR$/src/algorithm/GreedyPoliceCatchThief.java" />
         <option value="$PROJECT_DIR$/src/array/dynamicProgramming/MinJumpsToReachEnd.java" />
         <option value="$PROJECT_DIR$/src/array/optimization/MaxSubArrayAvg.java" />
         <option value="$PROJECT_DIR$/src/array/optimization/RearrangeArray.java" />
@@ -214,6 +199,8 @@
         <option value="$PROJECT_DIR$/src/test1.java" />
         <option value="$PROJECT_DIR$/src/array/optimization/MinDistance.java" />
         <option value="$PROJECT_DIR$/src/sorting/SortByfrequency.java" />
+        <option value="$PROJECT_DIR$/src/array/BinarySearchElement.java" />
+        <option value="$PROJECT_DIR$/src/search/SearchFloorCeil.java" />
       </list>
     </option>
   </component>
@@ -385,7 +372,20 @@
               <item name="JavaDataStructure" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaDataStructure" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="search" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaDataStructure" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaDataStructure" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="sorting" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaDataStructure" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaDataStructure" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="sorting" type="462c0819:PsiDirectoryNode" />
+              <item name="SortByfrequency.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </path>
             <path>
               <item name="JavaDataStructure" type="b2602c69:ProjectViewProjectNode" />
@@ -498,7 +498,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SortByfrequency">
+  <component name="RunManager" selected="Application.SearchFloorCeil">
     <configuration name="MaxMatrixSizeWith1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="array.dynamicProgramming.MaxMatrixSizeWith1" />
       <module name="ProgramPrac" />
@@ -525,12 +525,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MoveZeros" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array.optimization.MoveZeros" />
+    <configuration name="SearchFloorCeil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="search.SearchFloorCeil" />
       <module name="ProgramPrac" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="array.optimization.*" />
+          <option name="PATTERN" value="search.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -560,18 +560,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.test1" />
-      <item itemvalue="Application.MoveZeros" />
       <item itemvalue="Application.MinDistance" />
       <item itemvalue="Application.MaxMatrixSizeWith1" />
       <item itemvalue="Application.SortByfrequency" />
+      <item itemvalue="Application.SearchFloorCeil" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SearchFloorCeil" />
         <item itemvalue="Application.SortByfrequency" />
         <item itemvalue="Application.MaxMatrixSizeWith1" />
         <item itemvalue="Application.MinDistance" />
         <item itemvalue="Application.test1" />
-        <item itemvalue="Application.MoveZeros" />
       </list>
     </recent_temporary>
   </component>
@@ -1358,34 +1358,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/array/dynamicProgramming/EditDistance.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="106">
-          <caret line="13" column="16" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/array/dynamicProgramming/FibonacciDp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/array/dynamicProgramming/LongestIncreasingSubsequence.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/array/dynamicProgramming/LongestPallindromSubstring.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/array/dynamicProgramming/ShortestCommonSubsequence.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -1605,13 +1577,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/array/BinarySearchElement.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="269">
@@ -1710,13 +1675,52 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/src.zip!/java/util/DualPivotQuicksort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-90">
+          <caret line="106" column="16" selection-start-line="106" selection-start-column="16" selection-end-line="106" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/src.zip!/java/util/Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="143" column="29" lean-forward="true" selection-start-line="143" selection-start-column="29" selection-end-line="143" selection-end-column="29" />
+          <folding>
+            <element signature="e#5027#5028#0" expanded="true" />
+            <element signature="e#5098#5099#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/sorting/SortByfrequency.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="422">
-          <caret line="75" column="24" selection-start-line="75" selection-start-column="24" selection-end-line="75" selection-end-column="24" />
+        <state relative-caret-position="295">
+          <caret line="63" column="38" lean-forward="true" selection-start-line="63" selection-start-column="38" selection-end-line="63" selection-end-column="38" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/search.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="19" selection-start-column="19" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/array/BinarySearchElement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/search/SearchFloorCeil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="497">
+          <caret line="83" selection-start-line="83" selection-end-line="83" />
         </state>
       </provider>
     </entry>
