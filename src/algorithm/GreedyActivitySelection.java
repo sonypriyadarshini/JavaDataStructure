@@ -12,14 +12,16 @@ public class GreedyActivitySelection {
     public static void main(String[] args) {
         Integer s[] =  {10,12,20};
         Integer f[] =  {30,20,25};
-        selectActivity(s,f);
+//        selectActivity(s,f);
 
         ArrayList<jobs> lis=new ArrayList<>();
         lis.add(new jobs(10,30));
         lis.add(new jobs(12,20));
         lis.add(new jobs(20,25));
         Collections.sort(lis);
-        System.out.println(lis.get(0).stime);
+        System.out.println(lis.get(0).stime+"  :   "+lis.get(0).ftime);
+        System.out.println(lis.get(1).stime+"  :   "+lis.get(1).ftime);
+        System.out.println(lis.get(2).stime+"  :   "+lis.get(2).ftime);
     }
 
     static class jobs implements Comparable<jobs>{

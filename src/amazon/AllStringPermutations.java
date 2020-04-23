@@ -15,7 +15,7 @@ import java.util.List;
 
 public class AllStringPermutations {
     public static void main(String[] args) {
-        String str = "AC";
+        String str = "123";
         int n = str.length();
         permute(str, 0, n - 1);
     }

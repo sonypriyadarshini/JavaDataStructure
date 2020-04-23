@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=aVFWW3pBQFo
 public class LongestCommonSubsequence {
     public static void main(String args[]){
 
-        lengthOfCommonSubstring("GXTXAYB","AGGTAB");
+        lengthOfCommonSubstring("GXTBXAY","AGGTAB");
     }
 
     public static void lengthOfCommonSubstring(String a, String b){
