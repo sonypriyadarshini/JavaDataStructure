@@ -2,13 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="41f18f41-980f-4871-9479-fe4b1e24f500" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/array/FindKMostFrequentNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/FindSubarrayWithLeastAvg.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bitManipulation/CountSetBits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/testClasses/test4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/testClasses/testnew1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/TestClass$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProgramPrac/TestClass$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/TestClass$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProgramPrac/TestClass$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/TestClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProgramPrac/TestClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/TestClass$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/TestClass$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/TestClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/crackingTheCodingInterview/chapter8_DynamicProgAndRecursion/FindSubsets_4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProgramPrac/crackingTheCodingInterview/chapter8_DynamicProgAndRecursion/FindSubsets_4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/crackingTheCodingInterview/chapter8_DynamicProgAndRecursion/PaintFill_10.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProgramPrac/crackingTheCodingInterview/chapter8_DynamicProgAndRecursion/PaintFill_10.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/crackingTheCodingInterview/chapter8_DynamicProgAndRecursion/PermutationUniqueCharString_7.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProgramPrac/crackingTheCodingInterview/chapter8_DynamicProgAndRecursion/PermutationUniqueCharString_7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/crackingTheCodingInterview/chapter8_DynamicProgAndRecursion/PermutationWithDuplicates_8.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProgramPrac/crackingTheCodingInterview/chapter8_DynamicProgAndRecursion/PermutationWithDuplicates_8.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/test1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramPrac/tree/BinaryTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProgramPrac/tree/BinaryTree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TestClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testClasses/TestClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter8_DynamicProgAndRecursion/FindSubsets_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter8_DynamicProgAndRecursion/FindSubsets_4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter8_DynamicProgAndRecursion/PaintFill_10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter8_DynamicProgAndRecursion/PaintFill_10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter8_DynamicProgAndRecursion/PermutationUniqueCharString_7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter8_DynamicProgAndRecursion/PermutationUniqueCharString_7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter8_DynamicProgAndRecursion/PermutationWithDuplicates_8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter8_DynamicProgAndRecursion/PermutationWithDuplicates_8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testClasses/test1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tree/BinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tree/BinaryTree.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -28,19 +40,55 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/TestClass.java">
+        <entry file="file://$PROJECT_DIR$/src/crackingTheCodingInterview/chapter8_DynamicProgAndRecursion/PermutationWithDuplicates_8.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1494">
-              <caret line="204" selection-start-line="204" selection-end-line="204" />
+            <state relative-caret-position="259">
+              <caret line="21" column="34" selection-start-line="21" selection-start-column="34" selection-end-line="21" selection-end-column="34" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/sorting/SortByfrequency.java">
+        <entry file="file://$PROJECT_DIR$/src/crackingTheCodingInterview/chapter8_DynamicProgAndRecursion/PermutationUniqueCharString_7.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="343">
-              <caret line="50" column="19" selection-start-line="50" selection-start-column="19" selection-end-line="50" selection-end-column="19" />
+            <state relative-caret-position="360">
+              <caret line="24" column="48" selection-start-line="24" selection-start-column="48" selection-end-line="24" selection-end-column="48" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/testClasses/TestClass.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1624">
+              <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/testClasses/test4.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/testClasses/test1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="28" column="37" selection-start-line="28" selection-start-column="37" selection-end-line="28" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/testClasses/testnew1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="543">
+              <caret line="43" column="38" selection-start-line="43" selection-start-column="38" selection-end-line="43" selection-end-column="38" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -49,64 +97,37 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/array/FindSubarrayWithLeastAvg.java">
+        <entry file="file://$PROJECT_DIR$/src/LinkedList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" column="37" selection-start-line="21" selection-start-column="37" selection-end-line="21" selection-end-column="37" />
+            <state relative-caret-position="-157">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/bitManipulation/CountSetBits.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/array/dynamicProgramming/LongestCommonSubsequence.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="14" column="37" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="37" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/array/dynamicProgramming/LongestIncreasingSubsequence.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/array/dynamicProgramming/MinJumpsToReachEnd.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-19">
-              <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/algorithm/GreedyActivitySelection.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-359">
-              <caret line="24" column="5" lean-forward="true" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/array/dynamicProgramming/LongestCommonContinuousSubstring.java">
+        <entry file="file://$PROJECT_DIR$/src/stack/StackMainPushPop.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="30">
               <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/linkedList/LinkedList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="405">
+              <caret line="30" column="5" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/crackingTheCodingInterview/chapter8_DynamicProgAndRecursion/FindSubsets_4.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="229">
+              <caret line="25" column="25" selection-start-line="25" selection-start-column="25" selection-end-line="25" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -142,14 +163,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter1_Arrays/ValidateStringRotaion.java" />
-        <option value="$PROJECT_DIR$/src/array/dynamicProgramming/CoinChangeProblem.java" />
-        <option value="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter4_TreeAndGraphs/ValidateIfBinaryTreeIsBalance_4.java" />
-        <option value="$PROJECT_DIR$/src/graphs/implementation/GraphImplementationAdjacencyList.java" />
-        <option value="$PROJECT_DIR$/src/graphs/DijkstrasAlgorithmGreedymethod.java" />
         <option value="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter3_StacksAndQueues/SortStack.java" />
         <option value="$PROJECT_DIR$/src/graphs/dfsPrograms/FindAllPathsFromAtoB.java" />
-        <option value="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter8_DynamicProgAndRecursion/PaintFill_10.java" />
         <option value="$PROJECT_DIR$/src/linkedList/Deletion.java" />
         <option value="$PROJECT_DIR$/src/linkedList/DetectLoop.java" />
         <option value="$PROJECT_DIR$/src/algorithm/MaxHeapImplementation.java" />
@@ -170,16 +185,13 @@
         <option value="$PROJECT_DIR$/src/test.java" />
         <option value="$PROJECT_DIR$/src/LinkedList.java" />
         <option value="$PROJECT_DIR$/src/graphs/traversal/GraphTraversalBFS.java" />
-        <option value="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter8_DynamicProgAndRecursion/FindSubsets_4.java" />
         <option value="$PROJECT_DIR$/src/array/optimization/MoveZeros.java" />
         <option value="$PROJECT_DIR$/src/test1.java" />
         <option value="$PROJECT_DIR$/src/array/optimization/MinDistance.java" />
         <option value="$PROJECT_DIR$/src/sorting/SortByfrequency.java" />
         <option value="$PROJECT_DIR$/src/array/BinarySearchElement.java" />
         <option value="$PROJECT_DIR$/src/search/SearchFloorCeil.java" />
-        <option value="$PROJECT_DIR$/src/tree/BinaryTree.java" />
         <option value="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter2_LinkedList/LoopDetection_8.java" />
-        <option value="$PROJECT_DIR$/src/tree/SumTree.java" />
         <option value="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter4_TreeAndGraphs/CountPathForSum_12.java" />
         <option value="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter4_TreeAndGraphs/ValidateBst_5.java" />
         <option value="$PROJECT_DIR$/src/array/FindMissingPositiveUnsorted.java" />
@@ -189,10 +201,19 @@
         <option value="$PROJECT_DIR$/src/algorithm/GreedyActivitySelection.java" />
         <option value="$PROJECT_DIR$/src/algorithm/GreedyJobSequencing.java" />
         <option value="$PROJECT_DIR$/src/array/dynamicProgramming/EditDistance.java" />
-        <option value="$PROJECT_DIR$/src/TestClass.java" />
         <option value="$PROJECT_DIR$/src/array/FindKMostFrequentNumber.java" />
         <option value="$PROJECT_DIR$/src/array/FindSubarrayWithLeastAvg.java" />
         <option value="$PROJECT_DIR$/src/bitManipulation/CountSetBits.java" />
+        <option value="$PROJECT_DIR$/src/TestClass.java" />
+        <option value="$PROJECT_DIR$/src/testClasses/test4.java" />
+        <option value="$PROJECT_DIR$/src/tree/SumTree.java" />
+        <option value="$PROJECT_DIR$/src/tree/BinaryTree.java" />
+        <option value="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter8_DynamicProgAndRecursion/FindSubsets_4.java" />
+        <option value="$PROJECT_DIR$/src/testClasses/testnew1.java" />
+        <option value="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter8_DynamicProgAndRecursion/PermutationUniqueCharString_7.java" />
+        <option value="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter8_DynamicProgAndRecursion/PermutationWithDuplicates_8.java" />
+        <option value="$PROJECT_DIR$/src/crackingTheCodingInterview/chapter8_DynamicProgAndRecursion/PaintFill_10.java" />
+        <option value="$PROJECT_DIR$/src/testClasses/test1.java" />
       </list>
     </option>
   </component>
@@ -243,21 +264,98 @@
               <item name="JavaDataStructure" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaDataStructure" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="array" type="462c0819:PsiDirectoryNode" />
+              <item name="crackingTheCodingInterview" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JavaDataStructure" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaDataStructure" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="array" type="462c0819:PsiDirectoryNode" />
-              <item name="dynamicProgramming" type="462c0819:PsiDirectoryNode" />
+              <item name="crackingTheCodingInterview" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter1_Arrays" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JavaDataStructure" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaDataStructure" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="array" type="462c0819:PsiDirectoryNode" />
-              <item name="optimization" type="462c0819:PsiDirectoryNode" />
+              <item name="crackingTheCodingInterview" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter2_LinkedList" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaDataStructure" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaDataStructure" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="crackingTheCodingInterview" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter3_StacksAndQueues" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaDataStructure" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaDataStructure" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="crackingTheCodingInterview" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter4_TreeAndGraphs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaDataStructure" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaDataStructure" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="crackingTheCodingInterview" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter8_DynamicProgAndRecursion" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaDataStructure" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaDataStructure" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="crackingTheCodingInterview" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter10_SortingAndSearching" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaDataStructure" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaDataStructure" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="crackingTheCodingInterview" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter16_MediumLevelPrograms" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaDataStructure" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaDataStructure" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="General" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaDataStructure" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaDataStructure" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="linkedList" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaDataStructure" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaDataStructure" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="search" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaDataStructure" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaDataStructure" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="stack" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaDataStructure" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaDataStructure" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="testClasses" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaDataStructure" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaDataStructure" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="testpakg" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaDataStructure" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaDataStructure" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="tree" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JavaDataStructure" type="b2602c69:ProjectViewProjectNode" />
@@ -364,13 +462,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.CountSetBits">
-    <configuration name="CountSetBits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="bitManipulation.CountSetBits" />
+  <component name="RunManager" selected="Application.test1">
+    <configuration name="FindSubsets_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="crackingTheCodingInterview.chapter8_DynamicProgAndRecursion.FindSubsets_4" />
       <module name="ProgramPrac" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="bitManipulation.*" />
+          <option name="PATTERN" value="crackingTheCodingInterview.chapter8_DynamicProgAndRecursion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -378,12 +476,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindKMostFrequentNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array.FindKMostFrequentNumber" />
+    <configuration name="PermutationUniqueCharString_7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="crackingTheCodingInterview.chapter8_DynamicProgAndRecursion.PermutationUniqueCharString_7" />
       <module name="ProgramPrac" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="array.*" />
+          <option name="PATTERN" value="crackingTheCodingInterview.chapter8_DynamicProgAndRecursion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -391,12 +489,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindSubarrayWithLeastAvg" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array.FindSubarrayWithLeastAvg" />
+    <configuration name="PermutationWithDuplicates_8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="crackingTheCodingInterview.chapter8_DynamicProgAndRecursion.PermutationWithDuplicates_8" />
       <module name="ProgramPrac" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="array.*" />
+          <option name="PATTERN" value="crackingTheCodingInterview.chapter8_DynamicProgAndRecursion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -404,12 +502,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaxHeapImplementation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algorithm.MaxHeapImplementation" />
+    <configuration name="test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="testClasses.test1" />
       <module name="ProgramPrac" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="algorithm.*" />
+          <option name="PATTERN" value="testClasses.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -417,27 +515,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TestClass" />
+    <configuration name="testnew1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="testClasses.testnew1" />
       <module name="ProgramPrac" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testClasses.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.TestClass" />
-      <item itemvalue="Application.MaxHeapImplementation" />
-      <item itemvalue="Application.FindKMostFrequentNumber" />
-      <item itemvalue="Application.FindSubarrayWithLeastAvg" />
-      <item itemvalue="Application.CountSetBits" />
+      <item itemvalue="Application.test1" />
+      <item itemvalue="Application.FindSubsets_4" />
+      <item itemvalue="Application.testnew1" />
+      <item itemvalue="Application.PermutationWithDuplicates_8" />
+      <item itemvalue="Application.PermutationUniqueCharString_7" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CountSetBits" />
-        <item itemvalue="Application.FindSubarrayWithLeastAvg" />
-        <item itemvalue="Application.FindKMostFrequentNumber" />
-        <item itemvalue="Application.MaxHeapImplementation" />
-        <item itemvalue="Application.TestClass" />
+        <item itemvalue="Application.test1" />
+        <item itemvalue="Application.PermutationUniqueCharString_7" />
+        <item itemvalue="Application.PermutationWithDuplicates_8" />
+        <item itemvalue="Application.testnew1" />
+        <item itemvalue="Application.FindSubsets_4" />
       </list>
     </recent_temporary>
   </component>
@@ -486,7 +590,7 @@
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="949" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3028083" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3028083" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -495,8 +599,8 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32982457" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.31971994" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.36522755" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.31971994" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3642857" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -524,8 +628,8 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/TestClass.java</url>
-          <line>799</line>
+          <url>file://$PROJECT_DIR$/src/testClasses/TestClass.java</url>
+          <line>841</line>
           <properties />
           <option name="timeStamp" value="1" />
         </line-breakpoint>
@@ -698,38 +802,38 @@
           <option name="timeStamp" value="56" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/TestClass.java</url>
-          <line>660</line>
+          <url>file://$PROJECT_DIR$/src/testClasses/TestClass.java</url>
+          <line>702</line>
           <properties />
           <option name="timeStamp" value="60" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/TestClass.java</url>
-          <line>658</line>
+          <url>file://$PROJECT_DIR$/src/testClasses/TestClass.java</url>
+          <line>700</line>
           <properties />
           <option name="timeStamp" value="61" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/TestClass.java</url>
-          <line>661</line>
+          <url>file://$PROJECT_DIR$/src/testClasses/TestClass.java</url>
+          <line>703</line>
           <properties />
           <option name="timeStamp" value="62" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/TestClass.java</url>
-          <line>662</line>
+          <url>file://$PROJECT_DIR$/src/testClasses/TestClass.java</url>
+          <line>704</line>
           <properties />
           <option name="timeStamp" value="63" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/TestClass.java</url>
-          <line>664</line>
+          <url>file://$PROJECT_DIR$/src/testClasses/TestClass.java</url>
+          <line>706</line>
           <properties />
           <option name="timeStamp" value="64" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/TestClass.java</url>
-          <line>669</line>
+          <url>file://$PROJECT_DIR$/src/testClasses/TestClass.java</url>
+          <line>711</line>
           <properties />
           <option name="timeStamp" value="65" />
         </line-breakpoint>
@@ -752,56 +856,56 @@
           <option name="timeStamp" value="68" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/TestClass.java</url>
-          <line>624</line>
+          <url>file://$PROJECT_DIR$/src/testClasses/TestClass.java</url>
+          <line>666</line>
           <properties />
           <option name="timeStamp" value="69" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/TestClass.java</url>
-          <line>628</line>
+          <url>file://$PROJECT_DIR$/src/testClasses/TestClass.java</url>
+          <line>670</line>
           <properties />
           <option name="timeStamp" value="70" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/TestClass.java</url>
-          <line>632</line>
+          <url>file://$PROJECT_DIR$/src/testClasses/TestClass.java</url>
+          <line>674</line>
           <properties />
           <option name="timeStamp" value="71" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/TestClass.java</url>
-          <line>639</line>
+          <url>file://$PROJECT_DIR$/src/testClasses/TestClass.java</url>
+          <line>681</line>
           <properties />
           <option name="timeStamp" value="72" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/TestClass.java</url>
-          <line>630</line>
+          <url>file://$PROJECT_DIR$/src/testClasses/TestClass.java</url>
+          <line>672</line>
           <properties />
           <option name="timeStamp" value="73" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/TestClass.java</url>
-          <line>636</line>
+          <url>file://$PROJECT_DIR$/src/testClasses/TestClass.java</url>
+          <line>678</line>
           <properties />
           <option name="timeStamp" value="74" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/TestClass.java</url>
-          <line>635</line>
+          <url>file://$PROJECT_DIR$/src/testClasses/TestClass.java</url>
+          <line>677</line>
           <properties />
           <option name="timeStamp" value="75" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/TestClass.java</url>
-          <line>536</line>
+          <url>file://$PROJECT_DIR$/src/testClasses/TestClass.java</url>
+          <line>578</line>
           <properties />
           <option name="timeStamp" value="87" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/TestClass.java</url>
-          <line>534</line>
+          <url>file://$PROJECT_DIR$/src/testClasses/TestClass.java</url>
+          <line>576</line>
           <properties />
           <option name="timeStamp" value="88" />
         </line-breakpoint>
@@ -861,7 +965,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/crackingTheCodingInterview/chapter8_DynamicProgAndRecursion/PermutationWithDuplicates_8.java</url>
-          <line>17</line>
+          <line>18</line>
           <properties />
           <option name="timeStamp" value="111" />
         </line-breakpoint>
@@ -1004,193 +1108,187 @@
           <option name="timeStamp" value="143" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test1.java</url>
+          <url>file://$PROJECT_DIR$/src/testClasses/test1.java</url>
           <line>147</line>
           <properties />
           <option name="timeStamp" value="144" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test1.java</url>
+          <url>file://$PROJECT_DIR$/src/testClasses/test1.java</url>
           <line>148</line>
           <properties />
           <option name="timeStamp" value="145" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test1.java</url>
+          <url>file://$PROJECT_DIR$/src/testClasses/test1.java</url>
           <line>185</line>
           <properties />
           <option name="timeStamp" value="147" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test1.java</url>
+          <url>file://$PROJECT_DIR$/src/testClasses/test1.java</url>
           <line>183</line>
           <properties />
           <option name="timeStamp" value="148" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test1.java</url>
+          <url>file://$PROJECT_DIR$/src/testClasses/test1.java</url>
           <line>190</line>
           <properties />
           <option name="timeStamp" value="150" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test1.java</url>
+          <url>file://$PROJECT_DIR$/src/testClasses/test1.java</url>
           <line>189</line>
           <properties />
           <option name="timeStamp" value="151" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test1.java</url>
+          <url>file://$PROJECT_DIR$/src/testClasses/test1.java</url>
           <line>191</line>
           <properties />
           <option name="timeStamp" value="152" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test1.java</url>
+          <url>file://$PROJECT_DIR$/src/testClasses/test1.java</url>
           <line>192</line>
           <properties />
           <option name="timeStamp" value="153" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test1.java</url>
+          <url>file://$PROJECT_DIR$/src/testClasses/test1.java</url>
           <line>159</line>
           <properties />
           <option name="timeStamp" value="154" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test1.java</url>
+          <url>file://$PROJECT_DIR$/src/testClasses/test1.java</url>
           <line>163</line>
           <properties />
           <option name="timeStamp" value="155" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test1.java</url>
+          <url>file://$PROJECT_DIR$/src/testClasses/test1.java</url>
           <line>155</line>
           <properties />
           <option name="timeStamp" value="156" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test1.java</url>
+          <url>file://$PROJECT_DIR$/src/testClasses/test1.java</url>
           <line>167</line>
           <properties />
           <option name="timeStamp" value="158" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test1.java</url>
+          <url>file://$PROJECT_DIR$/src/testClasses/test1.java</url>
           <line>165</line>
           <properties />
           <option name="timeStamp" value="159" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test1.java</url>
+          <url>file://$PROJECT_DIR$/src/testClasses/test1.java</url>
           <line>156</line>
           <properties />
           <option name="timeStamp" value="160" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test1.java</url>
+          <url>file://$PROJECT_DIR$/src/testClasses/test1.java</url>
           <line>124</line>
           <properties />
           <option name="timeStamp" value="161" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test1.java</url>
+          <url>file://$PROJECT_DIR$/src/testClasses/test1.java</url>
           <line>126</line>
           <properties />
           <option name="timeStamp" value="162" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test1.java</url>
+          <url>file://$PROJECT_DIR$/src/testClasses/test1.java</url>
           <line>130</line>
           <properties />
           <option name="timeStamp" value="163" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test1.java</url>
+          <url>file://$PROJECT_DIR$/src/testClasses/test1.java</url>
           <line>133</line>
           <properties />
           <option name="timeStamp" value="164" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test1.java</url>
+          <url>file://$PROJECT_DIR$/src/testClasses/test1.java</url>
           <line>131</line>
           <properties />
           <option name="timeStamp" value="165" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test1.java</url>
+          <url>file://$PROJECT_DIR$/src/testClasses/test1.java</url>
           <line>125</line>
           <properties />
           <option name="timeStamp" value="166" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test1.java</url>
+          <url>file://$PROJECT_DIR$/src/testClasses/test1.java</url>
           <line>108</line>
           <properties />
           <option name="timeStamp" value="167" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test1.java</url>
+          <url>file://$PROJECT_DIR$/src/testClasses/test1.java</url>
           <line>104</line>
           <properties />
           <option name="timeStamp" value="168" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test1.java</url>
+          <url>file://$PROJECT_DIR$/src/testClasses/test1.java</url>
           <line>112</line>
           <properties />
           <option name="timeStamp" value="169" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test1.java</url>
+          <url>file://$PROJECT_DIR$/src/testClasses/test1.java</url>
           <line>100</line>
           <properties />
           <option name="timeStamp" value="170" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test1.java</url>
-          <line>45</line>
-          <properties />
-          <option name="timeStamp" value="171" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test1.java</url>
+          <url>file://$PROJECT_DIR$/src/testClasses/test1.java</url>
           <line>44</line>
           <properties />
           <option name="timeStamp" value="172" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test1.java</url>
+          <url>file://$PROJECT_DIR$/src/testClasses/test1.java</url>
           <line>46</line>
           <properties />
           <option name="timeStamp" value="173" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test1.java</url>
+          <url>file://$PROJECT_DIR$/src/testClasses/test1.java</url>
           <line>47</line>
           <properties />
           <option name="timeStamp" value="174" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test1.java</url>
+          <url>file://$PROJECT_DIR$/src/testClasses/test1.java</url>
           <line>48</line>
           <properties />
           <option name="timeStamp" value="175" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test1.java</url>
+          <url>file://$PROJECT_DIR$/src/testClasses/test1.java</url>
           <line>50</line>
           <properties />
           <option name="timeStamp" value="176" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test1.java</url>
+          <url>file://$PROJECT_DIR$/src/testClasses/test1.java</url>
           <line>51</line>
           <properties />
           <option name="timeStamp" value="177" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test1.java</url>
+          <url>file://$PROJECT_DIR$/src/testClasses/test1.java</url>
           <line>54</line>
           <properties />
           <option name="timeStamp" value="178" />
@@ -1232,582 +1330,708 @@
           <option name="timeStamp" value="192" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/TestClass.java</url>
-          <line>440</line>
+          <url>file://$PROJECT_DIR$/src/testClasses/TestClass.java</url>
+          <line>482</line>
           <properties />
           <option name="timeStamp" value="193" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/TestClass.java</url>
-          <line>441</line>
+          <url>file://$PROJECT_DIR$/src/testClasses/TestClass.java</url>
+          <line>483</line>
           <properties />
           <option name="timeStamp" value="194" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/TestClass.java</url>
-          <line>442</line>
+          <url>file://$PROJECT_DIR$/src/testClasses/TestClass.java</url>
+          <line>484</line>
           <properties />
           <option name="timeStamp" value="195" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/TestClass.java</url>
-          <line>444</line>
+          <url>file://$PROJECT_DIR$/src/testClasses/TestClass.java</url>
+          <line>486</line>
           <properties />
           <option name="timeStamp" value="196" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/TestClass.java</url>
-          <line>445</line>
+          <url>file://$PROJECT_DIR$/src/testClasses/TestClass.java</url>
+          <line>487</line>
           <properties />
           <option name="timeStamp" value="197" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/TestClass.java</url>
-          <line>446</line>
+          <url>file://$PROJECT_DIR$/src/testClasses/TestClass.java</url>
+          <line>488</line>
           <properties />
           <option name="timeStamp" value="198" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/TestClass.java</url>
-          <line>450</line>
+          <url>file://$PROJECT_DIR$/src/testClasses/TestClass.java</url>
+          <line>492</line>
           <properties />
           <option name="timeStamp" value="199" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/TestClass.java</url>
-          <line>452</line>
+          <url>file://$PROJECT_DIR$/src/testClasses/TestClass.java</url>
+          <line>494</line>
           <properties />
           <option name="timeStamp" value="200" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/TestClass.java</url>
-          <line>410</line>
+          <url>file://$PROJECT_DIR$/src/testClasses/TestClass.java</url>
+          <line>452</line>
           <properties />
           <option name="timeStamp" value="201" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/TestClass.java</url>
-          <line>409</line>
+          <url>file://$PROJECT_DIR$/src/testClasses/TestClass.java</url>
+          <line>451</line>
           <properties />
           <option name="timeStamp" value="202" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/TestClass.java</url>
-          <line>408</line>
+          <url>file://$PROJECT_DIR$/src/testClasses/TestClass.java</url>
+          <line>450</line>
           <properties />
           <option name="timeStamp" value="203" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/TestClass.java</url>
-          <line>411</line>
+          <url>file://$PROJECT_DIR$/src/testClasses/TestClass.java</url>
+          <line>453</line>
           <properties />
           <option name="timeStamp" value="205" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/TestClass.java</url>
-          <line>398</line>
+          <url>file://$PROJECT_DIR$/src/testClasses/TestClass.java</url>
+          <line>440</line>
           <properties />
           <option name="timeStamp" value="206" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/TestClass.java</url>
-          <line>403</line>
+          <url>file://$PROJECT_DIR$/src/testClasses/TestClass.java</url>
+          <line>445</line>
           <properties />
           <option name="timeStamp" value="207" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/TestClass.java</url>
-          <line>368</line>
+          <url>file://$PROJECT_DIR$/src/testClasses/TestClass.java</url>
+          <line>410</line>
           <properties />
           <option name="timeStamp" value="208" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/TestClass.java</url>
-          <line>374</line>
+          <url>file://$PROJECT_DIR$/src/testClasses/TestClass.java</url>
+          <line>416</line>
           <properties />
           <option name="timeStamp" value="210" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/TestClass.java</url>
-          <line>383</line>
+          <url>file://$PROJECT_DIR$/src/testClasses/TestClass.java</url>
+          <line>425</line>
           <properties />
           <option name="timeStamp" value="211" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/TestClass.java</url>
-          <line>381</line>
+          <url>file://$PROJECT_DIR$/src/testClasses/TestClass.java</url>
+          <line>423</line>
           <properties />
           <option name="timeStamp" value="212" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/TestClass.java</url>
-          <line>388</line>
+          <url>file://$PROJECT_DIR$/src/testClasses/TestClass.java</url>
+          <line>430</line>
           <properties />
           <option name="timeStamp" value="213" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/TestClass.java</url>
-          <line>384</line>
+          <url>file://$PROJECT_DIR$/src/testClasses/TestClass.java</url>
+          <line>426</line>
           <properties />
           <option name="timeStamp" value="214" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/TestClass.java</url>
-          <line>347</line>
+          <url>file://$PROJECT_DIR$/src/testClasses/TestClass.java</url>
+          <line>389</line>
           <properties />
           <option name="timeStamp" value="215" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/TestClass.java</url>
-          <line>346</line>
+          <url>file://$PROJECT_DIR$/src/testClasses/TestClass.java</url>
+          <line>388</line>
           <properties />
           <option name="timeStamp" value="216" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/TestClass.java</url>
-          <line>350</line>
+          <url>file://$PROJECT_DIR$/src/testClasses/TestClass.java</url>
+          <line>392</line>
           <properties />
           <option name="timeStamp" value="217" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/TestClass.java</url>
-          <line>345</line>
+          <url>file://$PROJECT_DIR$/src/testClasses/TestClass.java</url>
+          <line>387</line>
           <properties />
           <option name="timeStamp" value="218" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/TestClass.java</url>
-          <line>303</line>
+          <url>file://$PROJECT_DIR$/src/testClasses/TestClass.java</url>
+          <line>345</line>
           <properties />
           <option name="timeStamp" value="219" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/TestClass.java</url>
-          <line>304</line>
+          <url>file://$PROJECT_DIR$/src/testClasses/TestClass.java</url>
+          <line>346</line>
           <properties />
           <option name="timeStamp" value="220" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/TestClass.java</url>
-          <line>309</line>
+          <url>file://$PROJECT_DIR$/src/testClasses/TestClass.java</url>
+          <line>351</line>
           <properties />
           <option name="timeStamp" value="221" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/TestClass.java</url>
-          <line>310</line>
+          <url>file://$PROJECT_DIR$/src/testClasses/TestClass.java</url>
+          <line>352</line>
           <properties />
           <option name="timeStamp" value="222" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/TestClass.java</url>
-          <line>315</line>
+          <url>file://$PROJECT_DIR$/src/testClasses/TestClass.java</url>
+          <line>357</line>
           <properties />
           <option name="timeStamp" value="223" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/TestClass.java</url>
-          <line>316</line>
+          <url>file://$PROJECT_DIR$/src/testClasses/TestClass.java</url>
+          <line>358</line>
           <properties />
           <option name="timeStamp" value="224" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/TestClass.java</url>
-          <line>222</line>
+          <url>file://$PROJECT_DIR$/src/testClasses/TestClass.java</url>
+          <line>264</line>
           <properties />
           <option name="timeStamp" value="226" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/TestClass.java</url>
-          <line>228</line>
+          <url>file://$PROJECT_DIR$/src/testClasses/TestClass.java</url>
+          <line>270</line>
           <properties />
           <option name="timeStamp" value="227" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/TestClass.java</url>
-          <line>234</line>
+          <url>file://$PROJECT_DIR$/src/testClasses/TestClass.java</url>
+          <line>276</line>
           <properties />
           <option name="timeStamp" value="228" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/TestClass.java</url>
-          <line>233</line>
+          <url>file://$PROJECT_DIR$/src/testClasses/TestClass.java</url>
+          <line>275</line>
           <properties />
           <option name="timeStamp" value="229" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/TestClass.java</url>
-          <line>227</line>
+          <url>file://$PROJECT_DIR$/src/testClasses/TestClass.java</url>
+          <line>269</line>
           <properties />
           <option name="timeStamp" value="230" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/TestClass.java</url>
-          <line>221</line>
+          <url>file://$PROJECT_DIR$/src/testClasses/TestClass.java</url>
+          <line>263</line>
           <properties />
           <option name="timeStamp" value="232" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/testClasses/TestClass.java</url>
+          <line>110</line>
+          <properties />
+          <option name="timeStamp" value="233" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/testClasses/TestClass.java</url>
+          <line>111</line>
+          <properties />
+          <option name="timeStamp" value="234" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/testClasses/TestClass.java</url>
+          <line>127</line>
+          <properties />
+          <option name="timeStamp" value="237" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/testClasses/test4.java</url>
+          <line>62</line>
+          <properties />
+          <option name="timeStamp" value="239" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/testClasses/test4.java</url>
+          <line>63</line>
+          <properties />
+          <option name="timeStamp" value="240" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/testClasses/test4.java</url>
+          <line>59</line>
+          <properties />
+          <option name="timeStamp" value="241" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/testClasses/test4.java</url>
+          <line>84</line>
+          <properties />
+          <option name="timeStamp" value="242" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/testClasses/test4.java</url>
+          <line>85</line>
+          <properties />
+          <option name="timeStamp" value="243" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/testClasses/test4.java</url>
+          <line>92</line>
+          <properties />
+          <option name="timeStamp" value="245" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/testClasses/test4.java</url>
+          <line>77</line>
+          <properties />
+          <option name="timeStamp" value="246" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/testClasses/test4.java</url>
+          <line>76</line>
+          <properties />
+          <option name="timeStamp" value="247" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/testClasses/test4.java</url>
+          <line>83</line>
+          <properties />
+          <option name="timeStamp" value="248" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/testClasses/test4.java</url>
+          <line>90</line>
+          <properties />
+          <option name="timeStamp" value="249" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/testClasses/test4.java</url>
+          <line>64</line>
+          <properties />
+          <option name="timeStamp" value="250" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/crackingTheCodingInterview/chapter8_DynamicProgAndRecursion/FindSubsets_4.java</url>
+          <line>31</line>
+          <properties />
+          <option name="timeStamp" value="251" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/testClasses/test1.java</url>
+          <line>40</line>
+          <properties />
+          <option name="timeStamp" value="252" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/testClasses/test1.java</url>
+          <line>43</line>
+          <properties />
+          <option name="timeStamp" value="253" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/testClasses/test1.java</url>
+          <line>47</line>
+          <properties />
+          <option name="timeStamp" value="254" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/testClasses/test1.java</url>
+          <line>41</line>
+          <properties />
+          <option name="timeStamp" value="255" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/testClasses/test1.java</url>
+          <line>46</line>
+          <properties />
+          <option name="timeStamp" value="256" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/testClasses/test1.java</url>
+          <line>44</line>
+          <properties />
+          <option name="timeStamp" value="257" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/array/optimization/MoveZeros.java">
+    <entry file="file://$PROJECT_DIR$/src/linkedList/DetectLoop.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="17" lean-forward="true" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+        <state relative-caret-position="-487">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/array/dynamicProgramming/CountWaystoReachNthStair.java">
+    <entry file="file://$PROJECT_DIR$/src/linkedList/LengthOfLoop.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/crackingTheCodingInterview/chapter1_Arrays/CcheckPermutation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/crackingTheCodingInterview/chapter1_Arrays/MatrixRotationInPlace.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="17" column="16" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/crackingTheCodingInterview/chapter1_Arrays/OneAwayEdit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="383">
+          <caret line="63" column="39" selection-start-line="63" selection-start-column="28" selection-end-line="63" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/crackingTheCodingInterview/chapter1_Arrays/ReplaceSpaces.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/crackingTheCodingInterview/chapter1_Arrays/StringCompression.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/crackingTheCodingInterview/chapter1_Arrays/ValidateStringRotaion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/crackingTheCodingInterview/chapter1_Arrays/ValidateUniqueCharInString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-190">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/crackingTheCodingInterview/chapter1_Arrays/ZeroMatrix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-131">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/crackingTheCodingInterview/chapter2_LinkedList/AddLinkListStraight_5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-236">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/crackingTheCodingInterview/chapter2_LinkedList/CheckLinkListPallindrome.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/crackingTheCodingInterview/chapter2_LinkedList/DeleteMiddleNode_3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/crackingTheCodingInterview/chapter2_LinkedList/FindIntersection_7.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/crackingTheCodingInterview/chapter2_LinkedList/FindKthLastElementInLinkedList_2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/crackingTheCodingInterview/chapter2_LinkedList/LinkListPartition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/crackingTheCodingInterview/chapter2_LinkedList/LoopDetection_8.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="445">
+          <caret line="53" column="9" lean-forward="true" selection-start-line="53" selection-start-column="9" selection-end-line="53" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/crackingTheCodingInterview/chapter2_LinkedList/RemoveDuplicateUnsortedList_1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/crackingTheCodingInterview/chapter3_StacksAndQueues/QueueUsingStacks.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/crackingTheCodingInterview/chapter3_StacksAndQueues/SortStack.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/crackingTheCodingInterview/chapter8_DynamicProgAndRecursion/PaintFill_10.java">
+    <entry file="file://$PROJECT_DIR$/src/crackingTheCodingInterview/chapter4_TreeAndGraphs/BSTSequence_9.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-195">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/crackingTheCodingInterview/chapter4_TreeAndGraphs/BuildOrder_7.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/crackingTheCodingInterview/chapter10_SortingAndSearching/GroupAnagram_2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
           <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/crackingTheCodingInterview/chapter10_SortingAndSearching/Merge2SortedArrayIntoOne_1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-70">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/crackingTheCodingInterview/chapter10_SortingAndSearching/PeaksAndValleys_11.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-127">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/crackingTheCodingInterview/chapter10_SortingAndSearching/SearchInRotatedArray_3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/crackingTheCodingInterview/chapter10_SortingAndSearching/SortedMatrixSearch_9.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/crackingTheCodingInterview/chapter10_SortingAndSearching/SortedSearchNoSize_4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/crackingTheCodingInterview/chapter10_SortingAndSearching/SparseSearch_5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/crackingTheCodingInterview/chapter16_MediumLevelPrograms/ContiguousSubSequenceLargestSum_17.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/crackingTheCodingInterview/chapter16_MediumLevelPrograms/Intersection_3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/crackingTheCodingInterview/chapter16_MediumLevelPrograms/NumberSwapper_1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/crackingTheCodingInterview/chapter16_MediumLevelPrograms/PairsWithSumInArray_24.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/crackingTheCodingInterview/chapter16_MediumLevelPrograms/PondSizes_19.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/crackingTheCodingInterview/chapter16_MediumLevelPrograms/SmallestDiffPair_6.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/crackingTheCodingInterview/chapter3_StacksAndQueues/StackMinInO1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/crackingTheCodingInterview/chapter3_StacksAndQueues/ArrayToThreeStacks.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="51" column="26" selection-start-line="51" selection-start-column="8" selection-end-line="51" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/crackingTheCodingInterview/chapter8_DynamicProgAndRecursion/TowerOfHanoi_6.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/amazon/AllStringPermutations.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-225">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/crackingTheCodingInterview/chapter8_DynamicProgAndRecursion/ParenthesisPairs_9.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
+        <state relative-caret-position="81">
           <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/array/optimization/MaxDistance.java">
+    <entry file="file://$PROJECT_DIR$/src/crackingTheCodingInterview/chapter8_DynamicProgAndRecursion/PaintFill_10.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/array/dynamicProgramming/MaxMatrixSizeWith1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="29" lean-forward="true" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/stack/QueueUsingStack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="26" column="39" lean-forward="true" selection-start-line="26" selection-start-column="39" selection-end-line="26" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/stack/StackUsingQueueDeque.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/stack/StackUsingSingleQueue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/src.zip!/java/util/DualPivotQuicksort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-90">
-          <caret line="106" column="16" selection-start-line="106" selection-start-column="16" selection-end-line="106" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/src.zip!/java/util/Arrays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="143" column="29" lean-forward="true" selection-start-line="143" selection-start-column="29" selection-end-line="143" selection-end-column="29" />
-          <folding>
-            <element signature="e#5027#5028#0" expanded="true" />
-            <element signature="e#5098#5099#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/search.java" />
-    <entry file="file://$PROJECT_DIR$/src/array/BinarySearchElement.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" selection-start-line="27" selection-end-line="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/array/dynamicProgramming/CountPathinMatrix.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-27">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/crackingTheCodingInterview/chapter4_TreeAndGraphs/CheckSubtree_10.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="412">
-          <caret line="53" column="5" selection-start-line="53" selection-start-column="5" selection-end-line="53" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/search/SearchFloorCeil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="663">
-          <caret line="64" selection-start-line="64" selection-end-line="64" />
+        <state relative-caret-position="266">
+          <caret line="43" column="46" selection-start-line="43" selection-start-column="46" selection-end-line="43" selection-end-column="46" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/LinkedList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-761">
-          <caret line="20" column="9" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/crackingTheCodingInterview/chapter2_LinkedList/LoopDetection_8.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="50" column="26" lean-forward="true" selection-start-line="50" selection-start-column="26" selection-end-line="50" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/linkedList/circularLinkedList/CLLTraversal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-362">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        <state relative-caret-position="-157">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/stack/StackMainPushPop.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-134">
+        <state relative-caret-position="30">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/linkedList/LinkedList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        <state relative-caret-position="405">
+          <caret line="30" column="5" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/General/TrapWaterSum.java">
+    <entry file="file://$PROJECT_DIR$/src/crackingTheCodingInterview/chapter8_DynamicProgAndRecursion/FindSubsets_4.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+        <state relative-caret-position="229">
+          <caret line="25" column="25" selection-start-line="25" selection-start-column="25" selection-end-line="25" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/StackClass.java">
+    <entry file="file://$PROJECT_DIR$/src/crackingTheCodingInterview/chapter8_DynamicProgAndRecursion/PermutationWithDuplicates_8.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-221">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        <state relative-caret-position="259">
+          <caret line="21" column="34" selection-start-line="21" selection-start-column="34" selection-end-line="21" selection-end-column="34" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/linkedList/Reverse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-833">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/crackingTheCodingInterview/chapter4_TreeAndGraphs/CountPathForSum_12.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="810">
-          <caret line="54" column="5" selection-start-line="54" selection-start-column="5" selection-end-line="54" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/array/optimization/MinDistance.java">
+    <entry file="file://$PROJECT_DIR$/src/crackingTheCodingInterview/chapter8_DynamicProgAndRecursion/PermutationUniqueCharString_7.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
-          <caret line="24" column="17" selection-start-line="24" selection-start-column="17" selection-end-line="24" selection-end-column="17" />
+          <caret line="24" column="48" selection-start-line="24" selection-start-column="48" selection-end-line="24" selection-end-column="48" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/array/optimization/RearrangeArray.java">
+    <entry file="file://$PROJECT_DIR$/src/testClasses/testnew1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/array/FindMissingPositiveUnsorted.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="413">
-          <caret line="43" column="5" selection-start-line="21" selection-start-column="3" selection-end-line="43" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/array/FindMissingPositiveSorted.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/crackingTheCodingInterview/chapter4_TreeAndGraphs/ValidateBst_5.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="29" column="44" selection-start-line="29" selection-start-column="44" selection-end-line="29" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/tree/BinaryTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="353">
-          <caret line="90" selection-start-line="90" selection-end-line="90" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="975">
-          <caret line="65" column="24" selection-start-line="65" selection-start-column="24" selection-end-line="65" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ProgramPrac.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/tree/SumTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
-          <caret line="150" selection-start-line="150" selection-end-line="150" />
+        <state relative-caret-position="543">
+          <caret line="43" column="38" selection-start-line="43" selection-start-column="38" selection-end-line="43" selection-end-column="38" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/amazon/AllStringPermutations.java">
+    <entry file="file://$PROJECT_DIR$/src/testClasses/TestClass.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="13" column="22" lean-forward="true" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
+        <state relative-caret-position="-1624">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/array/dynamicProgramming/LongestPallindromSubstring.java">
+    <entry file="file://$PROJECT_DIR$/src/testClasses/test4.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
-          <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithm/GreedyJobSequencing.java">
+    <entry file="file://$PROJECT_DIR$/src/testClasses/test1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="51" column="5" selection-start-line="51" selection-start-column="5" selection-end-line="51" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/array/dynamicProgramming/EditDistance.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="13" column="20" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithm/MaxHeapImplementation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="651">
-          <caret line="60" column="5" lean-forward="true" selection-start-line="60" selection-start-column="5" selection-end-line="60" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/array/FileReader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/FileParsing.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/TestClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1494">
-          <caret line="204" selection-start-line="204" selection-end-line="204" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/array/FindKMostFrequentNumber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sorting/SortByfrequency.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="343">
-          <caret line="50" column="19" selection-start-line="50" selection-start-column="19" selection-end-line="50" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/array/FindSubarrayWithLeastAvg.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="37" selection-start-line="21" selection-start-column="37" selection-end-line="21" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/bitManipulation/CountSetBits.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/array/dynamicProgramming/LongestCommonContinuousSubstring.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/array/dynamicProgramming/LongestCommonSubsequence.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="14" column="37" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/array/dynamicProgramming/LongestIncreasingSubsequence.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/array/dynamicProgramming/MinJumpsToReachEnd.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-19">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithm/GreedyActivitySelection.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-359">
-          <caret line="24" column="5" lean-forward="true" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+        <state relative-caret-position="420">
+          <caret line="28" column="37" selection-start-line="28" selection-start-column="37" selection-end-line="28" selection-end-column="37" />
         </state>
       </provider>
     </entry>

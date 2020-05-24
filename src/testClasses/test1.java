@@ -1,3 +1,5 @@
+package testClasses;
+
 public class test1 {
 
     public static void main(String[] args) {
@@ -17,9 +19,43 @@ public class test1 {
 //        factorial();
 
 //        MajorityElement majorelement = new MajorityElement();
-        int a[] = new int[]{1, 1, 2, 3, 1};
-        int size = a.length;
-        printMajority(a, size);
+//        int a[] = new int[]{1, 1, 2, 3, 1};
+//        int size = a.length;
+//        printMajority(a, size);
+
+//        String s11="abc", s22="abc";
+//        System.out.println(s11==s22);
+//        System.out.println(s11.equals(s22));
+//        String s0=new String("ss");
+//        String s1=new String("ss");
+//        System.out.println(s0==s1);
+//        System.out.println(s0.equals(s1));
+//        int n='%';
+        System.out.println(amountofwater(   3,2,4));
+        String t;
+
+    }
+
+    static float amountofwater(int row, int glass, int water){
+
+        int sum=row*(row+1)/2;
+        if(water>sum)
+            return 1;
+        sum= sum-(row);
+        if(water<sum)
+            return 0;
+        water=water-sum;
+        return (float)water/(float)row;
+    }
+
+
+    static int trailingzeroes(int n){
+
+        int count=0;
+        while(n>=5){
+            count+=n/5;
+            n=n/5;}
+        return count;
 
     }
 

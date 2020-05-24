@@ -15,7 +15,7 @@ http://www.goodtecher.com/leetcode-78-subsets-java/
 public class FindSubsets_4 {
 
     public static void main(String[] args) {
-        int arr[]={1,2,2    };
+        int arr[]={1,2 ,3,4,2   };
         List<List<Integer>> list= listfindPowerSet(arr);
         System.out.println(list);
     }
@@ -23,18 +23,19 @@ public class FindSubsets_4 {
     static List<List<Integer>> listfindPowerSet(int[] arr){
         List<List<Integer>> list= new LinkedList<>();
         List<Integer> subsetList=new LinkedList<>();
-//        Arrays.sort(arr);
-        findSubSet(list,subsetList,arr,0);
+        Arrays.sort(arr);
+        findSubSet(list,subsetList,arr,0,2);
         return list;
     }
 
-    static void findSubSet(List<List<Integer>> list,List<Integer> subsetList,int arr[],int start){
-        list.add(subsetList);
+    static void findSubSet(List<List<Integer>> list,List<Integer> subsetList,int arr[],int start,int k){
+        if(subsetList.size()==k)
+            list.add(subsetList);
         for(int i=start;i<arr.length;i++){
             if(i>start && arr[i]==arr[i-1])
                 continue;
             subsetList.add(arr[i]);
-            findSubSet(list,new ArrayList<>(subsetList),arr,i+1);
+            findSubSet(list,new ArrayList<>(subsetList),arr,i+1,k);
             //using backtracking here:
             subsetList.remove(subsetList.size()-1);
         }
